@@ -14,7 +14,7 @@ La loi générale que l'on formule doit être vérfiée pour chacun des évènem
 
 *Extrait de “[Le raisonnement en sciences de l’ingénieur”, JL Prensier, T. Zenard, 2006, ENS Cachan](https://eduscol.education.fr/sti/sites/eduscol.education.fr.sti/files/ressources/pedagogiques/6217/6217-le-raisonnement-en-sciences-de-lingenieur-ens.pdf)"*
 
-### Quelle est l’utilité de la démarche inductive dans le domaine académique ?
+#### Quelle est l’utilité de la démarche inductive dans le domaine académique ?
 
 La démarche inductive est utile lorsque vous étudiez un sujet ou un phénomène connu. La démarche inductive permet aussi de :
 
@@ -24,7 +24,7 @@ La démarche inductive est utile lorsque vous étudiez un sujet ou un phénomèn
 - donner une explication à des effets observés ;
 - Etablir une conclusion apportant des explications scientifiques sur le sujet ou sur le phénomène étudié.
 
-### Mener une démarche inductive en 4 étapes
+#### Mener une démarche inductive en 4 étapes
 
 La méthodologie de la démarche inductive se décompose en 4 étapes.
 
@@ -138,7 +138,7 @@ La confirmation ou la non-confirmation des hypothèses de travail doit permettre
 > “La déduction sert aux économistes comme elle sert aux astronomes, aux physiciens, etc.
  D’un certain principe A, on déduit les conséquences B, C, D etc. ; celles-ci se trouvent vérifiées par l’observation ou par l’expérience, et c’est cette vérification qui rend probable A ; ce n’est pas le moins du monde A qui prouve B, C, D”. (Vilfred, 1984).
 
-### Exemples
+#### Exemples
 
 - Socrate est un homme, or tout homme est mortel, donc Socrate est mortel.
 - Le saumon est un poisson, or tout poisson vit dans l’eau, donc le saumon vit dans l’eau.
