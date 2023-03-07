@@ -17,6 +17,8 @@ On peut distinguer les biais coginitifs en plusieurs catégories:
 
 Il est important de noter que ces catégories ne sont pas **exclusives**.
 
+--- 
+
 ### Les biais de perception
 
 Les biais de perception sont des tendances à interpréter ou à attribuer des significations à des informations.
@@ -37,6 +39,8 @@ L’effet de primauté est un biais cognitifs qui se produit lorsque les premiè
 Par exemple, Si on rencontre quelqu’un qui se présente comme médecin, on aura tendance à la percevoir plus intelligente et compétente que si elle s’était présentée comme étant d’un autre domaine. 
 
 </div>
+
+---
 
 ### Les biais de mémoire
 
@@ -63,6 +67,8 @@ Source: [https://www.cairn.info/revue-le-coq-heron-2010-3-page-94.htm](https://w
 
 </div>
 
+---
+
 ### Les biais sociaux
 
 Les `biais sociaux` sont des tendances à interpréter ou à attribuer des significations à des informations en fonction de nos préférences, de nos croyances ou de nos expériences personnelles.
@@ -82,6 +88,8 @@ Le `biais d'autorité` est un biais cognitif qui se produit lorsque nous avons t
 Par exemple, si un professeur vous donne un cours sur un sujet, vous pourriez être plus enclins à croire ce qu'il dit sans remise en question. 
 
 </div>
+
+---
 
 ### Les biais de raisonnement
 
@@ -103,6 +111,8 @@ Par exemple, un joueur de casino peut avoir l’illusion de contrôle en pensant
 
 </div>
 
+---
+
 ## Les biais dans le contexte du développement durable
 
 Dans le contexte du développement durable, il existe plusieurs biais cognitifs qui peuvent influencer les décisions et les comportements humains.
@@ -117,3 +127,5 @@ Nous allons étudier les biais cognitifs suivants:
 - L’effet de récence
 
 Il est important de noter que cette liste est non-exhaustive. Une liste plus importante des biais pourra être trouvé ici (mettre le lien).
+
+#### Le biais de confirmation
