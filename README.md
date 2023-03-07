@@ -7,7 +7,7 @@
 
 Cet objectif sera décliné sous forme de 3 ateliers d'une durée moyenne de 2h40 chacun
 
-#### Atelier 1: Les méthodes scientifiques
+#### [Atelier 1: Les méthodes scientifiques](Atelier1.md)
 
 Sensibiliser les étudiants aux différents types de démarches et méthodes de raisonnement à travers des exemples et activités simples.
 
@@ -35,4 +35,3 @@ Les objectifs de ce travail sont multiples:
 
 - Communiquer à l'écrit et à l’oral sous forme d’un poster
 
-## Atelier 1: Les méthodes scientifiques
