@@ -123,6 +123,8 @@ Si le nombre de morts est passé de plus de 10 000 personnes en 1990 à environ 
 
 La démarche déductive s’avère utile pour mener un travail de recherche ou une enquête.
 
+---
+
 ## La démarche déductive
 
 La `méthode déductive`, aussi appelée `déduction logique` est une méthode de travail scientifique. Elle a pour but d’expliquer un phénomène en partant d’un sujet ou d’une hypothèse sur un phénomène. On ne part donc pas de faits observables (méthode inductive).
@@ -144,6 +146,8 @@ La confirmation ou la non-confirmation des hypothèses de travail doit permettre
 - Le saumon est un poisson, or tout poisson vit dans l’eau, donc le saumon vit dans l’eau.
 - La terre est un astre du système solaire, or tout astre du système solaire tourne autour du soleil, donc la terre tourne autour du soleil.
 
+---
+
 ## La démarche abductive
 
 Un `raisonnement par abduction`consiste, en observant un ou plusieurs faits `A1`, `A2`, `A3`, etc; dont on connaît une cause possible et la plus vraisemblable `B`, à prendre `B` comme hypothèse pour affirmer qu'elle est probablement la cause de `A1`, `A2`, `A3`, etc. en particulier.
@@ -157,4 +161,20 @@ Un `raisonnement par abduction`consiste, en observant un ou plusieurs faits `A1`
 On peut simplement dire qu'il pleut **probablement** par abduction.
 
 </div>
+
+---
+
+## Résumé
+
+La démarche inductive est une méthode de travail scientifique qui consiste à partir de faits observables pour en déduire une hypothèse.
+
+La démarche déductive est une méthode de travail scientifique qui consiste à partir d’une hypothèse pour en déduire des faits observables.
+
+La démarche abductive est une méthode de travail scientifique qui consiste à déterminer la cause d’un phénomène à partir de lois générales.
+
+| Induction        | Déduction         | Abduction |
+|:-------------|:------------------|:------|
+| Trouver une loi par généralisation d'observations / de corrélations particulières          | Déduire d'une conclusion à partir d’une loi/proposition considérée comme vraie| Poser la plausibilité d’une hypothèse à partir d’une loi / de constats |
+| Socrate est un homme; Socrate est mortel; **Tous les hommes sont mortels** | Socrate est un homme; Tous les hommes sont mortels; **Socrate est mortel** | Tous les hommes sont mortels; Socrate est mortel; **Socrate est (plausiblement) un homme** |
+
 
