@@ -30,15 +30,24 @@ Les biais de perception sont des tendances à interpréter ou à attribuer des s
 
 L'effet de halo est un biais cognitif qui consiste à attribuer une qualité à un objet ou une personne en fonction d'une seule caractéristique positive.
 
+</div>
+
+<div class="exemple_atelier">
+
 Par exemple, si vous avez un professeur qui est très gentil, vous pourriez penser qu'il est également très intelligent.
 
 </div>
+
 
 <div class="effet_atelier">
 
 #### Effet de primauté
 
 L’effet de primauté est un biais cognitifs qui se produit lorsque les premières informations que nous recevons sur une personne, un objet ou une situation ont une influence disproportionnée sur notre perception et notre évaluation ultérieure.
+
+</div>
+
+<div class="exemple_atelier">
 
 Par exemple, Si on rencontre quelqu’un qui se présente comme médecin, on aura tendance à la percevoir plus intelligente et compétente que si elle s’était présentée comme étant d’un autre domaine. 
 
@@ -70,6 +79,9 @@ Par exemple, si une publicité suggère que l’achat d’un produit nous rendra
 
 `L’effet de familiarité` est un biais cognitif qui se produit lorsque nous avons tendance à préférer les choses familières par rapport aux choses nouvelles ou inconnues.
 
+</div>
+
+<div class="exemple_atelier">
 
 Par exemple, l’effet de la préférence familière.
 
@@ -91,11 +103,23 @@ Les `biais sociaux` sont des tendances à interpréter ou à attribuer des signi
 
 Le `biais de stéréotypage` est un biais cognitif qui se produit lorsque nous avons tendance à attribuer des caractéristiques à une personne ou à un groupe de personnes en fonction de leur appartenance à un groupe social. Les stéréotypes sont souvent le résultat d'une simplification excessive de la réalité.
 
+</div>
+
+<div class="exemple_atelier">
+
 Par exemple, si vous avez une mauvaise expérience avec un homme, vous pourriez penser que tous les hommes sont mauvais.
+
+</div>
+
+<div class="effet_atelier">
 
 #### Biais d'autorité
 
 Le `biais d'autorité` est un biais cognitif qui se produit lorsque nous avons tendance à croire les informations provenant d'une personne ou d'une organisation qui est perçue comme étant plus compétente ou plus crédible que nous.
+
+</div>
+
+<div class="exemple_atelier">
 
 Par exemple, si un professeur vous donne un cours sur un sujet, vous pourriez être plus enclins à croire ce qu'il dit sans remise en question. 
 
@@ -113,11 +137,23 @@ Les `biais de raisonnement` sont des tendances à traiter l’information de man
 
 `L’effet de pensée de groupe` est un biais cognitif qui se produit lorsqu’un groupe de personnes prend des décisions ou formule des opinions de manière homogène, en accordant plus d’importance à la cohésion du groupe et à la conformité sociale qu’à l’analyse critique des informations disponibles.
 
+</div>
+
+<div class="exemple_atelier">
+
 Par exemple, si vous êtes dans un groupe de personnes qui pensent que le monde est plat, vous pourriez être plus enclins à penser que le monde est plat.
+
+</div>
+
+<div class="effet_atelier">
 
 #### L'effet d'illusion de contrôle
 
 `L’illusion de contrôle` est un biais cognitif qui se produit lorsque nous surestimons notre capacité à contrôler les évènements ou les résultats, même lorsque les facteurs qui les déterminent sont en grande partie hors de notre contrôle.
+
+</div>
+
+<div class="exemple_atelier">
 
 Par exemple, un joueur de casino peut avoir l’illusion de contrôle en pensant qu’il peut influencer le résultat d’un jeu de hasard par sa stratégie ou sa chance personnelle.
 
