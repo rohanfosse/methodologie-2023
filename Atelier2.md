@@ -56,7 +56,15 @@ Les `biais de mémoire` sont des tendances à se rappeler ou à oublier des info
 
 `L’effet de suggestion` est un **biais cognitif** qui se produit lorsque les suggestions, les préférences ou les attentes d’une personne influencent la perception ou le comportement d’une autre personne.
 
+</div>
+
+<div class="exemple_atelier">
+
 Par exemple, si une publicité suggère que l’achat d’un produit nous rendra plus heureux, nous pouvons être plus enclins à acheter le produit (même ci ce n’est pas toujours vrai).
+
+</div>
+
+<div class="effet_atelier">
 
 #### Effet de familiarité
 
