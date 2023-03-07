@@ -23,7 +23,7 @@ Il est important de noter que ces catégories ne sont pas **exclusives**.
 
 Les biais de perception sont des tendances à interpréter ou à attribuer des significations à des informations.
 
-<div class="exemple_atelier">
+<div class="effet_atelier">
 
 
 #### Effet de Halo
@@ -46,7 +46,7 @@ Par exemple, Si on rencontre quelqu’un qui se présente comme médecin, on aur
 
 Les `biais de mémoire` sont des tendances à se rappeler ou à oublier des informations de manière sélective.
 
-<div class="exemple_atelier">
+<div class="effet_atelier">
 
 #### Effet de suggestion
 
@@ -73,7 +73,7 @@ Source: [https://www.cairn.info/revue-le-coq-heron-2010-3-page-94.htm](https://w
 
 Les `biais sociaux` sont des tendances à interpréter ou à attribuer des significations à des informations en fonction de nos préférences, de nos croyances ou de nos expériences personnelles.
 
-<div class="exemple_atelier">
+<div class="effet_atelier">
 
 #### Biais de stéréotypage
 
@@ -95,7 +95,7 @@ Par exemple, si un professeur vous donne un cours sur un sujet, vous pourriez ê
 
 Les `biais de raisonnement` sont des tendances à traiter l’information de manière erronée ou à tirer des conclusions incorrectes.
 
-<div class="exemple_atelier">
+<div class="effet_atelier">
 
 #### L'effet de pensée de groupe
 
