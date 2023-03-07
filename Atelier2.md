@@ -57,13 +57,13 @@ Par exemple, Si on rencontre quelqu’un qui se présente comme médecin, on aur
 
 ### Les biais de mémoire
 
-Les `biais de mémoire` sont des tendances à se rappeler ou à oublier des informations de manière sélective.
+Les **biais de mémoire** sont des tendances à se rappeler ou à oublier des informations de manière sélective.
 
 <div class="effet_atelier">
 
 #### Effet de suggestion
 
-`L’effet de suggestion` est un **biais cognitif** qui se produit lorsque les suggestions, les préférences ou les attentes d’une personne influencent la perception ou le comportement d’une autre personne.
+**L’effet de suggestion** est un **biais cognitif** qui se produit lorsque les suggestions, les préférences ou les attentes d’une personne influencent la perception ou le comportement d’une autre personne.
 
 </div>
 
@@ -77,7 +77,7 @@ Par exemple, si une publicité suggère que l’achat d’un produit nous rendra
 
 #### Effet de familiarité
 
-`L’effet de familiarité` est un biais cognitif qui se produit lorsque nous avons tendance à préférer les choses familières par rapport aux choses nouvelles ou inconnues.
+**L’effet de familiarité** est un biais cognitif qui se produit lorsque nous avons tendance à préférer les choses familières par rapport aux choses nouvelles ou inconnues.
 
 </div>
 
@@ -101,7 +101,7 @@ Les `biais sociaux` sont des tendances à interpréter ou à attribuer des signi
 
 #### Biais de stéréotypage
 
-Le `biais de stéréotypage` est un biais cognitif qui se produit lorsque nous avons tendance à attribuer des caractéristiques à une personne ou à un groupe de personnes en fonction de leur appartenance à un groupe social. Les stéréotypes sont souvent le résultat d'une simplification excessive de la réalité.
+Le **biais de stéréotypage** est un biais cognitif qui se produit lorsque nous avons tendance à attribuer des caractéristiques à une personne ou à un groupe de personnes en fonction de leur appartenance à un groupe social. Les stéréotypes sont souvent le résultat d'une simplification excessive de la réalité.
 
 </div>
 
@@ -115,7 +115,7 @@ Par exemple, si vous avez une mauvaise expérience avec un homme, vous pourriez 
 
 #### Biais d'autorité
 
-Le `biais d'autorité` est un biais cognitif qui se produit lorsque nous avons tendance à croire les informations provenant d'une personne ou d'une organisation qui est perçue comme étant plus compétente ou plus crédible que nous.
+Le **biais d'autorité** est un biais cognitif qui se produit lorsque nous avons tendance à croire les informations provenant d'une personne ou d'une organisation qui est perçue comme étant plus compétente ou plus crédible que nous.
 
 </div>
 
@@ -129,13 +129,13 @@ Par exemple, si un professeur vous donne un cours sur un sujet, vous pourriez ê
 
 ### Les biais de raisonnement
 
-Les `biais de raisonnement` sont des tendances à traiter l’information de manière erronée ou à tirer des conclusions incorrectes.
+Les **biais de raisonnement** sont des tendances à traiter l’information de manière erronée ou à tirer des conclusions incorrectes.
 
 <div class="effet_atelier">
 
 #### L'effet de pensée de groupe
 
-`L’effet de pensée de groupe` est un biais cognitif qui se produit lorsqu’un groupe de personnes prend des décisions ou formule des opinions de manière homogène, en accordant plus d’importance à la cohésion du groupe et à la conformité sociale qu’à l’analyse critique des informations disponibles.
+**L’effet de pensée de groupe** est un biais cognitif qui se produit lorsqu’un groupe de personnes prend des décisions ou formule des opinions de manière homogène, en accordant plus d’importance à la cohésion du groupe et à la conformité sociale qu’à l’analyse critique des informations disponibles.
 
 </div>
 
@@ -176,4 +176,116 @@ Nous allons étudier les biais cognitifs suivants:
 
 Il est important de noter que cette liste est non-exhaustive. Une liste plus importante des biais pourra être trouvé ici (mettre le lien).
 
+<div class="effet_atelier">
 #### Le biais de confirmation
+
+Tendance à rechercher des informations qui confirment les croyances existantes plutôt que de rechercher des preuves qui les contredisent. 
+
+</div>
+
+<div class="exemple_atelier">
+
+Exemple:
+Rejeter les preuves du changement climatique parce qu’elles ne correspondent pas à la croyance que le climat est stable.
+
+</div>
+
+<div class="effet_atelier">
+#### L’effet de déni
+
+Tendance à nier ou minimiser l’importance de l’impact environnemental des actions individuelles ou collectives.
+
+</div>
+
+<div class="exemple_atelier">
+
+Exemple:
+Ignorer l’impact environnemental de l’achat de produits jetables ou des voyages en avion.
+
+</div>
+
+<div class="effet_atelier">
+
+#### Le biais d’ancrage
+
+Tendance à s’appuyer sur des informations initiales pour prendre des décisions, plutôt que de rechercher des preuves supplémentaires.
+
+</div>
+
+<div class="exemple_atelier">
+
+Exemple:
+Fixer des objectifs de réduction des émissions de gaz à effet de serre sans tenir compte des preuves scientifiques actuelles sur les niveaux de réduction nécessaires pour limiter le changement climatique.
+
+</div>
+
+<div class="effet_atelier">
+
+#### Le biais d’optimisme
+
+Tendance à surestimer la probabilité d’obtenir des résultats positifs et à sous-estimer les risques.
+
+</div>
+
+<div class="exemple_atelier">
+
+Exemple:
+Supposer que les technologies de capture et de stockage du carbone seront déployées à grande échelle sans tenir compte des obstacles technologiques et économiques.
+
+</div>
+
+<div class="effet_atelier">
+
+#### Le biais de statu quo
+
+Tendance à préférer le statu quo plutôt que de considérer des alternatives potentiellement meilleures.
+
+</div>
+
+<div class="exemple_atelier">
+
+Exemple:
+Refuser de considérer des politiques environnementales plus ambitieuses parce qu’elles impliquent des changement importants dans les comportements individuels ou les systèmes économiques.
+
+</div>
+
+<div class="effet_atelier">
+
+#### L’effet de récence
+
+Tendance à accorder plus d’importance aux événements ou aux informations les plus récents, plutôt qu’à ceux qui se sont produits dans le passé.
+
+</div>
+
+<div class="exemple_atelier">
+
+Exemple:
+Focaliser sur des évènements météorologiques extrêmes récents (une semaine de neige par exemple) plutôt que sur les modèles de changement climatique à long terme.
+
+</div>
+
+## Comment lutter contre ses biais cognitifs?
+
+#### Prendre conscience des biais cognitifs
+
+La première étape pour lutter contre les biais cognitifs est de les reconnaître et de les comprendre. En prenant conscience des biais qui peuvent influencer nos pensées et nos décisions, nous pouvons être plus conscients de nos réactions et être plus ouverts aux différentes perspectives.
+
+#### Collecter des données fiables
+
+L'utilisation de données fiables provenant de sources crédibles peut aider à éviter les biais de confirmation et de fausse abondance. Il est important d'obtenir des données de différentes sources et de les examiner de manière critique avant de prendre une décision.
+
+#### Adopter une perspective à long terme
+
+Il est important de prendre en compte les conséquences à long terme lors de la prise de décisions en matière d'environnement et de développement durable. Cela peut aider à éviter les biais de planification et de récence.
+
+#### Encourager la diversité
+
+L'écoute de différentes perspectives peut aider à éviter les biais de pensée de groupe et de stéréotypage. Encourager la participation de personnes de différents horizons et perspectives peut aider à réduire les biais dans les décisions.
+
+#### Mettre en place des systèmes de réglementation et des politiques
+
+La mise en place de politiques et de réglementations peut aider à lutter contre les biais de l'effet de suggestion et de l'illusion de contrôle en garantissant que les actions sont basées sur des critères objectifs.
+
+#### Adopter une approche critique
+
+Il est important d'adopter une approche critique à l'égard des informations et des arguments, même si cela remet en question nos propres croyances ou opinions. Cela peut aider à éviter les biais de confirmation et de rationalisation.
