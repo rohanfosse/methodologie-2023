@@ -56,24 +56,79 @@ La conclusion d’un raisonnement est supposée fausse car le raisonnement qui m
 ## Arguments fallacieux informels
 
 Cette catégorie regroupe les arguments informels visant à convaincre ou persuader son auditoire via une utilisation erronée ou malhonnête du contenu ou du contexte des faits. En voici une liste non-exhaustive :
-Argument Ad hominem : attaquer l’opposant lui-même plutôt que son argument.
- Exemples: L’accuser de soutenir une position pour des raisons intéressées, discréditer ou ridiculiser l’opposant plutôt que de s’attaquer à son argument
-Argument d’autorité : invoquer une autorité non-pertinente.
-Exemple: Citer l’avis d’Albert Einstein (expert en physique) dans un débat sur la religion.
-Appel aux émotions : solliciter ou manipuler les émotions de l’auditoire.
- Exemples: faire peur ou flatter son auditoire, utiliser un vocabulaire chargé ou insultant (“la gauche radicale”, “la religion écologiste”, “les agissements du GIEC”...).
-Appel à la nature / à la tradition : Une chose est bonne car elle est naturelle / ancienne.
+
+### Argument Ad hominem
+
+Attaquer l’opposant lui-même plutôt que son argument.
+
+<div class="exemple_atelier">
+Exemples: L’accuser de soutenir une position pour des raisons intéressées, discréditer ou ridiculiser l’opposant plutôt que de s’attaquer à son argument
+</div>
+
+### Appel aux émotions 
+
+Solliciter ou manipuler les émotions de son auditoire pour les convaincre. 
+
+<div class="exemple_atelier">
+
+Exemples: faire peur ou flatter son auditoire, utiliser un vocabulaire chargé ou insultant (“la gauche radicale”, “la religion écologiste”, “les agissements du GIEC”...).
+
+</div>
+
+### Appel à la nature / à la tradition
+
+Une chose est bonne car elle est naturelle / ancienne.
+
+<div class="exemple_atelier">
+
 Exemple: huiles essentielles, utilisation de la couleur verte en marketing / “Depuis 1850”.
-Homme de paille : Caricaturer ou mal reformuler l’argument de l’opposant pour y répondre plus facilement.
- Exemple: Pour vous les animaux auraient donc la même valeur que les humains ?
-Appel à l’ignorance : Une proposition est vraie si elle n’a pas été (ou ne peut pas être) réfutée.
-Exemple: “La science ne peut pas prouver que Dieu n’existe pas / que les extraterrestres ne visitent pas la Terre.”
- (C’est un exemple de renversement de la charge de la preuve, exiger de son opposant qu’il prouve que ce que l’on affirme sans preuve est faux.)
-Confusion entre corrélation et causalité : Le fait que deux variables soient corrélées n’implique pas que l’une est la cause de l’autre.
+
+</div>
+
+### Homme de paille 
+
+Caricaturer ou mal reformuler l’argument de l’opposant pour y répondre plus facilement.
+
+<div class="exemple_atelier">
+Exemple: Pour vous les animaux auraient donc la même valeur que les humains ?
+</div>
+
+### Appel à l’ignorance
+
+Une proposition est vraie si elle n’a pas été (ou ne peut pas être) réfutée.
+
+<div class="exemple_atelier">
+Exemple: “La science ne peut pas prouver que Dieu n’existe pas / que les extraterrestres ne visitent pas la Terre.” (C’est un exemple de renversement de la charge de la preuve, exiger de son opposant qu’il prouve que ce que l’on affirme sans preuve est faux.)
+</div>
+
+### Confusion entre corrélation et causalité
+
+Le fait que deux variables soient corrélées n’implique pas que l’une est la cause de l’autre.
+
+<div class="exemple_atelier">
 Exemple: Il existe une corrélation entre la vente de crème glacée et le nombre de morts par noyade. En réalité, ces deux phénomènes sont causés par une météo favorable.
-Cherry-picking : Sélectionner les données que l’on présente, ignorer celles qui contredisent notre thèse.
-Variante: Biais du survivant : étudier uniquement les succès (rares), en ignorant les échecs (nombreux).
-Généralisation abusive : Une loi générale issue d’un raisonnement par induction basé sur un échantillon trop petit ou non-représentatif du cas général.
-Fausse dichotomie : Présenter deux solutions à un problème comme étant les deux seules possibles, lorsqu’il peut y en avoir d’autres.
+</div>
+
+### Cherry-picking
+
+Sélectionner les données que l’on présente, ignorer celles qui contredisent notre thèse.
+
+### Biais du survivant
+
+Etudier uniquement les succès (rares), en ignorant les échecs (nombreux).
+
+### Généralisation abusive
+
+Une loi générale issue d’un raisonnement par induction basé sur un échantillon trop petit ou non-représentatif du cas général.
+
+### Fausse dichotomie
+
+Présenter deux solutions à un problème comme étant les deux seules possibles, lorsqu’il peut y en avoir d’autres.
+
+<div class="exemple_atelier">
 Exemple: “Soit vous êtes avec nous, soit vous êtes avec les terroristes.” (George W. Bush, 2001)
-Moving the goalpost : Exiger des preuves toujours plus nombreuses et fortes de la part de son opposant.
+</div>
+
+### Moving the goalpost
+
+Exiger des preuves toujours plus nombreuses et fortes de la part de son opposant.
