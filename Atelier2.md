@@ -32,6 +32,10 @@ L'effet de halo est un biais cognitif qui consiste à attribuer une qualité à 
 
 Par exemple, si vous avez un professeur qui est très gentil, vous pourriez penser qu'il est également très intelligent.
 
+</div>
+
+<div class="effet_atelier">
+
 #### Effet de primauté
 
 L’effet de primauté est un biais cognitifs qui se produit lorsque les premières informations que nous recevons sur une personne, un objet ou une situation ont une influence disproportionnée sur notre perception et notre évaluation ultérieure.
