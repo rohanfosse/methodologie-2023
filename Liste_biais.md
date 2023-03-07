@@ -1,3 +1,5 @@
+[Retour au sommaire](README.md)
+
 # Liste des arguments fallacieux
 
 Merci à [Alexandre Blanché](https://www.labri.fr/perso/ablanche/) pour son travail sur la création de cette liste.
