@@ -1,5 +1,13 @@
+---
+---
+
 @import "{{ site.theme }}";
 
+// Hide “This site is open source. Improve this page.”
+.footer {
+  display: none;
+}
+
 #banner {
-  display: none !important;
+    display: none !important;
 }
