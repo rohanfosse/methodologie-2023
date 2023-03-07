@@ -144,4 +144,17 @@ La confirmation ou la non-confirmation des hypothèses de travail doit permettre
 - Le saumon est un poisson, or tout poisson vit dans l’eau, donc le saumon vit dans l’eau.
 - La terre est un astre du système solaire, or tout astre du système solaire tourne autour du soleil, donc la terre tourne autour du soleil.
 
+## La démarche abductive
+
+Un `raisonnement par abduction`consiste, en observant un ou plusieurs faits `A1`, `A2`, `A3`, etc; dont on connaît une cause possible et la plus vraisemblable `B`, à prendre `B` comme hypothèse pour affirmer qu'elle est probablement la cause de `A1`, `A2`, `A3`, etc. en particulier.
+
+<div class="exemple_atelier">
+
+#### Exemple
+
+`S'il pleut alors je prends mon parapluie. J'ai pris mon parapluie` est un raisonnement abductif. En effet, on a observé que lorsque il pleut, on prend son parapluie. Cependant, on sait que l'on peut prendre son parapluie même s'il ne pleut pas.
+
+On peut simplement dire qu'il pleut **probablement** par abduction.
+
+</div>
 
