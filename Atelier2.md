@@ -289,3 +289,13 @@ La mise en place de politiques et de réglementations peut aider à lutter contr
 #### Adopter une approche critique
 
 Il est important d'adopter une approche critique à l'égard des informations et des arguments, même si cela remet en question nos propres croyances ou opinions. Cela peut aider à éviter les biais de confirmation et de rationalisation.
+
+## Les arguments fallacieux
+
+Un raisonnement fallacieux est un raisonnement incorrect qui a pourtant une apparence de validité logique. On distingue en français généralement deux types de raisonnements fallacieux : le sophisme, qui est une argumentation destinée à tromper autrui, et le paralogisme qui est une erreur de raisonnement involontaire.
+
+En anglais, on utilise le terme fallacy pour parler de raisonnement ou d’argument fallacieux, qu’ils soient volontaires ou non.
+
+On distingue les arguments fallacieux formels (formal fallacy), qui regroupent les applications erronées de déductions logiques, et informels (informal fallacy), qui sont des raisonnements défectueux non par leur forme, mais par le contenu ou le contexte des arguments employés.
+
+[Cliquez ici pour une liste des arguments fallacieux.](Liste_biais.md)
