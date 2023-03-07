@@ -38,64 +38,78 @@ Pour cela, on doit se poser plusieurs questions :
 - Comporte-t-il des données chiffrées, brutes et/ou matériels ?
 - Le phénomène est-il connu, réel ?
 
-##### Exemple
+
 
 <div class="exemple_atelier">
 
-Sujet : la baisse de la mortalité sur les routes en France.
+##### Exemple
 
-Données chiffrées : 254 décès en novembre 2019 contre 268 en 2018.
+**Sujet:** la baisse de la mortalité sur les routes en France.
 
-Données brutes : recul du taux de mortalité de 5,2 %.
+**Données chiffrées:** 254 décès en novembre 2019 contre 268 en 2018.
 
-Faits observables : baisse du nombre de morts sur les routes françaises
+**Données brutes:** recul du taux de mortalité de 5,2 %.
+
+**Faits observables:** baisse du nombre de morts sur les routes françaises
     pour le troisième mois consécutif.
 
 À partir de ce phénomène connu (la baisse de la mortalité
     sur les routes françaises), on cherchera à en comprendre les causes.
-    
+
 </div>
 
 #### L’observation et l’enregistrement des faits
 
-Après avoir vérifié que le sujet de l’étude peut bien coller avec la démarche inductive, l’étudiant peut se lancer dans ses recherches.
+Après avoir vérifié que le sujet de l’étude peut bien coller avec la démarche inductive, on peut se lancer dans ses recherches.
 
 L’intérêt est de comprendre les causes du phénomène ou du fait qu’il étudie.
 
-Pour parvenir à obtenir des réponses, l’étudiant doit se rendre sur le terrain mener des observations, se documenter, et rencontrer des acteurs susceptibles de lui apporter des réponses (avec des entretiens par exemple).
-Exemple
+Pour parvenir à obtenir des réponses, on peut se rendre sur le terrain, mener des observations, se documenter, et rencontrer des acteurs susceptibles de lui apporter des réponses (avec des entretiens par exemple).
 
-Sujet : la baisse de la mortalité sur les routes en France.
+<div class="exemple_atelier">
 
-– Étudier les chiffres de la mortalité routière en France depuis le début des années 2000.
-– Interroger un membre de la sécurité routière.
-– Lire des rapports au sujet de la mortalité sur les routes en France.
-– Étudier d’éventuelles corrélations : variation de la consommation d’alcool et de drogue en France.
-– Se rendre à une conférence de presse sur ce sujet.
+##### Exemple
 
-3. Analyser des informations collectées
+**Sujet:** la baisse de la mortalité sur les routes en France.
 
-Après être allé sur le terrain pour récolter des informations, l’étudiant peut désormais analyser les informations collectées.
+- Étudier les chiffres de la mortalité routière en France depuis le début des années 2000.
+- Interroger un membre de la sécurité routière.
+- Lire des rapports au sujet de la mortalité sur les routes en France.
+- Étudier d’éventuelles corrélations : variation de la consommation d’alcool et de drogue en France.
 
-Cette analyse doit lui permettre de faire émerger les causes du fait ou du phénomène qu’il étudie.
-Exemple
+</div>
 
-Sujet : la baisse de la mortalité sur les routes en France.
+#### Analyser des informations collectées
+
+Après être allé sur le terrain pour récolter des informations, on peut désormais analyser les informations collectées.
+
+Cette analyse doit permettre de faire émerger les causes du fait ou du phénomène qu’il étudie.
+
+<div class="exemple_atelier">
+
+##### Exemple
+
+**Sujet:** la baisse de la mortalité sur les routes en France.
 
 À partir des informations et des faits relevés sur le terrain, deux éléments semblent être la cause expliquant le phénomène de la baisse de la mortalité sur les routes en France.
 
-La sécurité renforcée dans les voitures : grâce à de nouveaux modèles de voitures, les technologies embarquées pour lutter contre les accidents et mieux protéger en cas d’accidents se sont fortement améliorées.
+La sécurité renforcée dans les voitures: grâce à de nouveaux modèles de voitures, les technologies embarquées pour lutter contre les accidents et mieux protéger en cas d’accidents se sont fortement améliorées.
 
 Les politiques publiques en termes de sécurité routière augmentent et s’intensifient depuis 10 ans (pose de nouveau radar, limitation de vitesse supplémentaire sur certains axes, passage aux 80 km/h sur les routes départementales, augmentation des contrôles routiers, augmentation des amendes).
 
-4. La conclusion
+</div>
+
+#### La conclusion
 
 La conclusion doit servir à l’étudiant de reprendre les arguments avancés afin d’expliquer les causes du phénomène ou du sujet étudié.
 
 Il doit prouver avec des chiffres et des arguments fournis, les éléments qu’il avance.
-Exemple
 
-Sujet : la baisse de la mortalité sur les routes en France.
+<div class="exemple_atelier">
+
+##### Exemple
+
+**Sujet:** la baisse de la mortalité sur les routes en France.
 
 Le phénomène de baisse de la mortalité en France s’explique principalement par deux causes reliées l’une à l’autre par un facteur commun.
 
@@ -105,8 +119,6 @@ La deuxième cause s’inscrit elle aussi sous la coupe de la technologie. Avec 
 
 Si le nombre de morts est passé de plus de 10 000 personnes en 1990 à environ 3 200 en 2018, cela s’explique en partie par la volonté de l’État de mettre en place d’avantages de mesures restrictives, bien aidés par le progrès de certaines technologies sur le bord des routes ou directement embarquées dans les voitures.
 
+</div>
+
 La démarche déductive s’avère utile pour mener un travail de recherche ou une enquête.
-
-Les observations et les recherches faites à partir du phénomène ou du sujet connu, réel et observable, permettent au chercheur de comprendre les causes de celui-ci.
-
-Après ses recherches, le chercheur peut donc présenter une conclusion qui met en relief les causes qui justifie ou explique le phénomène ou le fait qu’il étudie.
