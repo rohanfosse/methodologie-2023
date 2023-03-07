@@ -179,27 +179,31 @@ La démarche abductive est une méthode de travail scientifique qui consiste à 
 
 ## Démarche hypothético-déductive
 
-En sciences expérimentales, la démarche hypothético-déductive est une façon de conduire la recherche qui associe théorie et pratique selon une séquence définie. 
+En sciences expérimentales, la `démarche hypothético-déductive` est une façon de conduire la recherche qui associe **théorie** et **pratique** selon une séquence définie. 
 
-#### Observation / questionnement
+#### 1. Observation / questionnement
 
 On observe un fait. On se pose une question sur ce fait. 
 La question doit pouvoir être répondue par l’intermédiaire d’observations concrètes.
 
-#### Élaboration d’une/des hypothèse(s) 
+#### 2. Élaboration d’une/des hypothèse(s) 
 
 Une hypothèse est une réponse imaginaire, mais basée sur un raisonnement intelligent, pour la question posée. Une hypothèse doit être testable, vérifiable, potentiellement réfutable.
 
-#### Déduction de prédictions 
+#### 3. Déduction de prédictions 
 
-#### Définition d’expériences pour pouvoir tester les prédictions
+On prédit ce qui devrait arriver sous certaines conditions si l’hypothèse est valide.
+
+#### 4. Définition d’expériences pour pouvoir tester les prédictions
 
 On prédit ce qui devrait arriver sous certaines conditions si l’hypothèse est valide. On conçoit une/des expériences dont les conditions peuvent être créées de toute pièce en laboratoire ou sur le terrain ou en profitant des conditions créées par la nature (variations naturelles de l’environnement).
 
-#### Validation ou invalidation des prédictions (et donc hypothèses) par l’expérience
+#### 5. Validation ou invalidation des prédictions (et donc hypothèses) par l’expérience
 
 On exécute l’expérience, on recueille les données.
 Si la prédiction ne se réalise pas, l’hypothèse est rejetée. 
 Si la prédiction se réalise, l’hypothèse est supportée (du moins pour l’instant). 
 
-#### Communication des résultats à la communauté scientifique (voire à la société en général).
+#### 6. Communication des résultats à la communauté scientifique (voire à la société en général).
+
+On publie les résultats dans des revues scientifiques, on les présente à des conférences, on les diffuse sur les réseaux sociaux, etc.
