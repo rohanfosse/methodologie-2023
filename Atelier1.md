@@ -1,3 +1,5 @@
+[ :arrow_left:  Retour au sommaire](README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:arrow_right: Atelier 2: Sources d’erreurs et biais cognitifs](Atelier2.md)
+
 # Atelier 1: Les méthodes scientifiques
 
 Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur l'observation, la répétabilité et la vérification des résultats.
