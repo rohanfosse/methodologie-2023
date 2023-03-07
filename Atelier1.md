@@ -40,17 +40,21 @@ Pour cela, on doit se poser plusieurs questions :
 
 ##### Exemple
 
-    Sujet : la baisse de la mortalité sur les routes en France.
+<div class="exemple_atelier">
 
-    Données chiffrées : 254 décès en novembre 2019 contre 268 en 2018.
+Sujet : la baisse de la mortalité sur les routes en France.
 
-    Données brutes : recul du taux de mortalité de 5,2 %.
+Données chiffrées : 254 décès en novembre 2019 contre 268 en 2018.
 
-    Faits observables : baisse du nombre de morts sur les routes françaises
+Données brutes : recul du taux de mortalité de 5,2 %.
+
+Faits observables : baisse du nombre de morts sur les routes françaises
     pour le troisième mois consécutif.
 
-    À partir de ce phénomène connu (la baisse de la mortalité
+À partir de ce phénomène connu (la baisse de la mortalité
     sur les routes françaises), on cherchera à en comprendre les causes.
+    
+</div>
 
 #### L’observation et l’enregistrement des faits
 
