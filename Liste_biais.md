@@ -23,20 +23,35 @@ On affirme que si l’antécédent est faux, alors le conséquent est faux aussi
 
 ### Sophisme existentiel
 
+On suppose que si une catégorie existe, alors elle contient au moins un élément.
 
+### Mineure illicite
 
+Tous les A sont B;  Tous les A sont C;  Donc, tous les B sont C.
 
-Mineure illicite : Tous les A sont B;  Tous les A sont C;  Donc, tous les B sont C.
+<div class="exemple_atelier">
+
 Exemple: Tous les chats sont mortels; tous les chats sont des félins; donc tous les mortels sont des félins.
+</div>
+
+### Majeure illicite
+
+Tous les A sont B;  Aucun C n'est un A;  Donc, aucun C n'est un B.
 
 
-Majeure illicite : Tous les A sont B;  Aucun C n'est un A;  Donc, aucun C n'est un B.
+<div class="exemple_atelier">
+
 Exemple: Tous les chats sont mortels; aucun homme n’est un chat; donc aucun homme n’est mortel.
 
+</div>
 
-Appel à la probabilité: une proposition est supposée vraie parce qu’elle est très probable.
+### Appel à la probabilité
 
-Argument from fallacy (the fallacy fallacy) : La conclusion d’un raisonnement est supposée fausse car le raisonnement qui mène à elle est fallacieux.
+Une proposition est supposée vraie parce qu’elle est très probable.
+
+### Argument from fallacy (the fallacy fallacy)
+
+La conclusion d’un raisonnement est supposée fausse car le raisonnement qui mène à elle est fallacieux.
 
 ## Arguments fallacieux informels
 
