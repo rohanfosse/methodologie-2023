@@ -164,7 +164,7 @@ On peut simplement dire qu'il pleut **probablement** par abduction.
 
 ---
 
-## Résumé
+## Résumé des 3 démarches
 
 La démarche inductive est une méthode de travail scientifique qui consiste à partir de faits observables pour en déduire une hypothèse.
 
@@ -177,4 +177,29 @@ La démarche abductive est une méthode de travail scientifique qui consiste à 
 | Trouver une loi par généralisation d'observations / de corrélations particulières          | Déduire d'une conclusion à partir d’une loi/proposition considérée comme vraie| Poser la plausibilité d’une hypothèse à partir d’une loi / de constats |
 | Socrate est un homme; Socrate est mortel; **Tous les hommes sont mortels** | Socrate est un homme; Tous les hommes sont mortels; **Socrate est mortel** | Tous les hommes sont mortels; Socrate est mortel; **Socrate est (plausiblement) un homme** |
 
+## Démarche hypothético-déductive
 
+En sciences expérimentales, la démarche hypothético-déductive est une façon de conduire la recherche qui associe théorie et pratique selon une séquence définie. 
+
+#### Observation / questionnement
+
+On observe un fait. On se pose une question sur ce fait. 
+La question doit pouvoir être répondue par l’intermédiaire d’observations concrètes.
+
+#### Élaboration d’une/des hypothèse(s) 
+
+Une hypothèse est une réponse imaginaire, mais basée sur un raisonnement intelligent, pour la question posée. Une hypothèse doit être testable, vérifiable, potentiellement réfutable.
+
+#### Déduction de prédictions 
+
+#### Définition d’expériences pour pouvoir tester les prédictions
+
+On prédit ce qui devrait arriver sous certaines conditions si l’hypothèse est valide. On conçoit une/des expériences dont les conditions peuvent être créées de toute pièce en laboratoire ou sur le terrain ou en profitant des conditions créées par la nature (variations naturelles de l’environnement).
+
+#### Validation ou invalidation des prédictions (et donc hypothèses) par l’expérience
+
+On exécute l’expérience, on recueille les données.
+Si la prédiction ne se réalise pas, l’hypothèse est rejetée. 
+Si la prédiction se réalise, l’hypothèse est supportée (du moins pour l’instant). 
+
+#### Communication des résultats à la communauté scientifique (voire à la société en général).
