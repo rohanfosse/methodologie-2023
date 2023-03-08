@@ -157,13 +157,15 @@ La confirmation ou la non-confirmation des hypothèses de travail doit permettre
 
 ## La démarche abductive
 
-Un `raisonnement par abduction`consiste, en observant un ou plusieurs faits `A1`, `A2`, `A3`, etc; dont on connaît une cause possible et la plus vraisemblable `B`, à prendre `B` comme hypothèse pour affirmer qu'elle est probablement la cause de `A1`, `A2`, `A3`, etc. en particulier.
+Un `raisonnement par abduction` consiste, en observant un ou plusieurs faits `A1`, `A2`, `A3`, etc; dont on connaît une cause possible et la plus vraisemblable `B`, à prendre `B` comme hypothèse pour affirmer qu'elle est probablement la cause de `A1`, `A2`, `A3`, etc. en particulier.
 
 <div class="exemple_atelier">
 
 #### Exemple
 
-`S'il pleut alors je prends mon parapluie. J'ai pris mon parapluie` est un raisonnement abductif. En effet, on a observé que lorsque il pleut, on prend son parapluie. Cependant, on sait que l'on peut prendre son parapluie même s'il ne pleut pas.
+*S'il pleut alors je prends mon parapluie. J'ai pris mon parapluie donc il pleut.*
+
+Ce raisonnement est un raisonnement abductif. En effet, on a observé que lorsque il pleut, on prend son parapluie. Il est donc **plausible** de penser qu'il pleut. Cependant, on ne peut pas dire qu'il pleut **par déduction** car on ne peut pas déduire de la prise de son parapluie qu'il pleut.
 
 On peut simplement dire qu'il pleut **probablement** par abduction.
 
