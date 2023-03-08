@@ -2,10 +2,9 @@
 
 ## Informations générales sur les objectis de l'UE
 
-
 ### OBJECTIF 1: S’approprier progressivement les fondamentaux de la démarche scientifique
 
-Cet objectif sera décliné sous forme de 3 ateliers d'une durée moyenne de 2h40 chacun
+Cet objectif sera décliné sous forme de 3 ateliers d'une durée moyenne de 2h40 chacun.
 
 <div class="effet_atelier">
 
@@ -23,13 +22,17 @@ Sensibiliser les étudiants aux différents biais cognitifs et de raisonnement, 
 
 </div>
 
+<div class="alerte">
+
 #### Atelier 3: Communication et interprétation des données
 
 Représenter graphiquement des données, les commenter, les décrire et les interpréter. 
 
+</div>
+
 ### OBJECTIF 2:  Communiquer/transmettre à l’écrit et à l’oral des résultats scientifiques à une communauté de pairs
 
-Pour répondre à cet objectif vous participerez à une animation de la Fresque du Climat et vous construirez un projet bibliographique autour du Développement Durable sur un sujet de votre choix.
+Pour répondre à cet objectif, vous participerez à une animation de [la Fresque du Climat](https://fresqueduclimat.org/) et vous construirez un projet bibliographique autour du Développement Durable sur un sujet de votre choix.
 
 Cet objectif sera travaillé au fil de l'eau sur le semestre.
 Vous travaillerez donc en équipe de 3 à 5 étudiants sur une thématique interdisciplinaire portant sur le développement durable.
@@ -42,12 +45,8 @@ Les objectifs de ce travail sont multiples:
 
 - Extraire les informations essentielles / Analyser-synthétiser l’information
 
-- Communiquer à l'écrit et à l’oral sous forme d’un poster
+- Communiquer à l'écrit et à l’oral sous forme d’un poster et d’une présentation orale
+
+[Plus d'informations sur le projet bibliographique](Projet.md)
 
 ---
-
-## Les différents liens
-
-- [Les sujets du projets](fichiers/Cours_4TPU202U%20-%20Sujets%20de%20projets.pdf)
-- [Les douzes mensonges du GIEC - Christian Gerondeau](fichiers/Les%20douze%20mensonges%20du%20GIEC%20_%20La%20religion%20-%20Christian%20Gerondeau.docx)
-- [Retranscription Naomi Seibt - Models Predict Catastrophe - Climate of Freedom #4](fichiers/Naomi_Seibt_CoF4.pdf)
