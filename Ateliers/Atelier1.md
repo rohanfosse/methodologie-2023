@@ -13,9 +13,9 @@ Une méthode scientifique est une démarche qui permet de répondre à une quest
 
 ## La démarche inductive
 
-La démarche **inductive**, aussi appelée approche **empirico-inductive**, est une méthode de travail qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
+La démarche **inductive**, aussi appelée approche **empirico-inductive**, est une méthode scientifique qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
 
-À partir des phénomènes particuliers observés sur le terrain, le chercheur peut comprendre un phénomène général. On va du particulier au général.
+À partir des phénomènes particuliers, on peut essayer de comprendre un phénomène général. On va du particulier au général.
 
 La loi générale que l'on formule doit être vérfiée pour chacun des évènements préalables, mais elle peut à tout moment être démentie par un contre-exemple.
 
