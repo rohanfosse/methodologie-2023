@@ -1,4 +1,4 @@
-[Retour au sommaire](README.md)
+[Retour au sommaire](../README.md)
 
 # Atelier 2: Les biais cognitifs
 
@@ -17,7 +17,7 @@ On peut distinguer les biais coginitifs en plusieurs catégories:
 
 Il est important de noter que ces catégories ne sont pas **exclusives**.
 
---- 
+---
 
 ### Les biais de perception
 
