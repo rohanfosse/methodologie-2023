@@ -34,7 +34,7 @@ L'effet de halo est un biais cognitif qui consiste à attribuer une qualité à 
 
 <div class="exemple_atelier">
 
-Par exemple, si vous avez un professeur qui est très gentil, vous pourriez penser qu'il est également très intelligent.
+Si vous avez un professeur qui est très gentil, vous pourriez penser qu'il est également très intelligent.
 
 </div>
 
@@ -47,7 +47,7 @@ L’effet de primauté est un biais cognitifs qui se produit lorsque les premiè
 
 <div class="exemple_atelier">
 
-Par exemple, Si on rencontre quelqu’un qui se présente comme médecin, on aura tendance à la percevoir plus intelligente et compétente que si elle s’était présentée comme étant d’un autre domaine. 
+Si on rencontre quelqu’un qui se présente comme médecin, on aura tendance à la percevoir plus intelligente et compétente que si elle s’était présentée comme étant d’un autre domaine. 
 
 </div>
 
@@ -65,7 +65,7 @@ Les **biais de mémoire** sont des tendances à se rappeler ou à oublier des in
 
 <div class="exemple_atelier">
 
-Par exemple, si une publicité suggère que l’achat d’un produit nous rendra plus heureux, nous pouvons être plus enclins à acheter le produit (même ci ce n’est pas toujours vrai).
+Si une publicité suggère que l’achat d’un produit nous rendra plus heureux, nous pouvons être plus enclins à acheter le produit (même ci ce n’est pas toujours vrai).
 
 </div>
 
@@ -77,7 +77,7 @@ Par exemple, si une publicité suggère que l’achat d’un produit nous rendra
 
 <div class="exemple_atelier">
 
-Par exemple, l’effet de la préférence familière.
+L’effet de la préférence familière.
 
 Les personnes ont tendance à préférer les chansons qu’elles ont déjà entendues et qui leur sont familières. Des études ont montré que c’est en partie dû à la façon dont notre cerveau traite les informations familières. Lorsque nous entendons une chanson connue, nous cerveau est capable de prédire la mélodie et les paroles, ce qui nous donne un sentiment de confort et de satisfaction.
 
@@ -99,7 +99,7 @@ Le **biais de stéréotypage** est un biais cognitif qui se produit lorsque nous
 
 <div class="exemple_atelier">
 
-Par exemple, si vous avez une mauvaise expérience avec un homme, vous pourriez penser que tous les hommes sont mauvais.
+ si vous avez une mauvaise expérience avec un homme, vous pourriez penser que tous les hommes sont mauvais.
 
 </div>
 
@@ -111,7 +111,7 @@ Le **biais d'autorité** est un biais cognitif qui se produit lorsque nous avons
 
 <div class="exemple_atelier">
 
-Par exemple, si un professeur vous donne un cours sur un sujet, vous pourriez être plus enclins à croire ce qu'il dit sans remise en question. 
+Si un professeur d'informatique vous donne un cours sur la méthodologie scientifique, vous aurez tendance à croire ce qu'il dit.
 
 </div>
 
@@ -129,7 +129,7 @@ Les **biais de raisonnement** sont des tendances à traiter l’information de m
 
 <div class="exemple_atelier">
 
-Par exemple, si vous êtes dans un groupe de personnes qui pensent que le monde est plat, vous pourriez être plus enclins à penser que le monde est plat.
+Si vous êtes dans un groupe de personnes qui pensent que le monde est plat, vous pourriez être plus enclins à penser que le monde est plat.
 
 </div>
 
@@ -141,7 +141,7 @@ Par exemple, si vous êtes dans un groupe de personnes qui pensent que le monde 
 
 <div class="exemple_atelier">
 
-Par exemple, un joueur de casino peut avoir l’illusion de contrôle en pensant qu’il peut influencer le résultat d’un jeu de hasard par sa stratégie ou sa chance personnelle.
+Un joueur de casino peut avoir l’illusion de contrôle en pensant qu’il peut influencer le résultat d’un jeu de hasard par sa stratégie ou sa chance personnelle.
 
 </div>
 
@@ -169,7 +169,6 @@ Tendance à rechercher des informations qui confirment les croyances existantes 
 
 <div class="exemple_atelier">
 
-Exemple:
 Rejeter les preuves du changement climatique parce qu’elles ne correspondent pas à la croyance que le climat est stable.
 
 </div>
