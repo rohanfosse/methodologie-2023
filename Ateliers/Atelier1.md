@@ -184,9 +184,11 @@ La démarche abductive est une méthode de travail scientifique qui consiste à 
 | Trouver une loi par généralisation d'observations / de corrélations particulières          | Déduire d'une conclusion à partir d’une loi/proposition considérée comme vraie| Poser la plausibilité d’une hypothèse à partir d’une loi / de constats |
 | Socrate est un homme; Socrate est mortel; **Tous les hommes sont mortels** | Socrate est un homme; Tous les hommes sont mortels; **Socrate est mortel** | Tous les hommes sont mortels; Socrate est mortel; **Socrate est (plausiblement) un homme** |
 
+---
+
 ## Démarche hypothético-déductive
 
-En sciences expérimentales, la `démarche hypothético-déductive` est une façon de conduire la recherche qui associe **théorie** et **pratique** selon une séquence définie. 
+En sciences expérimentales, la `démarche hypothético-déductive` est une façon de conduire la recherche qui associe **théorie** et **pratique** selon une séquence définie.
 
 #### 1. Observation / questionnement
 
