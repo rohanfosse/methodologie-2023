@@ -1,5 +1,7 @@
 [Retour au sommaire](../README.md)
 
+Des slides résumants les notions  présentées ci-dessous sont disponibles [ici](../fichiers/slides_atelier2.pdf)
+
 # Atelier 2: Les biais cognitifs
 
 Les `biais cognitifs`sont des erreurs de raisonnement qui peuvent affecter notre prise de décision. Ils peuvent être **conscients** ou **inconscients**. Ils peuvent etre causés par des facteurs comme la culture, l'expérience personnelle ou encore l'environnement.

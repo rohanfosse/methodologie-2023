@@ -5,13 +5,15 @@
     </span>
 </p>
 
+Des slides résumants les notions  présentées ci-dessous sont disponibles [ici](../fichiers/slides_atelier1.pdf)
+
 # Atelier 1: Les méthodes scientifiques
 
 Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur l'observation, la répétabilité et la vérification des résultats.
 
 ## La démarche inductive
 
-La démarche `inductive`, aussi appelée approche `empirico-inductive`, est une méthode de travail qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
+La démarche **inductive**, aussi appelée approche **empirico-inductive**, est une méthode de travail qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
 
 À partir des phénomènes particuliers observés sur le terrain, le chercheur peut comprendre un phénomène général. On va du particulier au général.
 
