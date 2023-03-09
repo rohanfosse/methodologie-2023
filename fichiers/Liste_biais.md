@@ -18,7 +18,9 @@ En logique, on aurait: $A \vee B$ ;  $A$ ,  alors $\neg B$ . (confusion avec la 
 <div class="exemple_atelier">
 
 Pour faire la couverture du magazine Vogue, il faut être une célébrité ou être très belle.
+
 La couverture de ce mois-ci était celle d'une célébrité.
+
 Cette célébrité n'est donc pas très belle.
 </div>
 
@@ -34,7 +36,9 @@ Un exemple serait :
 
 <div class="exemple_atelier">
 S'il a plu, alors le sol est mouillé.
+
 Le sol est mouillé.
+
 Donc il a plu.
 </div>
 
