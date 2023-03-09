@@ -17,12 +17,9 @@ En logique, on aurait: $A \vee B$ ;  $A$ ,  alors $\neg B$ . (confusion avec la 
 
 <div class="exemple_atelier">
 
-```
 Pour faire la couverture du magazine Vogue, il faut être une célébrité ou être très belle.
 La couverture de ce mois-ci était celle d'une célébrité.
 Cette célébrité n'est donc pas très belle.
-```
-
 </div>
 
 ### Affirmation du conséquent <a href="https://fr.wikipedia.org/wiki/Affirmation_du_cons%C3%A9quent" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
@@ -31,19 +28,19 @@ L'affirmation du conséquent est un sophisme formel par lequel on considère une
 
 En logique, on aurait: A⇒B;  B,  alors A. (confusion avec la réciproque)
 
-<div class="exemple_atelier">
+
 
 Un exemple serait :
 
-```
+<div class="exemple_atelier">
 S'il a plu, alors le sol est mouillé.
 Le sol est mouillé.
 Donc il a plu.
-```
+</div>
 
 Un tel raisonnement est invalide parce que le sol peut être mouillé pour une autre raison que la pluie, comme un arrosage. 
 
-</div>
+
 
 ### Négation de l’antécédent 
 
