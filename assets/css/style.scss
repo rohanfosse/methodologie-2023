@@ -76,7 +76,7 @@ header{
     padding-left:10px;
 }
 
-header h1 a:link a:visited a:hover a:active {
+header h1  a ,a:link, a:visited, a:hover, a:active {
     
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
     color: #f3f3f3 !important;
