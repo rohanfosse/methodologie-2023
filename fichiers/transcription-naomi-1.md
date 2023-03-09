@@ -1,11 +1,13 @@
+[Retour à la page projet](../Projet.md)
+
 # Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 1
 
 La vidéo est disponible ici: [https://www.youtube.com/watch?v=m2HuxpoLGp8](https://www.youtube.com/watch?v=m2HuxpoLGp8)
 
 ---
-
+<div style="text-align: center;">
 ## Transcription
-
+</div>
 <div class="exemple_atelier">
 <span class="naomi">Naomi:</span> Hi everyone so myself and my good friend Lord Christopher Moncton who is the world's best known climate skeptic have decided to make a video series on climate realism and explain to you some scientific facts about climate change and climate realism in fact so we are going to debunk the main arguments coming from the side of the climate alarmists and explain why most of what you hear in the mainstream media is nonsense.
 A major issue that I see with the mainstream narrative surrounding climate change is that we are being bombarded with only half-truths. It is very easy to debunk and question those half-truths but most people don’t because they think that we can trust the experts. As you know there is this consensus myth going around that says that 97% of scientists agree that climate change is real or something like that.

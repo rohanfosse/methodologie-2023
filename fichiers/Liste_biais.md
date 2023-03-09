@@ -1,4 +1,4 @@
-[Retour au sommaire](README.md)
+[Retour au sommaire](../README.md)
 
 # Liste des arguments fallacieux
 
