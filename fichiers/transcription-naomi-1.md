@@ -13,7 +13,7 @@ But is that really how science works by first of all asking very vague questions
 </div>
 
 <div class="effet_atelier">
-<span class="lcm">(Lord Christopher Moncton)</span> No Naomi the physical sciences are not a democracy science isn't done by a show of hands it's not done by a ballot it's done by careful observation and measurement followed by the application and development of rational scientific theories based on the data and expressed in the language of science which is mathematics
+<span class="lcm">Lord Christopher Moncton:</span> No Naomi the physical sciences are not a democracy science isn't done by a show of hands it's not done by a ballot it's done by careful observation and measurement followed by the application and development of rational scientific theories based on the data and expressed in the language of science which is mathematics
 </div>
 
 <div class="exemple_atelier">
@@ -65,7 +65,7 @@ Mais est-ce vraiment ainsi que fonctionne la science, en posant tout d'abord des
 </div>
 
 <div class="effet_atelier">
-<span class="lcm">(Lord Christopher Moncton)</span> Non Naomi, les sciences physiques ne sont pas une démocratie. La science ne se fait pas à main levée, elle ne se fait pas par un vote, elle se fait par des observations et des mesures minutieuses suivies par l'application et le développement de théories scientifiques rationnelles basées sur les données et exprimées dans le langage de la science, à savoir les mathématiques.
+<span class="lcm">Lord Christopher Moncton:</span> Non Naomi, les sciences physiques ne sont pas une démocratie. La science ne se fait pas à main levée, elle ne se fait pas par un vote, elle se fait par des observations et des mesures minutieuses suivies par l'application et le développement de théories scientifiques rationnelles basées sur les données et exprimées dans le langage de la science, à savoir les mathématiques.
 
 <span class="naomi">Naomi:</span> Mais même les scientifiques semblent parler de consensus. J'ai trouvé sur le site de la NASA par exemple et je cite de multiples études publiées dans des revues scientifiques à comité de lecture qui montrent que 97% ou plus des scientifiques du climat qui publient activement s'accordent à dire que les tendances du réchauffement climatique au cours du siècle dernier sont très probablement dues aux activités humaines.
 
