@@ -21,9 +21,9 @@ En logique, on aurait: $A \vee B$;  $A$,  alors $\neg B$. (confusion avec la con
     Cette célébrité n'est donc pas très belle.
 </div>
 
-### Affirmation du conséquent
+### Affirmation du conséquent <a href="https://fr.wikipedia.org/wiki/Affirmation_du_cons%C3%A9quent" target="_blank><img src="icons/chain.png" width="15" height="15" /></a>
 
-On affirme que le conséquent est vrai, alors que l’antécédent est faux.
+L'affirmation du conséquent est un sophisme formel par lequel on considère une condition suffisante comme une condition nécessaire. On traite alors une implication logique comme si elle était une équivalence logique.
 
 En logique, on aurait: A⇒B;  B,  alors A. (confusion avec la réciproque)
 
