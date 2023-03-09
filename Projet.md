@@ -1,5 +1,5 @@
 <p style="text-align:left;">
-    [Retour au sommaire](Readme.md)
+    [Retour au sommaire](README.md)
 </p>
 
 # Projet Bibliographique
