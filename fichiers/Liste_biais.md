@@ -125,12 +125,18 @@ La conclusion d’un raisonnement est supposée fausse car le raisonnement qui m
 
 Cette catégorie regroupe les arguments informels visant à convaincre ou persuader son auditoire via une utilisation erronée ou malhonnête du contenu ou du contexte des faits. En voici une liste non-exhaustive :
 
-### Argument Ad hominem
+### Argument Ad hominem <a href="https://fr.wikipedia.org/wiki/Argumentum_ad_hominem" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
 
-Attaquer l’opposant lui-même plutôt que son argument.
+L'argument *Ad hominem* consiste à attaquer son adversaire sur la cohérence de ses propos en lui opposant ses propres paroles ou ses propres actions/
+
+L'argument *ad hominem* est le 16e stratagème recensé par Arthur Schopenhauer dans son opuscule [La Dialectique éristique](https://fr.wikipedia.org/wiki/La_Dialectique_%C3%A9ristique) :
+
+> Quand l’adversaire fait une affirmation, nous devons chercher à savoir si elle n’est pas d’une certaine façon, et ne serait-ce qu’en apparence, en contradiction avec quelque chose qu’il a dit ou admis auparavant, ou avec les principes d’une école ou d’une secte dont il a fait l’éloge, ou avec les actes des adeptes de cette secte, qu’ils soient sincères ou non, ou avec ses propres faits et gestes. Si par exemple il prend parti en faveur du suicide, il faut s’écrier aussitôt : « Pourquoi ne te pends-tu pas ? » Ou bien s’il affirme par exemple que Berlin est une ville désagréable, on s’écrie aussitôt : « Pourquoi ne prends-tu pas la première diligence ? » »
 
 <div class="exemple_atelier">
-Exemples: L’accuser de soutenir une position pour des raisons intéressées, discréditer ou ridiculiser l’opposant plutôt que de s’attaquer à son argument
+Personne 1 : J'en ai assez d'être toujours le conducteur lorsque nous sortons en groupe.
+
+Personne 2 : Tu es trop nerveux à l'idée de conduire la nuit, alors bien sûr, tu ne veux pas conduire.
 </div>
 
 ### Appel aux émotions 
