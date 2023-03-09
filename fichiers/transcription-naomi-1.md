@@ -1,4 +1,10 @@
-[Retour à la page projet](../Projet.md)
+<p style="text-align:left;">
+    [Retour à la page projet](../Projet.md)
+    <span style="float:right;">
+        [The CONSENSUS FRAUD part 2](transcription-naomi-2.md)
+    </span>
+</p>
+
 
 # Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 1
 
