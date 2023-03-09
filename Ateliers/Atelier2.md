@@ -10,6 +10,8 @@ Une liste des arguments fallacieux est disponible ici [ici](../fichiers/Liste_bi
 
 </div>
 
+---
+
 Les `biais cognitifs` sont des erreurs de raisonnement qui peuvent affecter notre prise de décision. Ils peuvent être **conscients** ou **inconscients**. Ils peuvent etre causés par des facteurs comme la culture, l'expérience personnelle ou encore l'environnement.
 
 Les biais cognitifs peuvent **affecter** la façon dont nous percevons les informations, les traitons et les interprétons.
