@@ -1,12 +1,10 @@
-# Transcriptions
-
-## Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 1
+# Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 1
 
 La vidéo est disponible ici: [https://www.youtube.com/watch?v=m2HuxpoLGp8](https://www.youtube.com/watch?v=m2HuxpoLGp8)
 
 ---
 
-### Transcription
+## Transcription
 
 <div class="exemple_atelier">
 <span class="naomi">Naomi:</span> Hi everyone so myself and my good friend Lord Christopher Moncton who is the world's best known climate skeptic have decided to make a video series on climate realism and explain to you some scientific facts about climate change and climate realism in fact so we are going to debunk the main arguments coming from the side of the climate alarmists and explain why most of what you hear in the mainstream media is nonsense.
@@ -58,7 +56,7 @@ I don't want you to panic I want you to think.
 
 ---
 
-### Traduction
+## Traduction
 
 <div class="exemple_atelier">
 <span class="naomi">Naomi:</span> Bonjour à tous. Mon ami Lord Christopher Moncton, le climatosceptique le plus connu au monde, et moi-même avons décidé de réaliser une série de vidéos sur le réalisme climatique et de vous expliquer certains faits scientifiques sur le changement climatique et le réalisme climatique. Nous allons donc démystifier les principaux arguments des alarmistes climatiques et expliquer pourquoi la plupart de ce que vous entendez dans les médias grand public est absurde.
