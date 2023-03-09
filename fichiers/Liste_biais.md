@@ -12,7 +12,7 @@ Les **arguments fallacieux formels** sont des arguments qui utilisent des règle
 
 On affirme que si une disjonction est vraie et que l’une de ses disjonctions est vraie, alors l’autre est forcèment fausse.
 
-En logique, on aurait: $A \vee B$;  $A$,  alors $\neg B$. (confusion avec la contraposée)
+En logique, on aurait: $A \vee B$ ;  $A$ ,  alors $\neg B$ . (confusion avec la contraposée)
 
 
 <div class="exemple_atelier">
