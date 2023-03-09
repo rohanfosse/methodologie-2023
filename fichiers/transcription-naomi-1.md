@@ -4,10 +4,11 @@
 
 La vidéo est disponible ici: [https://www.youtube.com/watch?v=m2HuxpoLGp8](https://www.youtube.com/watch?v=m2HuxpoLGp8)
 
+
 ### Transcription
 
 <div class="exemple_atelier">
-(Naomi) Hi everyone so myself and my good friend Lord Christopher Moncton who is the world's best known climate skeptic have decided to make a video series on climate realism and explain to you some scientific facts about climate change and climate realism in fact so we are going to debunk the main arguments coming from the side of the climate alarmists and explain why most of what you hear in the mainstream media is nonsense.
+<span class="exemple_text">Naomi:</span> Hi everyone so myself and my good friend Lord Christopher Moncton who is the world's best known climate skeptic have decided to make a video series on climate realism and explain to you some scientific facts about climate change and climate realism in fact so we are going to debunk the main arguments coming from the side of the climate alarmists and explain why most of what you hear in the mainstream media is nonsense.
 A major issue that I see with the mainstream narrative surrounding climate change is that we are being bombarded with only half-truths. It is very easy to debunk and question those half-truths but most people don’t because they think that we can trust the experts. As you know there is this consensus myth going around that says that 97% of scientists agree that climate change is real or something like that.
 But is that really how science works by first of all asking very vague questions that don't really tackle the core problem at hand and does science really reach its conclusions just by counting heads among experts? And who are those experts?
 </div>
@@ -62,7 +63,7 @@ L'un des principaux problèmes que je vois dans le discours dominant sur le chan
 Mais est-ce vraiment ainsi que fonctionne la science, en posant tout d'abord des questions très vagues qui ne s'attaquent pas vraiment au problème de fond, et la science parvient-elle vraiment à ses conclusions en comptant simplement les têtes parmi les experts ? Et qui sont ces experts ?
 </div>
 
-</div class="effet_atelier">
+<div class="effet_atelier">
 (Lord Christopher Moncton) Non Naomi, les sciences physiques ne sont pas une démocratie. La science ne se fait pas à main levée, elle ne se fait pas par un vote, elle se fait par des observations et des mesures minutieuses suivies par l'application et le développement de théories scientifiques rationnelles basées sur les données et exprimées dans le langage de la science, à savoir les mathématiques.
 (Naomi) Mais même les scientifiques semblent parler de consensus. J'ai trouvé sur le site de la NASA par exemple et je cite de multiples études publiées dans des revues scientifiques à comité de lecture qui montrent que 97% ou plus des scientifiques du climat qui publient activement s'accordent à dire que les tendances du réchauffement climatique au cours du siècle dernier sont très probablement dues aux activités humaines.
 (LCM) Comme nous le verrons dans cette série, l'une des raisons pour lesquelles on ne peut pas se fier à un prétendu consensus de 97% est que même s'il existait un tel consensus, qui comme nous le verrons n'existe pas, le simple fait de l'existence de ce consensus ne nous dirait absolument rien sur la question de savoir si la proposition à laquelle ce consensus est censé adhérer est vraie ou fausse.
