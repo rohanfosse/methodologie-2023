@@ -205,8 +205,8 @@ Le biais des survivants est une forme de biais de sélection consistant à suré
 
 Au cours de la Seconde Guerre mondiale, le statisticien Abraham Wald a pris en compte le biais des survivants dans ses calculs afin d'évaluer comment minimiser la perte de bombardiers sous le feu ennemi. En étudiant les dommages causés à des aéronefs revenus de mission, l'étude a recommandé de blinder les endroits des appareils qui présentaient le moins de dommages. En effet, Wald a constaté que les études précédentes ne tenaient compte que des aéronefs qui avaient « survécu » à leur mission, sans tenir compte de ceux qui avaient disparu. Ainsi, les endroits endommagés des aéronefs revenus représentent les endroits où ces derniers peuvent encaisser des dommages et réussir à rentrer à la base. La conclusion de Wald est que lorsqu'un aéronef est endommagé à un autre endroit, il ne revient pas de sa mission. En conséquence, ce sont ces endroits - ceux non endommagés chez les « survivants » - qui devraient être renforcés, et non les endroits endommagés.
 
-![Avion](https://fr.wikipedia.org/wiki/Biais_des_survivants#/media/Fichier:Survivorship-bias.svg)
-
+![Avion](../Ateliers/images/Survivorship-bias.svg)
+*Illustration of hypothetical damage pattern on a WW2 bomber. Based on a not-illustrated report by Abraham Wald (1943)*
 </div>
 
 ### Généralisation abusive <a href="https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ralisation_abusive" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
