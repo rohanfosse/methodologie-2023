@@ -2,9 +2,15 @@
 
 Des slides résumants les notions  présentées ci-dessous sont disponibles [ici](../fichiers/slides_atelier2.pdf)
 
-# Atelier 2: Les biais cognitifs
+Une liste des arguments fallacieux est disponible ici [ici](../fichiers/Liste_biais.md)
 
-Les `biais cognitifs`sont des erreurs de raisonnement qui peuvent affecter notre prise de décision. Ils peuvent être **conscients** ou **inconscients**. Ils peuvent etre causés par des facteurs comme la culture, l'expérience personnelle ou encore l'environnement.
+<div style="text-align: center;">
+
+# Atelier 2: Biais cognitifs et arguments fallacieux
+
+</div>
+
+Les `biais cognitifs` sont des erreurs de raisonnement qui peuvent affecter notre prise de décision. Ils peuvent être **conscients** ou **inconscients**. Ils peuvent etre causés par des facteurs comme la culture, l'expérience personnelle ou encore l'environnement.
 
 Les biais cognitifs peuvent **affecter** la façon dont nous percevons les informations, les traitons et les interprétons.
 
@@ -268,4 +274,4 @@ En anglais, on utilise le terme fallacy pour parler de raisonnement ou d’argum
 
 On distingue les arguments fallacieux formels (formal fallacy), qui regroupent les applications erronées de déductions logiques, et informels (informal fallacy), qui sont des raisonnements défectueux non par leur forme, mais par le contenu ou le contexte des arguments employés.
 
-[Cliquez ici pour une liste des arguments fallacieux.](../fichiers/Liste_biais.md)
+
