@@ -30,7 +30,7 @@ But is that really how science works by first of all asking very vague questions
 
 
 <div class="effet_atelier">
-<span class="lcm">LCM</span> As we shall see in this series one reason why one can't rely upon any claimed 97% consensus is that even if there were such a consensus which as we shall see there isn't the mere fact of the existence of that consensus would tell us nothing at all about whether the proposition to which that consensus is said to adhere is true or false
+<span class="lcm">LCM:</span> As we shall see in this series one reason why one can't rely upon any claimed 97% consensus is that even if there were such a consensus which as we shall see there isn't the mere fact of the existence of that consensus would tell us nothing at all about whether the proposition to which that consensus is said to adhere is true or false
 </div>
 
 <div class=exemple_atelier>
@@ -38,7 +38,7 @@ But is that really how science works by first of all asking very vague questions
 </div>
 
 <div class="effet_atelier">
-<span class="lcm">LCM</span> And yet all of the scientific organizations didn't even take a head count among their own members before issuing such headcount statements on behalf of the membership these statements about consensus therefore are political just as the scientific societies themselves have become political rather than scientific they're more concerned about making profits at the expense of taxpayers than about pursuing true objective rational properly researched based on data science if they were really interested in true science they would never issue any statement trying to justify their scientific position such as it is by claiming falsely as we shall see in this series that there is a consensus about it.
+<span class="lcm">LCM:</span> And yet all of the scientific organizations didn't even take a head count among their own members before issuing such headcount statements on behalf of the membership these statements about consensus therefore are political just as the scientific societies themselves have become political rather than scientific they're more concerned about making profits at the expense of taxpayers than about pursuing true objective rational properly researched based on data science if they were really interested in true science they would never issue any statement trying to justify their scientific position such as it is by claiming falsely as we shall see in this series that there is a consensus about it.
 </div>
 
 <div class="exemple_atelier">
@@ -46,7 +46,7 @@ But is that really how science works by first of all asking very vague questions
 </div>
 
 <div class="effet_atelier">
-<span class="lcm">LCM</span> Barack Obama was referring to a paper published by John Cook a failed in court soonest in a science propaganda journal Cook said that he and his friends had read 11940 for peer-reviewed papers on climate and related topics published in the 21 years 1991 to 2011 and that 97.1% of them by implication about eleven thousand six hundred papers had said recent warming was chiefly man made in fact as we shall see elsewhere in this series only not 0.3% of the papers cited by cook and his colleagues actually stated that recent warming was mostly man-made but cook reported that naught point three percent as ninety seven point one percent and if when you’re watching this video you've never heard that fact pointed out before then you should ask whether the news media are reporting climate science fairly there is no 97% consensus
+<span class="lcm">LCM:</span> Barack Obama was referring to a paper published by John Cook a failed in court soonest in a science propaganda journal Cook said that he and his friends had read 11940 for peer-reviewed papers on climate and related topics published in the 21 years 1991 to 2011 and that 97.1% of them by implication about eleven thousand six hundred papers had said recent warming was chiefly man made in fact as we shall see elsewhere in this series only not 0.3% of the papers cited by cook and his colleagues actually stated that recent warming was mostly man-made but cook reported that naught point three percent as ninety seven point one percent and if when you’re watching this video you've never heard that fact pointed out before then you should ask whether the news media are reporting climate science fairly there is no 97% consensus
 </div>
 
 <div class="exemple_atelier">
@@ -54,7 +54,7 @@ But is that really how science works by first of all asking very vague questions
 </div>
 
 <div class="effet_atelier">
-<span class="lcm">LCM</span> But it was not true and even if it had been true and it isn't true some two thousand four hundred years ago the Greek philosopher Socrates said that argument from an imagined consensus of supposed experts constitutes not one but two logical fallacies now a logical fallacy is an argument in which the facts do not necessarily or validly entail the conclusion Socrates said that argument from consensus is both the fallacy of appeal to the authority of imagined experts and those experts may simply be wrong or they may be making more money by pretending something is true than by proving it scientifically to be true and also the fallacy of headcount deciding scientific truth by counting heads and taking a vote science is theory backed by data it is not mere opinion however sincerely held and even if the opinions were held by 97% that would tell us nothing about whether the science behind those opinions was true science nothing whatsoever.
+<span class="lcm">LCM:</span> But it was not true and even if it had been true and it isn't true some two thousand four hundred years ago the Greek philosopher Socrates said that argument from an imagined consensus of supposed experts constitutes not one but two logical fallacies now a logical fallacy is an argument in which the facts do not necessarily or validly entail the conclusion Socrates said that argument from consensus is both the fallacy of appeal to the authority of imagined experts and those experts may simply be wrong or they may be making more money by pretending something is true than by proving it scientifically to be true and also the fallacy of headcount deciding scientific truth by counting heads and taking a vote science is theory backed by data it is not mere opinion however sincerely held and even if the opinions were held by 97% that would tell us nothing about whether the science behind those opinions was true science nothing whatsoever.
 </div>
 
 <div class="exemple_atelier">
@@ -63,8 +63,9 @@ I don't want you to panic I want you to think.
 </div>
 
 ---
-
+<div style="text-align: center;">
 ## Traduction
+</div>
 
 <div class="exemple_atelier">
 <span class="naomi">Naomi:</span> Bonjour à tous. Mon ami Lord Christopher Moncton, le climatosceptique le plus connu au monde, et moi-même avons décidé de réaliser une série de vidéos sur le réalisme climatique et de vous expliquer certains faits scientifiques sur le changement climatique et le réalisme climatique. Nous allons donc démystifier les principaux arguments des alarmistes climatiques et expliquer pourquoi la plupart de ce que vous entendez dans les médias grand public est absurde.
@@ -77,13 +78,13 @@ Mais est-ce vraiment ainsi que fonctionne la science, en posant tout d'abord des
 
 <span class="naomi">Naomi:</span> Mais même les scientifiques semblent parler de consensus. J'ai trouvé sur le site de la NASA par exemple et je cite de multiples études publiées dans des revues scientifiques à comité de lecture qui montrent que 97% ou plus des scientifiques du climat qui publient activement s'accordent à dire que les tendances du réchauffement climatique au cours du siècle dernier sont très probablement dues aux activités humaines.
 
-<span class="lcm">LCM</span> Comme nous le verrons dans cette série, l'une des raisons pour lesquelles on ne peut pas se fier à un prétendu consensus de 97% est que même s'il existait un tel consensus, qui comme nous le verrons n'existe pas, le simple fait de l'existence de ce consensus ne nous dirait absolument rien sur la question de savoir si la proposition à laquelle ce consensus est censé adhérer est vraie ou fausse.
+<span class="lcm">LCM:</span> Comme nous le verrons dans cette série, l'une des raisons pour lesquelles on ne peut pas se fier à un prétendu consensus de 97% est que même s'il existait un tel consensus, qui comme nous le verrons n'existe pas, le simple fait de l'existence de ce consensus ne nous dirait absolument rien sur la question de savoir si la proposition à laquelle ce consensus est censé adhérer est vraie ou fausse.
 
 <span class="naomi">Naomi:</span> Mais le site web de la NASA poursuit en disant que la plupart des organisations scientifiques de premier plan dans le monde ont publié des déclarations publiques approuvant cette position.
 </div>
 
 <div class="exemple_atelier">
-<span class="lcm">LCM</span> Et pourtant, toutes les organisations scientifiques n'ont même pas procédé à un comptage de leurs propres membres avant de publier de telles déclarations de comptage au nom des membres. Si elles étaient vraiment intéressées par la vraie science, elles ne publieraient jamais de déclaration essayant de justifier leur position scientifique telle qu'elle est en prétendant faussement, comme nous le verrons dans cette série, qu'il y a un consensus à ce sujet.
+<span class="lcm">LCM:</span> Et pourtant, toutes les organisations scientifiques n'ont même pas procédé à un comptage de leurs propres membres avant de publier de telles déclarations de comptage au nom des membres. Si elles étaient vraiment intéressées par la vraie science, elles ne publieraient jamais de déclaration essayant de justifier leur position scientifique telle qu'elle est en prétendant faussement, comme nous le verrons dans cette série, qu'il y a un consensus à ce sujet.
 </div>
 
 <div class="effet_atelier">
@@ -91,7 +92,7 @@ Mais est-ce vraiment ainsi que fonctionne la science, en posant tout d'abord des
 </div>
 
 <div class="exemple_atelier">
-<span class="lcm">LCM</span> Barack Obama faisait référence à un article publié par John Cook, qui a échoué devant les tribunaux, dans un journal de propagande scientifique. Cook a déclaré que lui et ses amis avaient lu 11940 articles évalués par des pairs sur le climat et des sujets connexes publiés au cours des 21 années 1991 à 2011 et que 97,1 % d'entre eux, soit environ 11 600 articles, avaient affirmé que le réchauffement récent était principalement dû à l'activité humaine ; en fait, comme nous le verrons ailleurs dans cette série, seulement 0,3 % des articles cités par Cook et ses amis ont affirmé que le réchauffement récent était principalement dû à l'activité humaine. 3 % des articles cités par Cook et ses collègues affirmaient que le réchauffement récent était principalement dû à l'homme, mais Cook a rapporté ce 0,3 % comme étant 97,1 % et si, en regardant cette vidéo, vous n'avez jamais entendu ce fait souligné auparavant, alors vous devriez vous demander si les médias rapportent fidèlement la science du climat - il n'y a pas de consensus à 97 %.
+<span class="lcm">LCM:</span> Barack Obama faisait référence à un article publié par John Cook, qui a échoué devant les tribunaux, dans un journal de propagande scientifique. Cook a déclaré que lui et ses amis avaient lu 11940 articles évalués par des pairs sur le climat et des sujets connexes publiés au cours des 21 années 1991 à 2011 et que 97,1 % d'entre eux, soit environ 11 600 articles, avaient affirmé que le réchauffement récent était principalement dû à l'activité humaine ; en fait, comme nous le verrons ailleurs dans cette série, seulement 0,3 % des articles cités par Cook et ses amis ont affirmé que le réchauffement récent était principalement dû à l'activité humaine. 3 % des articles cités par Cook et ses collègues affirmaient que le réchauffement récent était principalement dû à l'homme, mais Cook a rapporté ce 0,3 % comme étant 97,1 % et si, en regardant cette vidéo, vous n'avez jamais entendu ce fait souligné auparavant, alors vous devriez vous demander si les médias rapportent fidèlement la science du climat - il n'y a pas de consensus à 97 %.
 </div>
 
 
@@ -100,7 +101,7 @@ Mais est-ce vraiment ainsi que fonctionne la science, en posant tout d'abord des
 </div>
 
 <div class="exemple_atelier">
-<span class="lcm">LCM</span> Mais ce n'était pas vrai et même si cela avait été vrai, ce n'est pas vrai il y a environ deux mille quatre cents ans, le philosophe grec Socrate a dit que l'argument d'un consensus imaginaire de supposés experts constitue non pas un mais deux sophismes logiques un sophisme logique est un argument dans lequel les faits n'entraînent pas nécessairement ou valablement la conclusion Socrate a dit que l'argument du consensus est à la fois le sophisme de l'appel à l'autorité d'experts imaginaires, et ces experts peuvent simplement se tromper ou ils peuvent faire plus d'argent en prétendant que quelque chose est vrai qu'en le prouvant scientifiquement. et ces experts peuvent tout simplement se tromper ou gagner plus d'argent en prétendant que quelque chose est vrai qu'en prouvant scientifiquement que c'est vrai, et aussi le sophisme du comptage de têtes qui décide de la vérité scientifique en comptant les têtes et en faisant un vote la science est une théorie soutenue par des données ce n'est pas une simple opinion même si elle est sincère et même si les opinions étaient partagées par 97% cela ne nous dirait rien sur le fait que la science derrière ces opinions est une vraie science rien du tout.
+<span class="lcm">LCM:</span> Mais ce n'était pas vrai et même si cela avait été vrai, ce n'est pas vrai il y a environ deux mille quatre cents ans, le philosophe grec Socrate a dit que l'argument d'un consensus imaginaire de supposés experts constitue non pas un mais deux sophismes logiques un sophisme logique est un argument dans lequel les faits n'entraînent pas nécessairement ou valablement la conclusion Socrate a dit que l'argument du consensus est à la fois le sophisme de l'appel à l'autorité d'experts imaginaires, et ces experts peuvent simplement se tromper ou ils peuvent faire plus d'argent en prétendant que quelque chose est vrai qu'en le prouvant scientifiquement. et ces experts peuvent tout simplement se tromper ou gagner plus d'argent en prétendant que quelque chose est vrai qu'en prouvant scientifiquement que c'est vrai, et aussi le sophisme du comptage de têtes qui décide de la vérité scientifique en comptant les têtes et en faisant un vote la science est une théorie soutenue par des données ce n'est pas une simple opinion même si elle est sincère et même si les opinions étaient partagées par 97% cela ne nous dirait rien sur le fait que la science derrière ces opinions est une vraie science rien du tout.
 </div>
 
 <div class="effet_atelier">
