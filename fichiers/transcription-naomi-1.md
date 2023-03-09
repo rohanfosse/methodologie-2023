@@ -18,7 +18,7 @@ But is that really how science works by first of all asking very vague questions
 </div>
 
 <div class="exemple_atelier">
-(Naomi) But even scientists seem to talk about consensus here's what. I found on the website of NASA for example and I quote multiple studies published in peer-reviewed scientific journals showed that 97 percent or more of actively publishing climate scientists agree climate warming trends over the past century are extremely likely due to human activities
+<span class="exemple_text"><underline>Naomi:</underline></span> But even scientists seem to talk about consensus here's what. I found on the website of NASA for example and I quote multiple studies published in peer-reviewed scientific journals showed that 97 percent or more of actively publishing climate scientists agree climate warming trends over the past century are extremely likely due to human activities
 </div>
 
 
@@ -27,7 +27,7 @@ But is that really how science works by first of all asking very vague questions
 </div>
 
 <div class=exemple_atelier>
-(Naomi) But then the NASA website goes on to say most of the leading scientific organizations worldwide have issued public statements endorsing this position.
+<span class="exemple_text">Naomi:</span> But then the NASA website goes on to say most of the leading scientific organizations worldwide have issued public statements endorsing this position.
 </div>
 
 <div class="effet_atelier">
@@ -35,7 +35,7 @@ But is that really how science works by first of all asking very vague questions
 </div>
 
 <div class="exemple_atelier">
-(Naomi) But I remember that in May 201 Barack Obama made a very popular tweet that is now probably the most trendy argument for climate change 97% of scientists agree climate change is real man-made and dangerous so Christopher what prompted him to say that.
+<span class="exemple_text">Naomi:</span> But I remember that in May 201 Barack Obama made a very popular tweet that is now probably the most trendy argument for climate change 97% of scientists agree climate change is real man-made and dangerous so Christopher what prompted him to say that.
 </div>
 
 <div class="effet_atelier">
@@ -43,7 +43,7 @@ But is that really how science works by first of all asking very vague questions
 </div>
 
 <div class="exemple_atelier">
-(Naomi) Well if that was true then at least it could be said that a consensus existed.
+<span class="exemple_text">Naomi:</span> Well if that was true then at least it could be said that a consensus existed.
 </div>
 
 <div class="effet_atelier">
@@ -51,23 +51,23 @@ But is that really how science works by first of all asking very vague questions
 </div>
 
 <div class="exemple_atelier">
-(Naomi) I think the late science fiction writer Michael Crichton put it best when he said if it's consensus it isn't science if it's science it isn’t consensus I want to say thank you so much for everyone who is watching this first video in this series right now and feel free to share this information around with your friends and family because we aim to explain climate science in an interesting and concise manner the facts are on our side we are not heading towards the apocalypse you are not a parasite on this planet and there is no need to panic.
+<span class="exemple_text">Naomi:</span> I think the late science fiction writer Michael Crichton put it best when he said if it's consensus it isn't science if it's science it isn’t consensus I want to say thank you so much for everyone who is watching this first video in this series right now and feel free to share this information around with your friends and family because we aim to explain climate science in an interesting and concise manner the facts are on our side we are not heading towards the apocalypse you are not a parasite on this planet and there is no need to panic.
 I don't want you to panic I want you to think.
 </div>
 
 ### Traduction
 
 <div class="exemple_atelier">
-(Naomi) Bonjour à tous. Mon ami Lord Christopher Moncton, le climatosceptique le plus connu au monde, et moi-même avons décidé de réaliser une série de vidéos sur le réalisme climatique et de vous expliquer certains faits scientifiques sur le changement climatique et le réalisme climatique. Nous allons donc démystifier les principaux arguments des alarmistes climatiques et expliquer pourquoi la plupart de ce que vous entendez dans les médias grand public est absurde.
+<span class="exemple_text">Naomi:</span> Bonjour à tous. Mon ami Lord Christopher Moncton, le climatosceptique le plus connu au monde, et moi-même avons décidé de réaliser une série de vidéos sur le réalisme climatique et de vous expliquer certains faits scientifiques sur le changement climatique et le réalisme climatique. Nous allons donc démystifier les principaux arguments des alarmistes climatiques et expliquer pourquoi la plupart de ce que vous entendez dans les médias grand public est absurde.
 L'un des principaux problèmes que je vois dans le discours dominant sur le changement climatique est que nous sommes bombardés de demi-vérités. Il est très facile de démystifier et de remettre en question ces demi-vérités, mais la plupart des gens ne le font pas parce qu'ils pensent qu'ils peuvent faire confiance aux experts. Comme vous le savez, il y a ce mythe du consensus qui circule et qui dit que 97 % des scientifiques sont d'accord pour dire que le changement climatique est réel ou quelque chose comme ça.
 Mais est-ce vraiment ainsi que fonctionne la science, en posant tout d'abord des questions très vagues qui ne s'attaquent pas vraiment au problème de fond, et la science parvient-elle vraiment à ses conclusions en comptant simplement les têtes parmi les experts ? Et qui sont ces experts ?
 </div>
 
 <div class="effet_atelier">
 (Lord Christopher Moncton) Non Naomi, les sciences physiques ne sont pas une démocratie. La science ne se fait pas à main levée, elle ne se fait pas par un vote, elle se fait par des observations et des mesures minutieuses suivies par l'application et le développement de théories scientifiques rationnelles basées sur les données et exprimées dans le langage de la science, à savoir les mathématiques.
-(Naomi) Mais même les scientifiques semblent parler de consensus. J'ai trouvé sur le site de la NASA par exemple et je cite de multiples études publiées dans des revues scientifiques à comité de lecture qui montrent que 97% ou plus des scientifiques du climat qui publient activement s'accordent à dire que les tendances du réchauffement climatique au cours du siècle dernier sont très probablement dues aux activités humaines.
+<span class="exemple_text">Naomi:</span> Mais même les scientifiques semblent parler de consensus. J'ai trouvé sur le site de la NASA par exemple et je cite de multiples études publiées dans des revues scientifiques à comité de lecture qui montrent que 97% ou plus des scientifiques du climat qui publient activement s'accordent à dire que les tendances du réchauffement climatique au cours du siècle dernier sont très probablement dues aux activités humaines.
 (LCM) Comme nous le verrons dans cette série, l'une des raisons pour lesquelles on ne peut pas se fier à un prétendu consensus de 97% est que même s'il existait un tel consensus, qui comme nous le verrons n'existe pas, le simple fait de l'existence de ce consensus ne nous dirait absolument rien sur la question de savoir si la proposition à laquelle ce consensus est censé adhérer est vraie ou fausse.
-(Naomi) Mais le site web de la NASA poursuit en disant que la plupart des organisations scientifiques de premier plan dans le monde ont publié des déclarations publiques approuvant cette position.
+<span class="exemple_text">Naomi:</span> Mais le site web de la NASA poursuit en disant que la plupart des organisations scientifiques de premier plan dans le monde ont publié des déclarations publiques approuvant cette position.
 </div>
 
 <div class="exemple_atelier">
@@ -75,7 +75,7 @@ Mais est-ce vraiment ainsi que fonctionne la science, en posant tout d'abord des
 </div>
 
 <div class="effet_atelier">
-(Naomi) Mais je me souviens qu'en mai 201, Barack Obama a fait un tweet très populaire qui est maintenant probablement l'argument le plus à la mode en faveur du changement climatique. 97% des scientifiques sont d'accord pour dire que le changement climatique est réel, causé par l'homme et dangereux, alors Christopher, qu'est-ce qui l'a poussé à dire cela ?
+<span class="exemple_text">Naomi:</span> Mais je me souviens qu'en mai 201, Barack Obama a fait un tweet très populaire qui est maintenant probablement l'argument le plus à la mode en faveur du changement climatique. 97% des scientifiques sont d'accord pour dire que le changement climatique est réel, causé par l'homme et dangereux, alors Christopher, qu'est-ce qui l'a poussé à dire cela ?
 </div>
 
 <div class="exemple_atelier">
@@ -84,7 +84,7 @@ Mais est-ce vraiment ainsi que fonctionne la science, en posant tout d'abord des
 
 
 <div class="effet_atelier">
-(Naomi) Si c'était vrai, on pourrait au moins dire qu'il existe un consensus.
+<span class="exemple_text">Naomi:</span> Si c'était vrai, on pourrait au moins dire qu'il existe un consensus.
 </div>
 
 <div class="exemple_atelier">
@@ -92,6 +92,6 @@ Mais est-ce vraiment ainsi que fonctionne la science, en posant tout d'abord des
 </div>
 
 <div class="effet_atelier">
-(Naomi) Je pense que le regretté écrivain de science-fiction Michael Crichton l'a le mieux exprimé en disant que si c'est un consensus, ce n'est pas de la science si c'est de la science, ce n'est pas un consensus. Je tiens à remercier tous ceux qui regardent cette première vidéo de la série et n'hésitez pas à partager cette information avec vos amis et votre famille parce que notre but est d'expliquer la science du climat d'une manière intéressante et concise, les faits sont de notre côté, nous ne nous dirigeons pas vers l'apocalypse, vous n'êtes pas un parasite sur cette planète et il n'y a pas lieu de paniquer.
+<span class="exemple_text">Naomi:</span> Je pense que le regretté écrivain de science-fiction Michael Crichton l'a le mieux exprimé en disant que si c'est un consensus, ce n'est pas de la science si c'est de la science, ce n'est pas un consensus. Je tiens à remercier tous ceux qui regardent cette première vidéo de la série et n'hésitez pas à partager cette information avec vos amis et votre famille parce que notre but est d'expliquer la science du climat d'une manière intéressante et concise, les faits sont de notre côté, nous ne nous dirigeons pas vers l'apocalypse, vous n'êtes pas un parasite sur cette planète et il n'y a pas lieu de paniquer.
 Je ne veux pas que vous paniquiez, je veux que vous réfléchissiez.
 </div>
