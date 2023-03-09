@@ -4,6 +4,7 @@
 
 La vidéo est disponible ici: [https://www.youtube.com/watch?v=m2HuxpoLGp8](https://www.youtube.com/watch?v=m2HuxpoLGp8)
 
+---
 
 ### Transcription
 
@@ -54,6 +55,8 @@ But is that really how science works by first of all asking very vague questions
 <span class="naomi">Naomi:</span> I think the late science fiction writer Michael Crichton put it best when he said if it's consensus it isn't science if it's science it isn’t consensus I want to say thank you so much for everyone who is watching this first video in this series right now and feel free to share this information around with your friends and family because we aim to explain climate science in an interesting and concise manner the facts are on our side we are not heading towards the apocalypse you are not a parasite on this planet and there is no need to panic.
 I don't want you to panic I want you to think.
 </div>
+
+---
 
 ### Traduction
 
