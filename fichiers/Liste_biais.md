@@ -8,7 +8,7 @@ Merci à [Alexandre Blanché](https://www.labri.fr/perso/ablanche/) pour son tra
 
 Les **arguments fallacieux formels** sont des arguments qui utilisent des règles de logique et de raisonnement erronées. En voici une liste non-exhaustive :
 
-### Affirmation d’une disjonction  <a href="https://fr.wikipedia.org/wiki/Affirmation_d%27une_disjonction" target="_blank><img src="icons/chain.png" width="15" height="15" /></a>
+### Affirmation d’une disjonction  <a href="https://fr.wikipedia.org/wiki/Affirmation_d%27une_disjonction" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
 
 On affirme que si une disjonction est vraie et que l’une de ses disjonctions est vraie, alors l’autre est forcèment fausse.
 
@@ -16,12 +16,12 @@ En logique, on aurait: $A \vee B$;  $A$,  alors $\neg B$. (confusion avec la con
 
 
 <div class="exemple_atelier">
-    Pour faire la couverture du magazine Vogue, il faut être une célébrité ou être très belle.
-    La couverture de ce mois-ci était celle d'une célébrité.
-    Cette célébrité n'est donc pas très belle.
+- Pour faire la couverture du magazine Vogue, il faut être une célébrité ou être très belle.
+- La couverture de ce mois-ci était celle d'une célébrité.
+- Cette célébrité n'est donc pas très belle.
 </div>
 
-### Affirmation du conséquent <a href="https://fr.wikipedia.org/wiki/Affirmation_du_cons%C3%A9quent" target="_blank><img src="icons/chain.png" width="15" height="15" /></a>
+### Affirmation du conséquent <a href="https://fr.wikipedia.org/wiki/Affirmation_du_cons%C3%A9quent" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
 
 L'affirmation du conséquent est un sophisme formel par lequel on considère une condition suffisante comme une condition nécessaire. On traite alors une implication logique comme si elle était une équivalence logique.
 
