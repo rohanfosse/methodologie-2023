@@ -1,3 +1,7 @@
+<p style="text-align:left;">
+    [Retour au sommaire](Readme.md)
+</p>
+
 # Projet Bibliographique
 
 ## Les différents liens

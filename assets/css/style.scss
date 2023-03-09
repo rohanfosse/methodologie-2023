@@ -76,3 +76,6 @@ header{
     padding-left:10px;
 }
 
+header h1 a:link a:visited a:hover a:active {
+    text-decoration: none !important;
+}
