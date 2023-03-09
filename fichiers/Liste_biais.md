@@ -6,12 +6,17 @@ Merci à [Alexandre Blanché](https://www.labri.fr/perso/ablanche/) pour son tra
 
 ## Arguments fallacieux formels
 
-Cette catégorie regroupe les cas d’utilisation erronée des règles de logique et de raisonnement, aussi désignés par le terme latin non sequitur. En voici une liste non-exhaustive :
+Les **arguments fallacieux formels** sont des arguments qui utilisent des règles de logique et de raisonnement erronées. En voici une liste non-exhaustive :
 
-### Affirmation d’une disjonction
+### Affirmation d’une disjonction  <a href="https://fr.wikipedia.org/wiki/Affirmation_d%27une_disjonction"><img src="icons/chain.png" width="20" height="20" /></a>
 
 On affirme que l’une des disjonctions est vraie, alors qu’aucune n’est vraie.
 
+<div class="exemple_atelier">
+
+
+
+</div>
 
 ### Affirmation du conséquent
 
@@ -33,7 +38,7 @@ Tous les A sont B;  Tous les A sont C;  Donc, tous les B sont C.
 
 <div class="exemple_atelier">
 
-Exemple: Tous les chats sont mortels; tous les chats sont des félins; donc tous les mortels sont des félins.
+Tous les chats sont mortels; tous les chats sont des félins; donc tous les mortels sont des félins.
 </div>
 
 ### Majeure illicite
@@ -43,7 +48,7 @@ Tous les A sont B;  Aucun C n'est un A;  Donc, aucun C n'est un B.
 
 <div class="exemple_atelier">
 
-Exemple: Tous les chats sont mortels; aucun homme n’est un chat; donc aucun homme n’est mortel.
+Tous les chats sont mortels; aucun homme n’est un chat; donc aucun homme n’est mortel.
 
 </div>
 
