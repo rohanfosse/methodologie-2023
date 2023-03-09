@@ -12,7 +12,7 @@ Les **arguments fallacieux formels** sont des arguments qui utilisent des règle
 
 On affirme que si une disjonction est vraie et que l’une de ses disjonctions est vraie, alors l’autre est forcèment fausse.
 
-En logique, on aurait: $A \vee B$ ;  $A$ ,  alors $\neg B$ . (confusion avec la contraposée)
+En logique, on aurait: $ A \vee B $ ;  $ A $ ,  alors $ \neg B $ . (confusion avec la contraposée)
 
 
 <div class="exemple_atelier">
@@ -46,9 +46,23 @@ Un tel raisonnement est invalide parce que le sol peut être mouillé pour une a
 
 
 
-### Négation de l’antécédent 
+### Négation de l’antécédent <a href="https://fr.wikipedia.org/wiki/N%C3%A9gation_de_l%27ant%C3%A9c%C3%A9dent" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
 
-On affirme que si l’antécédent est faux, alors le conséquent est faux aussi. Cela provient d'une confusion de la contraposée avec la contraposée de la réciproque.
+La négation de l'antécédent, parfois également appelée erreur inverse ou sophisme de l'inverse, est un sophisme formel consistant à déduire l'inverse de l'énoncé d'origine. Elle est commise par des raisonnements de la forme :
+
+    Si P, alors Q.
+    Par conséquent, si ce n'est pas P, alors ce n'est pas Q.
+
+En logique, on aurait: A⇒B;  $\neg A$,  alors $\neg B$. (confusion avec la contraposée)
+
+<div class="exemple_atelier">
+Si vous êtes moniteur de ski, vous avez un travail.
+
+Vous n'êtes pas moniteur de ski.
+
+Vous n'avez donc pas de travail
+
+</div>
 
 ### Sophisme existentiel
 
