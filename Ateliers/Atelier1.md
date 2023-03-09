@@ -7,7 +7,13 @@
 
 Des slides résumants les notions  présentées ci-dessous sont disponibles [ici](../fichiers/slides_atelier1.pdf)
 
+<div style="text-align:center;">
+
 # Atelier 1: Les méthodes scientifiques
+
+</div>
+
+---
 
 Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur l'observation, la répétabilité et la vérification des résultats.
 
