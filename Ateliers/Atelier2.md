@@ -268,4 +268,4 @@ En anglais, on utilise le terme fallacy pour parler de raisonnement ou d’argum
 
 On distingue les arguments fallacieux formels (formal fallacy), qui regroupent les applications erronées de déductions logiques, et informels (informal fallacy), qui sont des raisonnements défectueux non par leur forme, mais par le contenu ou le contexte des arguments employés.
 
-[Cliquez ici pour une liste des arguments fallacieux.](Liste_biais.md)
+[Cliquez ici pour une liste des arguments fallacieux.](../fichiers/Liste_biais.md)
