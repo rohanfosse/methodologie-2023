@@ -18,8 +18,7 @@ Une méthode scientifique est une démarche qui permet de répondre à une quest
 
 ## Liens utiles
 
-- Des slides résumants les notions  présentées ci-dessous sont disponibles [ici](../fichiers/slides_atelier1.pdf)
-
+- Des slides résumants les notions présentées ci-dessous sont disponibles [ici](../fichiers/slides_atelier1.pdf)
 - La page wikipedia sur les méthodes scientifiques est disponible [ici](https://fr.wikipedia.org/wiki/M%C3%A9thode_scientifique)
 
 ---
