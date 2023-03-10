@@ -1,7 +1,7 @@
 <p style="text-align:left;">
     [Retour au sommaire](../README.md)
     <span style="float:right;">
-        [Atelier 3: Communication et interprétation des données](Atelier3.md)
+        Atelier 3: Communication et interprétation des données
     </span>
 </p>
 

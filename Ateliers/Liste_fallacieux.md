@@ -17,8 +17,11 @@ Les **arguments fallacieux formels** sont des arguments qui utilisent des règle
 
 On affirme que si une disjonction est vraie et que l’une de ses disjonctions est vraie, alors l’autre est forcèment fausse.
 
-    Si P ou Q vrai.
-    Par conséquent, Si Q est vrai, alors P est faux.
+<div class="theorem_atelier">
+Si P ou Q vrai.
+
+Par conséquent, Si Q est vrai, alors P est faux.
+</div>
 
 <div class="exemple_atelier">
 
@@ -33,8 +36,11 @@ Cette célébrité n'est donc pas très belle.
 
 L'affirmation du conséquent est un sophisme formel par lequel on considère une condition suffisante comme une condition nécessaire. On traite alors une implication logique comme si elle était une équivalence logique.
 
-    Si P est vrai, alors Q est vrai.
-    Par conséquent, si Q est vrai, alors P est vrai.
+<div class="theorem_atelier">
+Si P est vrai, alors Q est vrai.
+
+Par conséquent, si Q est vrai, alors P est vrai.
+</div>
 
 
 <div class="exemple_atelier">
@@ -53,8 +59,11 @@ Un tel raisonnement est invalide parce que le sol peut être mouillé pour une a
 
 La négation de l'antécédent, parfois également appelée erreur inverse ou sophisme de l'inverse, est un sophisme formel consistant à déduire l'inverse de l'énoncé d'origine. Elle est commise par des raisonnements de la forme :
 
-    Si P est vrai, alors Q est vrai.
-    Par conséquent, si P est faux, alors Q est faux.
+<div class="theorem_atelier">
+Si P est vrai, alors Q est vrai.
+
+Par conséquent, si P est faux, alors Q est faux.
+</div>
 
 <div class="exemple_atelier">
 Si vous êtes moniteur de ski, vous avez un travail.
@@ -76,10 +85,13 @@ On suppose que si une catégorie existe, alors elle contient au moins un éléme
 
 ### Mineure illicite
 
+<div class="theorem_atelier">
+Tous les A sont B;
 
-    Tous les A sont B;
-    Tous les A sont C;  
-    Donc, tous les B sont C.
+Tous les A sont C;
+
+Donc, tous les B sont C.
+</div>
 
 <div class="exemple_atelier">
 
@@ -92,9 +104,13 @@ Donc tous les mortels sont des félins.
 
 ### Majeure illicite
 
-    Tous les A sont B;
-    Aucun C n'est un A;  
-    Donc, aucun C n'est un B.
+<div class="theorem_atelier">
+Tous les A sont B;
+
+Aucun C n'est un A;  
+
+Donc, aucun C n'est un B.
+</div>
 
 
 <div class="exemple_atelier">
@@ -121,9 +137,13 @@ Par conséquent, quelque chose va mal se passer (conclusion invalide).
 
 La conclusion d’un raisonnement est supposée fausse car le raisonnement qui mène à elle est fallacieux.
 
-    Si P, alors Q.
-    P est un argument fallacieux.
-    Par conséquent, Q est faux.
+<div class="theorem_atelier">
+Si P, alors Q;
+
+P est un argument fallacieux;
+
+Par conséquent, Q est faux.
+</div>
 
 
 ## Arguments fallacieux informels
