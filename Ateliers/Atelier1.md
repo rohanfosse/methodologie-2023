@@ -327,11 +327,11 @@ En sciences expérimentales, la **démarche hypothético-déductive** est une fa
 On observe un fait. On se pose une question sur ce fait. 
 La question doit pouvoir être répondue par l’intermédiaire d’observations concrètes.
 
-#### 2. Élaboration d’une/des hypothèse(s) 
+#### 2. Élaboration d’une/des hypothèse(s)
 
 Une hypothèse est une réponse imaginaire, mais basée sur un raisonnement intelligent, pour la question posée. Une hypothèse doit être testable, vérifiable, potentiellement réfutable.
 
-#### 3. Déduction de prédictions 
+#### 3. Déduction de prédictions
 
 On prédit ce qui devrait arriver sous certaines conditions si l’hypothèse est valide.
 
@@ -342,9 +342,9 @@ On prédit ce qui devrait arriver sous certaines conditions si l’hypothèse es
 #### 5. Validation ou invalidation des prédictions (et donc hypothèses) par l’expérience
 
 On exécute l’expérience, on recueille les données.
-Si la prédiction ne se réalise pas, l’hypothèse est rejetée. 
-Si la prédiction se réalise, l’hypothèse est supportée (du moins pour l’instant). 
+Si la prédiction ne se réalise pas, l’hypothèse est rejetée.
+Si la prédiction se réalise, l’hypothèse est supportée (du moins pour l’instant).
 
-#### 6. Communication des résultats à la communauté scientifique (voire à la société en général).
+#### 6. Communication des résultats à la communauté scientifique (voire à la société en général)
 
 On publie les résultats dans des revues scientifiques, on les présente à des conférences, on les diffuse sur les réseaux sociaux, etc.
