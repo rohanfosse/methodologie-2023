@@ -17,7 +17,7 @@ Des slides résumants les notions  présentées ci-dessous sont disponibles [ici
 
 Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur l'observation, la répétabilité et la vérification des résultats.
 
-## Le raisonnement inductif <a href = "https://fr.wikipedia.org/wiki/Induction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "15" width="15"/> </a>
+## Le raisonnement inductif <a href = "https://fr.wikipedia.org/wiki/Induction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
 
 La démarche **inductive**, aussi appelée approche **empirico-inductive**, est une méthode scientifique qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
 
@@ -35,7 +35,7 @@ Les types de raisonnement inductif comprennent la généralisation, la prédicti
 
 #### La généralisation
 
-Une généralisation (plus précisément, une généralisation inductive) part d'une prémisse concernant un échantillon pour aboutir à une conclusion concernant la population. L'observation obtenue à partir de cet échantillon est projetée sur une population plus large. <a href = "https://www.google.fr/books/edition/A_Practical_Study_of_Argument_Enhanced_E/_1UJzgEACAAJ?hl=fr" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "10" width="10"/> </a>
+Une généralisation (plus précisément, une généralisation inductive) part d'une prémisse concernant un échantillon pour aboutir à une conclusion concernant la population. L'observation obtenue à partir de cet échantillon est projetée sur une population plus large. <a href = "https://www.google.fr/books/edition/A_Practical_Study_of_Argument_Enhanced_E/_1UJzgEACAAJ?hl=fr" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "10" width="10"/> </a>
 
     La proportion Q de l'échantillon possède l'attribut A.
     Par conséquent, la proportion Q de la population possède l'attribut A.
@@ -61,7 +61,7 @@ Plus la taille de l'échantillon est importante par rapport à la population et 
 
 La généralisation hâtive et l'échantillon biaisé sont des erreurs de généralisation.
 
-#### Généralisation statistique <a href = "https://fr.wikipedia.org/wiki/Syllogisme_statistique" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "15" width="15"/> </a>
+##### Généralisation statistique <a href = "https://fr.wikipedia.org/wiki/Syllogisme_statistique" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
 
 Une généralisation statistique est un type d'argument inductif dans lequel une conclusion concernant une population est déduite à l'aide d'un échantillon statistiquement représentatif.
 
@@ -71,7 +71,7 @@ Une généralisation statistique est un type d'argument inductif dans lequel une
 La mesure est très fiable, avec une marge d'erreur bien définie, à condition que l'échantillon soit important et aléatoire. Elle est facilement quantifiable.
 
 
-#### Généralisation anecdotique <a href = "https://fr.wikipedia.org/wiki/Preuve_anecdotique" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "15" width="15"/> </a>
+##### Généralisation anecdotique <a href = "https://fr.wikipedia.org/wiki/Preuve_anecdotique" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
 
 Une généralisation anecdotique est un type d'argument inductif dans lequel une conclusion sur une population est déduite à l'aide d'un échantillon non statistique.En d'autres termes, la généralisation est basée sur des preuves anecdotiques.
 
@@ -84,6 +84,53 @@ D'un point de vue statistique, il n'existe tout simplement aucun moyen de conna�
 
 D'un point de vue philosophique, l'argument repose sur le présupposé que le fonctionnement des événements futurs sera le reflet du passé. En d'autres termes, il prend pour acquis l'uniformité de la nature, un principe non prouvé qui ne peut être dérivé des données empiriques elles-mêmes. Les arguments qui présupposent tacitement cette uniformité sont parfois qualifiés de "humiens", du nom du philosophe qui a été le premier à les soumettre à un examen philosophique. <a href = "https://www.routledge.com/Introduction-to-Logic/Gensler/p/book/9781138910591" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "10" width="10"/> </a>
 
+#### La prédiction <a href = "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5b5825da8bc88727b8418d3c392f03f0acd1f6be" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "10" width="10"/> </a>
+
+Une prédiction inductive tire une conclusion sur un cas futur, actuel ou passé à partir d'un échantillon d'autres cas. Tout comme la généralisation inductive, une prédiction inductive s'appuie sur un ensemble de données composé de cas spécifiques d'un phénomène.
+ 
+Mais au lieu de conclure par une déclaration générale, la prédiction inductive conclut par une déclaration spécifique sur la probabilité qu'une instance unique ait un attribut partagé par les autres instances.
+
+    La proportion Q des membres observés du groupe G a l'attribut A.
+    Par conséquent, il existe une probabilité P que d'autres membres du groupe G aient l'attribut A lors de leur prochaine observation.
+
+##### Syllogisme statistique <a href = "https://fr.wikipedia.org/wiki/Syllogisme_statistique" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
+
+Un syllogisme statistique part d'une généralisation sur un groupe pour aboutir à une conclusion sur un individu.
+
+    La proportion Q des individus connus du groupe G possède l'attribut A.
+    L'individu I est un autre membre de G.
+    Par conséquent, il existe une probabilité correspondant à P que I possède l'attribut A.
+
+<div class="exemple_atelier">
+90 % des diplômés de l'école préparatoire Excelsior poursuivent leurs études à l'université.
+
+Bob est diplômé de l'école préparatoire Excelsior.
+
+Par conséquent, Bob ira à l'université.
+</div>
+
+Même si l'on ne peut pas être sûr que Bob ira à l'université, nous pouvons être pleinement assurés de la probabilité exacte de ce résultat (en l'absence d'autres informations).
+
+En règle générale, le raisonnement inductif cherche à formuler une probabilité.
+
+##### Inférence analogique <a href = "https://en.wikipedia.org/wiki/Argument_from_analogy" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+
+Le processus d'inférence analogique consiste à noter les propriétés communes de deux ou plusieurs choses et à en déduire qu'elles partagent également d'autres propriétés :
+
+    P et Q sont similaires en ce qui concerne les propriétés a, b et c.
+    L'objet P a été observé comme ayant une autre propriété x.
+    Par conséquent, Q possède probablement aussi la propriété x.
+
+
+Le raisonnement analogique est très fréquent dans le sens commun, la science, la philosophie, le droit et les sciences humaines.
+
+<div class="exemple_atelier">
+Les minéraux A et B sont tous deux des roches ignées contenant souvent des veines de quartz et se trouvent le plus souvent en Amérique du Sud dans des zones d'ancienne activité volcanique.
+
+Le minéral A est également une pierre tendre convenant à la fabrication de bijoux.
+
+Par conséquent, le minéral B est probablement une pierre tendre adaptée à la fabrication de bijoux.
+</div>
 
 ### Quelle est l’utilité de la démarche inductive dans le domaine académique ?
 
