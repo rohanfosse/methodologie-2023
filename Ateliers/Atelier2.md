@@ -30,16 +30,16 @@ Les **arguments fallacieux** sont des arguments qui semblent être logiques mais
 
 On peut distinguer les biais coginitifs en plusieurs catégories:
 
-- Les biais de perception
-- Les biais de mémoire
-- Les biais sociaux
-- Les biais de raisonnement
+- [Les biais de perception](#perception)
+- [Les biais de mémoire](#memoire)
+- [Les biais sociaux](#sociaux)
+- [Les biais de raisonnement](#raisonnement)
 
 Il est important de noter que ces catégories ne sont pas **exclusives**.
 
 ---
 
-### Les biais de perception
+### Les biais de perception <a name="perception">
 
 Les biais de perception sont des tendances à interpréter ou à attribuer des significations à des informations.
 
@@ -71,7 +71,7 @@ Si on rencontre quelqu’un qui se présente comme médecin, on aura tendance à
 
 ---
 
-### Les biais de mémoire
+### Les biais de mémoire <a name="memoire">
 
 Les **biais de mémoire** sont des tendances à se rappeler ou à oublier des informations de manière sélective.
 
@@ -105,7 +105,7 @@ Source: [https://www.cairn.info/revue-le-coq-heron-2010-3-page-94.htm](https://w
 
 ---
 
-### Les biais sociaux
+### Les biais sociaux <a name="sociaux">
 
 Les **biais sociaux** sont des tendances à interpréter ou à attribuer des significations à des informations en fonction de nos préférences, de nos croyances ou de nos expériences personnelles.
 
@@ -122,7 +122,7 @@ Le **biais de stéréotypage** est un biais cognitif qui se produit lorsque nous
 </div>
 
 
-#### Biais d'autorité
+#### Biais d'autorité 
 
 Le **biais d'autorité** est un biais cognitif qui se produit lorsque nous avons tendance à croire les informations provenant d'une personne ou d'une organisation qui est perçue comme étant plus compétente ou plus crédible que nous.
 
@@ -135,7 +135,7 @@ Si un professeur d'informatique vous donne un cours sur la méthodologie scienti
 
 ---
 
-### Les biais de raisonnement
+### Les biais de raisonnement <a name="raisonnement">
 
 Les **biais de raisonnement** sont des tendances à traiter l’information de manière erronée ou à tirer des conclusions incorrectes.
 
