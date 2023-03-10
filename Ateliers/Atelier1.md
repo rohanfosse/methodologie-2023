@@ -17,7 +17,7 @@ Des slides résumants les notions  présentées ci-dessous sont disponibles [ici
 
 Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur l'observation, la répétabilité et la vérification des résultats.
 
-## La démarche inductive
+## La démarche inductive <a href = "https://fr.wikipedia.org/wiki/Induction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "15" width="15"/> </a>
 
 La démarche **inductive**, aussi appelée approche **empirico-inductive**, est une méthode scientifique qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
 
