@@ -86,9 +86,6 @@ Si une publicité suggère que l’achat d’un produit nous rendra plus heureux
 
 
 <div class="exemple_atelier">
-
-L’effet de la préférence familière.
-
 Les personnes ont tendance à préférer les chansons qu’elles ont déjà entendues et qui leur sont familières. Des études ont montré que c’est en partie dû à la façon dont notre cerveau traite les informations familières. Lorsque nous entendons une chanson connue, nous cerveau est capable de prédire la mélodie et les paroles, ce qui nous donne un sentiment de confort et de satisfaction.
 
 Source: [https://www.cairn.info/revue-le-coq-heron-2010-3-page-94.htm](https://www.cairn.info/revue-le-coq-heron-2010-3-page-94.htm)
