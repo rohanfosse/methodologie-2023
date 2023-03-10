@@ -86,7 +86,7 @@ La mesure est très fiable, avec une marge d'erreur bien définie, à condition 
 
 Une généralisation anecdotique est un type d'argument inductif dans lequel une conclusion sur une population est déduite à l'aide d'un échantillon non statistique.En d'autres termes, la généralisation est basée sur des preuves anecdotiques.
 
-<div class="theorem_atelier">
+<div class="exemple_atelier">
 Jusqu'à présent, cette année, l'équipe de football de mon fils a remporté 6 matchs sur 10.
 
 Par conséquent, à la fin de la saison, ils auront gagné environ 60 % des matchs.
@@ -171,9 +171,9 @@ La démarche inductive est utile lorsque vous étudiez un sujet ou un phénomèn
 
 ---
 
-## La démarche déductive
+## Le raisonnement déductif <a href = "https://fr.wikipedia.org/wiki/Raisonnement_d%C3%A9ductif" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
 
-La `méthode déductive`, aussi appelée `déduction logique` est une méthode de travail scientifique. Elle a pour but d’expliquer un phénomène en partant d’un sujet ou d’une hypothèse sur un phénomène. On ne part donc pas de faits observables (méthode inductive).
+Le **raisonnement déductif** , aussi appelée **déduction logique** est une méthode de travail scientifique. Elle a pour but d’expliquer un phénomène en partant d’un sujet ou d’une hypothèse sur un phénomène. On ne part donc pas de faits observables (méthode inductive).
 
 Les recherches entamées pour répondre à cette hypothèse permettent aussi au chercheur de développer d’autres hypothèses.
 
@@ -186,17 +186,108 @@ La confirmation ou la non-confirmation des hypothèses de travail doit permettre
 > “La déduction sert aux économistes comme elle sert aux astronomes, aux physiciens, etc.
  D’un certain principe A, on déduit les conséquences B, C, D etc. ; celles-ci se trouvent vérifiées par l’observation ou par l’expérience, et c’est cette vérification qui rend probable A ; ce n’est pas le moins du monde A qui prouve B, C, D”. (Vilfred, 1984).
 
-#### Exemples
+#### Règles de déduction <a href = "https://en.wikipedia.org/wiki/Rule_of_inference" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
 
-- Socrate est un homme, or tout homme est mortel, donc Socrate est mortel.
-- Le saumon est un poisson, or tout poisson vit dans l’eau, donc le saumon vit dans l’eau.
-- La terre est un astre du système solaire, or tout astre du système solaire tourne autour du soleil, donc la terre tourne autour du soleil.
+##### Définitions
+
+Le raisonnement déductif s'effectue généralement en appliquant des règles d'inférence.
+
+Une règle d'inférence est une manière ou un schéma permettant de tirer une conclusion à partir d'un ensemble de prémisses.
+
+Une règle d'inférence est valide si, appliquée à des prémisses vraies, la conclusion ne peut être fausse.
+
+Un argument particulier est valide s'il suit une règle d'inférence valide.
+
+Les arguments déductifs qui ne suivent pas une règle d'inférence valide sont appelés des sophismes formels.
+
+
+##### Principales règles d'inférence <a href = "https://en.wikipedia.org/wiki/Rule_of_inference" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+
+
+###### Modus ponens <a href = "https://fr.wikipedia.org/wiki/Modus_ponens" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+
+Le **modus ponens** (également connu sous le nom d'**affirmation de l'antécédent** ou de **loi du détachement**) est la principale règle d'inférence déductive. Elle a pour forme :
+
+<div class="theorem_atelier">
+
+P → Q   (la première prémisse est une proposition conditionnelle)
+
+P   (la deuxième prémisse est l'antécédent)
+
+Q   (la conclusion déduite est le conséquent)
+
+</div>
+
+Voici un exemple d'argument utilisant le modus ponens:
+
+<div class="exemple_atelier">
+Si il pleut, alors il y a des nuages dans le ciel.
+
+Il pleut.
+
+Ainsi, il y a des nuages dans le ciel.
+
+</div>
+
+###### Modus tollens <a href = "https://fr.wikipedia.org/wiki/Modus_tollens" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "10" width="10"/> </a>
+
+Le **modus tollens** (également connu sous le nom de **loi de la contraposée** ) est une règle d'inférence déductive.
+
+Contrairement au modus ponens, le raisonnement avec le modus tollens va dans la direction opposée à celle du conditionnel. L'expression générale du modus tollens est la suivante :
+
+<div class="theorem_atelier">
+
+P → Q   (la première prémisse est une proposition conditionnelle)
+
+¬ Q   (la deuxième prémisse est la négation du conséquent)
+
+¬ P   (la conclusion déduite est la négation de l'antécédent)
+
+</div>
+
+
+Voici un exemple d'argument utilisant le modus tollens:
+
+<div class="exemple_atelier">
+
+Si il pleut, alors il y a des nuages dans le ciel.
+
+Il n'y a pas de nuages dans le ciel.
+
+Ainsi, il ne pleut pas.
+
+</div>
+
+###### Syllogisme Hypothétique <a href = "https://en.wikipedia.org/wiki/Hypothetical_syllogism" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "10" width="10"/> </a>
+
+Un **syllogisme hypothétique** est une inférence qui prend deux énoncés conditionnels et forme une conclusion en combinant l'hypothèse d'un énoncé avec la conclusion d'un autre. En voici la forme générale :
+
+<div class="theorem_atelier">
+
+P → Q   (la première prémisse est une proposition conditionnelle)
+
+Q → R   (la deuxième prémisse est une proposition conditionnelle)
+
+P → R   (la conclusion déduite est une proposition conditionnelle)
+
+</div>
+
+Voici un exemple d'argument utilisant le syllogisme hypothétique:
+
+<div class="exemple_atelier">
+S'il y avait eu un orage, il aurait plu.
+
+S'il avait plu, les choses auraient été mouillées.
+
+Ainsi, s'il y avait eu un orage, les choses auraient été mouillées.
+
+</div>
 
 ---
 
-## La démarche abductive
+## Le raisonnement par abduction <a href = "https://fr.wikipedia.org/wiki/Abduction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
 
-Un `raisonnement par abduction` consiste, en observant un ou plusieurs faits `A1`, `A2`, `A3`, etc; dont on connaît une cause possible et la plus vraisemblable `B`, à prendre `B` comme hypothèse pour affirmer qu'elle est probablement la cause de `A1`, `A2`, `A3`, etc. en particulier.
+Un **raisonnement par abduction** consiste, en observant un ou plusieurs faits **A1**, **A2**, **A3**, etc; dont on connaît une cause possible et la plus vraisemblable **B**, à prendre **B** comme hypothèse pour affirmer qu'elle est probablement la cause de **A1**, **A2**, **A3**, etc. en particulier.
 
 <div class="exemple_atelier">
 
@@ -227,9 +318,9 @@ La démarche abductive est une méthode de travail scientifique qui consiste à 
 
 ---
 
-## Démarche hypothético-déductive
+## Démarche hypothético-déductive <a href = "https://fr.wikipedia.org/wiki/M%C3%A9thode_hypoth%C3%A9tico-d%C3%A9ductive" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
 
-En sciences expérimentales, la `démarche hypothético-déductive` est une façon de conduire la recherche qui associe **théorie** et **pratique** selon une séquence définie.
+En sciences expérimentales, la **démarche hypothético-déductive** est une façon de conduire la recherche qui associe **théorie** et **pratique** selon une séquence définie.
 
 #### 1. Observation / questionnement
 
