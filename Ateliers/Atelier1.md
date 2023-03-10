@@ -37,9 +37,11 @@ Les types de raisonnement inductif comprennent la généralisation, la prédicti
 
 Une généralisation (plus précisément, une généralisation inductive) part d'une prémisse concernant un échantillon pour aboutir à une conclusion concernant la population. L'observation obtenue à partir de cet échantillon est projetée sur une population plus large. <a href = "https://www.google.fr/books/edition/A_Practical_Study_of_Argument_Enhanced_E/_1UJzgEACAAJ?hl=fr" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "10" width="10"/> </a>
 
-> La l'échantillon E de la population P possède l'attribut A.
-> Par conséquent, la population P l'attribut A.
+<div class="theorem_atelier">
+La l'échantillon E de la population P possède l'attribut A.
 
+Par conséquent, la population P l'attribut A.
+</div>
 <div class="exemple_atelier">
 
 Supposons qu'il y ait 20 boules - noires ou blanches - dans une urne.
