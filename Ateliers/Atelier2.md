@@ -10,6 +10,8 @@ Les `biais cognitifs` sont des erreurs de raisonnement qui peuvent affecter notr
 
 Les biais cognitifs peuvent **affecter** la façon dont nous percevons les informations, les traitons et les interprétons.
 
+Les `arguments fallacieux` sont des arguments qui semblent être logiques mais qui ne le sont pas.
+
 
 ---
 
