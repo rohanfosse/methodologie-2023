@@ -5,7 +5,6 @@
     </span>
 </p>
 
-Des slides résumants les notions  présentées ci-dessous sont disponibles [ici](../fichiers/slides_atelier1.pdf)
 
 <div style="text-align:center;">
 
@@ -13,9 +12,17 @@ Des slides résumants les notions  présentées ci-dessous sont disponibles [ici
 
 </div>
 
+Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur **l'observation**, **la répétabilité** et **la vérification des résultats**.
+
 ---
 
-Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur **l'observation**, **la répétabilité** et **la vérification des résultats**.
+## Liens utiles
+
+- Des slides résumants les notions  présentées ci-dessous sont disponibles [ici](../fichiers/slides_atelier1.pdf)
+
+- La page wikipedia sur les méthodes scientifiques est disponible [ici](https://fr.wikipedia.org/wiki/M%C3%A9thode_scientifique)
+
+---
 
 ## Le raisonnement inductif <a href = "https://fr.wikipedia.org/wiki/Induction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
 
