@@ -308,6 +308,6 @@ Un raisonnement fallacieux est un raisonnement incorrect qui a pourtant une appa
 
 En anglais, on utilise le terme fallacy pour parler de raisonnement ou d’argument fallacieux, qu’ils soient volontaires ou non.
 
-On distingue les arguments fallacieux formels (formal fallacy), qui regroupent les applications erronées de déductions logiques, et informels (informal fallacy), qui sont des raisonnements défectueux non par leur forme, mais par le contenu ou le contexte des arguments employés.
+On distingue les arguments fallacieux formels (*formal fallacy*), qui regroupent les applications erronées de déductions logiques, et informels (*informal fallacy*), qui sont des raisonnements défectueux non par leur forme, mais par le contenu ou le contexte des arguments employés.
 
 Une liste non-exhaustive des arguments fallacieux peut être trouvée [ici](Liste_fallacieux.md)
