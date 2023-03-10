@@ -82,6 +82,7 @@ Une généralisation anecdotique est un type d'argument inductif dans lequel une
 
 <div class="theorem_atelier">
 Jusqu'à présent, cette année, l'équipe de football de mon fils a remporté 6 matchs sur 10.
+
 Par conséquent, à la fin de la saison, ils auront gagné environ 60 % des matchs.
 </div>
 
