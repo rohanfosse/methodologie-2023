@@ -21,10 +21,10 @@ Les **arguments fallacieux** sont des arguments qui semblent être logiques mais
 
 ## Liens utiles
 
-- Des slides résumants les notions de biais cognitifs sont disponibles [ici](../fichiers/slides_atelier2.pdf)
-- Une liste des arguments fallacieux est disponible [ici](Liste_fallacieux.md)
-- La page wikipédia des biais cognitifs est disponible [ici](https://fr.wikipedia.org/wiki/Biais_cognitif)
-- Le codex des biais cognitifs est disponible [ici](https://inertian.wixsite.com/codexbiais)
+- [Des slides résumants les notions de biais cognitifs](../fichiers/slides_atelier2.pdf)
+- [Une liste des arguments fallacieux](Liste_fallacieux.md)
+- [La page wikipédia des biais cognitifs](https://fr.wikipedia.org/wiki/Biais_cognitif)
+- [Le codex des biais cognitifs](https://inertian.wixsite.com/codexbiais)
 
 ---
 
