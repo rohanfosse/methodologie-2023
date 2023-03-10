@@ -63,7 +63,7 @@ Si vous avez un professeur qui est très gentil, vous pourriez penser qu'il est 
 
 ---
 
-#### Les biais de mémoire <a name="memoire">
+#### Les biais de mémoire <a name="memoire"></a>
 
 Les **biais de mémoire** sont des tendances à se rappeler ou à oublier des informations de manière sélective.
 
