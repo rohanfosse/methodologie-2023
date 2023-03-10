@@ -17,7 +17,7 @@ Des slides résumants les notions  présentées ci-dessous sont disponibles [ici
 
 Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur l'observation, la répétabilité et la vérification des résultats.
 
-## La démarche inductive <a href = "https://fr.wikipedia.org/wiki/Induction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "15" width="15"/> </a>
+## Le raisonnement inductif <a href = "https://fr.wikipedia.org/wiki/Induction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "15" width="15"/> </a>
 
 La démarche **inductive**, aussi appelée approche **empirico-inductive**, est une méthode scientifique qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
 
@@ -29,7 +29,63 @@ La loi générale que l'on formule doit être vérfiée pour chacun des évènem
 
 *Extrait de “[Le raisonnement en sciences de l’ingénieur”, JL Prensier, T. Zenard, 2006, ENS Cachan](https://eduscol.education.fr/sti/sites/eduscol.education.fr.sti/files/ressources/pedagogiques/6217/6217-le-raisonnement-en-sciences-de-lingenieur-ens.pdf)"*
 
-#### Quelle est l’utilité de la démarche inductive dans le domaine académique ?
+### Types de raisonnement inductif
+
+Les types de raisonnement inductif comprennent la généralisation, la prédiction, le syllogisme statistique, l'argument de l'analogie et l'inférence causale.
+
+#### La généralisation
+
+Une généralisation (plus précisément, une généralisation inductive) part d'une prémisse concernant un échantillon pour aboutir à une conclusion concernant la population. L'observation obtenue à partir de cet échantillon est projetée sur une population plus large. <a href = "https://www.google.fr/books/edition/A_Practical_Study_of_Argument_Enhanced_E/_1UJzgEACAAJ?hl=fr" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "10" width="10"/> </a>
+
+    La proportion Q de l'échantillon possède l'attribut A.
+    Par conséquent, la proportion Q de la population possède l'attribut A.
+
+
+<div class="exemple_atelier">
+
+Supposons qu'il y ait 20 boules - noires ou blanches - dans une urne.
+
+Pour estimer leur nombre respectif, vous tirez un échantillon de quatre boules et constatez que trois sont noires et une est blanche.
+
+Une **généralisation inductive** serait qu'il y a 15 boules noires et cinq boules blanches dans l'urne.
+
+</div>
+
+La reliabilité de la généralisation inductive dépend de trois facteurs:
+
+1. du nombre de personnes dans le groupe d'échantillonnage;
+2. du nombre de personnes dans la population;
+3. du degré de représentativité de l'échantillon par rapport à la population (ce qui peut être réalisé en prenant un échantillon aléatoire).
+
+Plus la taille de l'échantillon est importante par rapport à la population et plus l'échantillon est représentatif de la population, plus la généralisation est forte.
+
+La généralisation hâtive et l'échantillon biaisé sont des erreurs de généralisation.
+
+#### Généralisation statistique <a href = "https://fr.wikipedia.org/wiki/Syllogisme_statistique" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "15" width="15"/> </a>
+
+Une généralisation statistique est un type d'argument inductif dans lequel une conclusion concernant une population est déduite à l'aide d'un échantillon statistiquement représentatif.
+
+    Sur un échantillon aléatoire non négligeable de votants interrogés, 66 % soutiennent la mesure Z.
+    Par conséquent, environ 66 % des électeurs soutiennent la mesure Z. 
+
+La mesure est très fiable, avec une marge d'erreur bien définie, à condition que l'échantillon soit important et aléatoire. Elle est facilement quantifiable.
+
+
+#### Généralisation anecdotique <a href = "https://fr.wikipedia.org/wiki/Preuve_anecdotique" target = "_blank"> <img src = "../fichiers/icons/chain.png" width = "20px" height = "15" width="15"/> </a>
+
+Une généralisation anecdotique est un type d'argument inductif dans lequel une conclusion sur une population est déduite à l'aide d'un échantillon non statistique.En d'autres termes, la généralisation est basée sur des preuves anecdotiques.
+
+    Jusqu'à présent, cette année, l'équipe de football de mon fils a remporté 6 matchs sur 10.
+    Par conséquent, à la fin de la saison, ils auront gagné environ 60 % des matchs.
+
+Cette déduction est moins fiable (et donc plus susceptible de commettre l'erreur de la généralisation hâtive) qu'une généralisation statistique, d'abord parce que les événements de l'échantillon ne sont pas aléatoires, et ensuite parce qu'elle n'est pas réductible à l'expression mathématique.
+
+D'un point de vue statistique, il n'existe tout simplement aucun moyen de connaître, de mesurer et de calculer les circonstances affectant les performances qui se produiront à l'avenir.
+
+D'un point de vue philosophique, l'argument repose sur le présupposé que le fonctionnement des événements futurs sera le reflet du passé. En d'autres termes, il prend pour acquis l'uniformité de la nature, un principe non prouvé qui ne peut être dérivé des données empiriques elles-mêmes. Les arguments qui présupposent tacitement cette uniformité sont parfois qualifiés de "humiens", du nom du philosophe qui a été le premier à les soumettre à un examen philosophique. <a href = "https://www.routledge.com/Introduction-to-Logic/Gensler/p/book/9781138910591" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "10" width="10"/> </a>
+
+
+### Quelle est l’utilité de la démarche inductive dans le domaine académique ?
 
 La démarche inductive est utile lorsque vous étudiez un sujet ou un phénomène connu. La démarche inductive permet aussi de :
 
@@ -38,105 +94,6 @@ La démarche inductive est utile lorsque vous étudiez un sujet ou un phénomèn
 - trouver les causes du phénomène étudié ;
 - donner une explication à des effets observés ;
 - Etablir une conclusion apportant des explications scientifiques sur le sujet ou sur le phénomène étudié.
-
-#### Mener une démarche inductive en 4 étapes
-
-La méthodologie de la démarche inductive se décompose en 4 étapes.
-
-#### Analyser son sujet de travail
-
-Avant de se lancer dans un travail inductif, il est important de bien analyser le sujet ou le phénomène étudié.
-
-Pour cela, on doit se poser plusieurs questions :
-
-- Le sujet ou le phénomène que j’étudie est-il observable ?
-- Comporte-t-il des données chiffrées, brutes et/ou matériels ?
-- Le phénomène est-il connu, réel ?
-
-
-
-<div class="exemple_atelier">
-
-##### Exemple
-
-**Sujet:** la baisse de la mortalité sur les routes en France.
-
-**Données chiffrées:** 254 décès en novembre 2019 contre 268 en 2018.
-
-**Données brutes:** recul du taux de mortalité de 5,2 %.
-
-**Faits observables:** baisse du nombre de morts sur les routes françaises
-    pour le troisième mois consécutif.
-
-À partir de ce phénomène connu (la baisse de la mortalité
-    sur les routes françaises), on cherchera à en comprendre les causes.
-
-</div>
-
-#### L’observation et l’enregistrement des faits
-
-Après avoir vérifié que le sujet de l’étude peut bien coller avec la démarche inductive, on peut se lancer dans ses recherches.
-
-L’intérêt est de comprendre les causes du phénomène ou du fait qu’il étudie.
-
-Pour parvenir à obtenir des réponses, on peut se rendre sur le terrain, mener des observations, se documenter, et rencontrer des acteurs susceptibles de lui apporter des réponses (avec des entretiens par exemple).
-
-<div class="exemple_atelier">
-
-##### Exemple
-
-**Sujet:** la baisse de la mortalité sur les routes en France.
-
-- Étudier les chiffres de la mortalité routière en France depuis le début des années 2000.
-- Interroger un membre de la sécurité routière.
-- Lire des rapports au sujet de la mortalité sur les routes en France.
-- Étudier d’éventuelles corrélations : variation de la consommation d’alcool et de drogue en France.
-
-</div>
-
-#### Analyser des informations collectées
-
-Après être allé sur le terrain pour récolter des informations, on peut désormais analyser les informations collectées.
-
-Cette analyse doit permettre de faire émerger les causes du fait ou du phénomène qu’il étudie.
-
-<div class="exemple_atelier">
-
-##### Exemple
-
-**Sujet:** la baisse de la mortalité sur les routes en France.
-
-À partir des informations et des faits relevés sur le terrain, deux éléments semblent être la cause expliquant le phénomène de la baisse de la mortalité sur les routes en France.
-
-La sécurité renforcée dans les voitures: grâce à de nouveaux modèles de voitures, les technologies embarquées pour lutter contre les accidents et mieux protéger en cas d’accidents se sont fortement améliorées.
-
-Les politiques publiques en termes de sécurité routière augmentent et s’intensifient depuis 10 ans (pose de nouveau radar, limitation de vitesse supplémentaire sur certains axes, passage aux 80 km/h sur les routes départementales, augmentation des contrôles routiers, augmentation des amendes).
-
-</div>
-
-#### La conclusion
-
-La conclusion doit servir à l’étudiant de reprendre les arguments avancés afin d’expliquer les causes du phénomène ou du sujet étudié.
-
-Il doit prouver avec des chiffres et des arguments fournis, les éléments qu’il avance.
-
-<div class="exemple_atelier">
-
-##### Exemple
-
-**Sujet:** la baisse de la mortalité sur les routes en France.
-
-Le phénomène de baisse de la mortalité en France s’explique principalement par deux causes reliées l’une à l’autre par un facteur commun.
-
-Tout d’abord, les politiques publiques menées en France depuis les années 90 ont permis de lutter efficacement contre la mortalité routière : la hausse des amendes, l’augmentation des limitations de vitesse, l’augmentation des contrôles routiers, et surtout, l’arrivée de la technologie des contrôles radars fixes sur les routes de France. Avec 4 700 appareils en activité, l’État français est parvenu à faire chuter le nombre de morts sur les routes de France. Avec près d’un milliard d’euros récoltés par an, l’État réinvesti 80 % de cette somme dans l’entretien des routes, ce qui permet d’éviter de nouveaux accidents causés par des infrastructures de mauvaise qualité.
-
-La deuxième cause s’inscrit elle aussi sous la coupe de la technologie. Avec des véhicules intelligents qui embarquent des technologies toujours plus sophistiquées (nombre et performance des airbags, contrôle du dépassement des lignes blanches, contrôle des angles morts, système de freinage à distance, système ABS, appel d’urgence en cas de choc violent), le nombre de morts a fortement diminué.
-
-Si le nombre de morts est passé de plus de 10 000 personnes en 1990 à environ 3 200 en 2018, cela s’explique en partie par la volonté de l’État de mettre en place d’avantages de mesures restrictives, bien aidés par le progrès de certaines technologies sur le bord des routes ou directement embarquées dans les voitures.
-
-</div>
-
-La démarche déductive s’avère utile pour mener un travail de recherche ou une enquête.
 
 ---
 
