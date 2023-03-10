@@ -1,4 +1,9 @@
-[Retour au sommaire](../README.md)
+<p style="text-align:left;">
+    [Retour au sommaire](../README.md)
+    <span style="float:right;">
+        [Retour à l'Atelier 2](Atelier2.md)
+    </span>
+</p>
 
 # Liste des arguments fallacieux
 
@@ -8,7 +13,7 @@ Merci à [Alexandre Blanché](https://www.labri.fr/perso/ablanche/) pour son tra
 
 Les **arguments fallacieux formels** sont des arguments qui utilisent des règles de logique et de raisonnement erronées. En voici une liste non-exhaustive :
 
-### Affirmation d’une disjonction  <a href="https://fr.wikipedia.org/wiki/Affirmation_d%27une_disjonction" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Affirmation d’une disjonction  <a href="https://fr.wikipedia.org/wiki/Affirmation_d%27une_disjonction" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 On affirme que si une disjonction est vraie et que l’une de ses disjonctions est vraie, alors l’autre est forcèment fausse.
 
@@ -24,7 +29,7 @@ La couverture de ce mois-ci était celle d'une célébrité.
 Cette célébrité n'est donc pas très belle.
 </div>
 
-### Affirmation du conséquent <a href="https://fr.wikipedia.org/wiki/Affirmation_du_cons%C3%A9quent" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Affirmation du conséquent <a href="https://fr.wikipedia.org/wiki/Affirmation_du_cons%C3%A9quent" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 L'affirmation du conséquent est un sophisme formel par lequel on considère une condition suffisante comme une condition nécessaire. On traite alors une implication logique comme si elle était une équivalence logique.
 
@@ -44,7 +49,7 @@ Un tel raisonnement est invalide parce que le sol peut être mouillé pour une a
 
 
 
-### Négation de l’antécédent <a href="https://fr.wikipedia.org/wiki/N%C3%A9gation_de_l%27ant%C3%A9c%C3%A9dent" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Négation de l’antécédent <a href="https://fr.wikipedia.org/wiki/N%C3%A9gation_de_l%27ant%C3%A9c%C3%A9dent" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 La négation de l'antécédent, parfois également appelée erreur inverse ou sophisme de l'inverse, est un sophisme formel consistant à déduire l'inverse de l'énoncé d'origine. Elle est commise par des raisonnements de la forme :
 
@@ -102,7 +107,7 @@ Donc aucun homme n’est mortel.
 
 </div>
 
-### Appel à la probabilité <a href="https://fr.wikipedia.org/wiki/Appel_%C3%A0_la_probabilit%C3%A9" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Appel à la probabilité <a href="https://fr.wikipedia.org/wiki/Appel_%C3%A0_la_probabilit%C3%A9" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 Une proposition est supposée vraie parce qu’elle est très probable.
 
@@ -112,7 +117,7 @@ Quelque chose peut mal tourner (prémisse).
 Par conséquent, quelque chose va mal se passer (conclusion invalide).
 </div>
 
-### Argument from fallacy (the fallacy fallacy) <a href="https://en.wikipedia.org/wiki/Argument_from_fallacy" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Argument from fallacy (the fallacy fallacy) <a href="https://en.wikipedia.org/wiki/Argument_from_fallacy" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 La conclusion d’un raisonnement est supposée fausse car le raisonnement qui mène à elle est fallacieux.
 
@@ -125,7 +130,7 @@ La conclusion d’un raisonnement est supposée fausse car le raisonnement qui m
 
 Cette catégorie regroupe les arguments informels visant à convaincre ou persuader son auditoire via une utilisation erronée ou malhonnête du contenu ou du contexte des faits. En voici une liste non-exhaustive :
 
-### Argument Ad hominem <a href="https://fr.wikipedia.org/wiki/Argumentum_ad_hominem" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Argument Ad hominem <a href="https://fr.wikipedia.org/wiki/Argumentum_ad_hominem" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 L'argument *Ad hominem* consiste à attaquer son adversaire sur la cohérence de ses propos en lui opposant ses propres paroles ou ses propres actions/
 
@@ -137,7 +142,7 @@ L'argument *ad hominem* est le 16e stratagème recensé par Arthur Schopenhauer 
 Bien que le Dr Barone plaide en faveur de la réduction de notre empreinte carbone, elle vit dans une grande maison et conduit un SUV.
 </div>
 
-### Appel à la pitié (et aux émotions en général) <a href="https://fr.wikipedia.org/wiki/Argumentum_ad_misericordiam" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Appel à la pitié (et aux émotions en général) <a href="https://fr.wikipedia.org/wiki/Argumentum_ad_misericordiam" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 L'appel à la pitié est un sophisme consistant à obtenir l'appui de son argument en exploitant un sentiment de pitié ou de culpabilité chez son adversaire. L'appel à la pitié est une forme d'appel à l'émotion.
 
@@ -149,7 +154,7 @@ Mesdames et messieurs du jury, regardez cet homme misérable, dans un fauteuil r
 
 </div>
 
-### Appel à la nature / à la tradition <a href="https://fr.wikipedia.org/wiki/Appel_%C3%A0_la_nature" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Appel à la nature / à la tradition <a href="https://fr.wikipedia.org/wiki/Appel_%C3%A0_la_nature" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 L'appel à la nature est un argument dans lequel il est proposé qu'une chose est bonne parce qu'elle est **naturelle**, ou mauvaise parce qu'elle est **non naturelle**.
 
@@ -159,7 +164,7 @@ La cocaïne est entièrement naturelle ; elle est donc bonne pour la santé.
 
 </div>
 
-### Homme de paille <a href="https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique)" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Homme de paille <a href="https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique)" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 La technique de l'homme de paille (ou de l'épouvantail) consiste à déformer la position de l'adversaire en lui attribuant un argument facilement réfutable.
 
@@ -169,7 +174,7 @@ La technique de l'homme de paille (ou de l'épouvantail) consiste à déformer l
 La proposition « je suis contre la construction d'un porte-avions » a été détournée en « je suis contre la défense de mon pays », argument beaucoup plus facile à mettre en défaut. 
 </div>
 
-### Appel à l’ignorance <a href="https://fr.wikipedia.org/wiki/Appel_%C3%A0_l%27ignorance" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Appel à l’ignorance <a href="https://fr.wikipedia.org/wiki/Appel_%C3%A0_l%27ignorance" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 L'appel à l'ignorance est un raisonnement fallacieux dans lequel une proposition est déclarée vraie parce qu'elle n'a pas été démontrée fausse.
 
@@ -177,7 +182,7 @@ L'appel à l'ignorance est un raisonnement fallacieux dans lequel une propositio
 “La science ne peut pas prouver que Dieu n’existe pas / que les extraterrestres ne visitent pas la Terre.” (C’est un exemple de renversement de la charge de la preuve, exiger de son opposant qu’il prouve que ce que l’on affirme sans preuve est faux.)
 </div>
 
-### Confusion entre corrélation et causalité <a href="https://manuelnumeriquemax.belin.education/ses-terminale/topics/ses-tle-c13-468-a_fiche-methode-10-distinguer-correlation-et-causalite" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Confusion entre corrélation et causalité <a href="https://manuelnumeriquemax.belin.education/ses-terminale/topics/ses-tle-c13-468-a_fiche-methode-10-distinguer-correlation-et-causalite" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 Le fait que deux variables soient corrélées n’implique pas que l’une est la cause de l’autre.
 
@@ -185,7 +190,7 @@ Le fait que deux variables soient corrélées n’implique pas que l’une est l
 Exemple: Il existe une corrélation entre la vente de crème glacée et le nombre de morts par noyade. En réalité, ces deux phénomènes sont causés par une météo favorable.
 </div>
 
-### Cherry-picking <a href="https://fr.wikipedia.org/wiki/Cherry_picking" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Cherry-picking <a href="https://fr.wikipedia.org/wiki/Cherry_picking" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 Le **cherry picking** est un procédé de présentation des faits ou des données qui donnent du crédit à son opinion en passant sous silence les cas qui la contredisent. Ce procédé trompeur, pas nécessairement intentionnel, est typique des **biais de confirmation**.
 
@@ -197,7 +202,7 @@ Dans [une étude](https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.159
 
 </div>
 
-### Biais du survivant <a href="https://fr.wikipedia.org/wiki/Biais_des_survivants" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Biais du survivant <a href="https://fr.wikipedia.org/wiki/Biais_des_survivants" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 Le biais des survivants est une forme de biais de sélection consistant à surévaluer les chances de succès d'une initiative en concentrant l'attention sur les sujets ayant réussi mais qui sont des exceptions statistiques (des « survivants ») plutôt que des cas représentatifs.
 
@@ -209,7 +214,7 @@ Au cours de la Seconde Guerre mondiale, le statisticien Abraham Wald a pris en c
 *Illustration of hypothetical damage pattern on a WW2 bomber. Based on a not-illustrated report by Abraham Wald (1943)*
 </div>
 
-### Généralisation abusive <a href="https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ralisation_abusive" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Généralisation abusive <a href="https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ralisation_abusive" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 
 La généralisation abusive, aussi appelée généralisation hâtive, est une forme de sophisme qui consiste à tirer une conclusion générale à partir d’une expérience isolée ou d’un échantillon trop limité pour être significatif ou pertinent.
@@ -220,7 +225,7 @@ Les compagnies de tabac utilisaient ce type de sophisme pour expliquer que la co
 Source: [https://www.generationsanstabac.org/article/lobby-du-tabac-tres-actif-au-sein-de-la-commission-europeenne/](https://www.generationsanstabac.org/article/lobby-du-tabac-tres-actif-au-sein-de-la-commission-europeenne/)
 </div>
 
-### Fausse dichotomie <a href="https://fr.wikipedia.org/wiki/Faux_dilemme" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Fausse dichotomie <a href="https://fr.wikipedia.org/wiki/Faux_dilemme" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 La fausse dichotomie ou énumération incomplète, est un raisonnement fallacieux qui consiste à présenter deux solutions à un problème donné comme si elles étaient les deux seules possibles, alors qu'en réalité, il en existe d'autres.
 
@@ -230,7 +235,7 @@ Un argument courant contre les lois sur la pollution sonore consiste à faire un
 Source: [https://eastvillage.thelocal.nytimes.com/2012/01/23/noise-complaints/](https://eastvillage.thelocal.nytimes.com/2012/01/23/noise-complaints/)
 </div>
 
-### Moving the goalpost <a href="https://en.wikipedia.org/wiki/Moving_the_goalposts" target="_blank"><img src="icons/chain.png" width="15" height="15" /></a>
+### Moving the goalpost <a href="https://en.wikipedia.org/wiki/Moving_the_goalposts" target="_blank"><img src="images/chain.png" width="15" height="15" /></a>
 
 *Moving the goalpost* est un sophisme informel qui consiste à rejeter les preuves présentées en réponse à une affirmation spécifique et à exiger d'autres preuves (souvent plus importantes).
 
