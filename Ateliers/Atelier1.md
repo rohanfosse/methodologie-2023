@@ -66,8 +66,12 @@ La généralisation hâtive et l'échantillon biaisé sont des erreurs de géné
 
 Une généralisation statistique est un type d'argument inductif dans lequel une conclusion concernant une population est déduite à l'aide d'un échantillon statistiquement représentatif.
 
-    Sur un échantillon aléatoire non négligeable de votants interrogés, 66 % soutiennent la mesure Z.
-    Par conséquent, environ 66 % des électeurs soutiennent la mesure Z. 
+<div class="theorem_atelier">
+Sur un échantillon aléatoire non négligeable de votants interrogés, 66 % soutiennent la mesure Z.
+
+Par conséquent, environ 66 % des électeurs soutiennent la mesure Z. 
+</div>
+
 
 La mesure est très fiable, avec une marge d'erreur bien définie, à condition que l'échantillon soit important et aléatoire. Elle est facilement quantifiable.
 
@@ -76,8 +80,11 @@ La mesure est très fiable, avec une marge d'erreur bien définie, à condition 
 
 Une généralisation anecdotique est un type d'argument inductif dans lequel une conclusion sur une population est déduite à l'aide d'un échantillon non statistique.En d'autres termes, la généralisation est basée sur des preuves anecdotiques.
 
-    Jusqu'à présent, cette année, l'équipe de football de mon fils a remporté 6 matchs sur 10.
-    Par conséquent, à la fin de la saison, ils auront gagné environ 60 % des matchs.
+<div class="theorem_atelier">
+Jusqu'à présent, cette année, l'équipe de football de mon fils a remporté 6 matchs sur 10.
+Par conséquent, à la fin de la saison, ils auront gagné environ 60 % des matchs.
+</div>
+
 
 Cette déduction est moins fiable (et donc plus susceptible de commettre l'erreur de la généralisation hâtive) qu'une généralisation statistique, d'abord parce que les événements de l'échantillon ne sont pas aléatoires, et ensuite parce qu'elle n'est pas réductible à l'expression mathématique.
 
@@ -91,16 +98,24 @@ Une prédiction inductive tire une conclusion sur un cas futur, actuel ou passé
  
 Mais au lieu de conclure par une déclaration générale, la prédiction inductive conclut par une déclaration spécifique sur la probabilité qu'une instance unique ait un attribut partagé par les autres instances.
 
-    La proportion Q des membres observés du groupe G a l'attribut A.
-    Par conséquent, il existe une probabilité P que d'autres membres du groupe G aient l'attribut A lors de leur prochaine observation.
+<div class="theorem_atelier">
+La proportion Q des membres observés du groupe G a l'attribut A.
+
+Par conséquent, il existe une probabilité P que d'autres membres du groupe G aient l'attribut A lors de leur prochaine observation.
+</div>
+
 
 ##### Syllogisme statistique <a href = "https://fr.wikipedia.org/wiki/Syllogisme_statistique" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
 
 Un syllogisme statistique part d'une généralisation sur un groupe pour aboutir à une conclusion sur un individu.
 
-    La proportion Q des individus connus du groupe G possède l'attribut A.
-    L'individu I est un autre membre de G.
-    Par conséquent, il existe une probabilité correspondant à P que I possède l'attribut A.
+<div class="theorem_atelier">
+La proportion Q des individus connus du groupe G possède l'attribut A.
+
+L'individu I est un autre membre de G.
+
+Par conséquent, il existe une probabilité correspondant à P que I possède l'attribut A.
+</div>
 
 <div class="exemple_atelier">
 90 % des diplômés de l'école préparatoire Excelsior poursuivent leurs études à l'université.
@@ -118,9 +133,13 @@ En règle générale, le raisonnement inductif cherche à formuler une probabili
 
 Le processus d'inférence analogique consiste à noter les propriétés communes de deux ou plusieurs choses et à en déduire qu'elles partagent également d'autres propriétés :
 
-    P et Q sont similaires en ce qui concerne les propriétés a, b et c.
-    L'objet P a été observé comme ayant une autre propriété x.
-    Par conséquent, Q possède probablement aussi la propriété x.
+<div class="theorem_atelier">
+P et Q sont similaires en ce qui concerne les propriétés a, b et c.
+
+L'objet P a été observé comme ayant une autre propriété x.
+
+Par conséquent, Q possède probablement aussi la propriété x.
+</div>
 
 
 Le raisonnement analogique est très fréquent dans le sens commun, la science, la philosophie, le droit et les sciences humaines.
