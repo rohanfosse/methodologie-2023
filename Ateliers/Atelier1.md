@@ -15,7 +15,7 @@ Des slides résumants les notions  présentées ci-dessous sont disponibles [ici
 
 ---
 
-Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur l'observation, la répétabilité et la vérification des résultats.
+Une méthode scientifique est une démarche qui permet de répondre à une question en utilisant des données et des observations. Elle est basée sur **l'observation**, **la répétabilité** et **la vérification des résultats**.
 
 ## Le raisonnement inductif <a href = "https://fr.wikipedia.org/wiki/Induction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
 
