@@ -1,4 +1,9 @@
-[Retour au sommaire](../README.md)
+<p style="text-align:left;">
+    [Retour au sommaire](../README.md)
+    <span style="float:right;">
+        [Atelier 3: Communication et interprétation des données](Atelier3.md)
+    </span>
+</p>
 
 <div style="text-align: center;">
 
@@ -6,12 +11,11 @@
 
 </div>
 
-Les `biais cognitifs` sont des erreurs de raisonnement qui peuvent affecter notre prise de décision. Ils peuvent être **conscients** ou **inconscients**. Ils peuvent etre causés par des facteurs comme la culture, l'expérience personnelle ou encore l'environnement.
+Les **biais cognitifs** sont des erreurs de raisonnement qui peuvent affecter notre prise de décision. Ils peuvent être **conscients** ou **inconscients**. Ils peuvent etre causés par des facteurs comme la culture, l'expérience personnelle ou encore l'environnement.
 
 Les biais cognitifs peuvent **affecter** la façon dont nous percevons les informations, les traitons et les interprétons.
 
-Les `arguments fallacieux` sont des arguments qui semblent être logiques mais qui ne le sont pas.
-
+Les **arguments fallacieux** sont des arguments qui semblent être logiques mais qui ne le sont pas.
 
 ---
 
@@ -103,7 +107,7 @@ Source: [https://www.cairn.info/revue-le-coq-heron-2010-3-page-94.htm](https://w
 
 ### Les biais sociaux
 
-Les `biais sociaux` sont des tendances à interpréter ou à attribuer des significations à des informations en fonction de nos préférences, de nos croyances ou de nos expériences personnelles.
+Les **biais sociaux** sont des tendances à interpréter ou à attribuer des significations à des informations en fonction de nos préférences, de nos croyances ou de nos expériences personnelles.
 
 
 #### Biais de stéréotypage
@@ -150,7 +154,7 @@ Si vous êtes dans un groupe de personnes qui pensent que le monde est plat, vou
 
 #### L'effet d'illusion de contrôle
 
-`L’illusion de contrôle` est un biais cognitif qui se produit lorsque nous surestimons notre capacité à contrôler les évènements ou les résultats, même lorsque les facteurs qui les déterminent sont en grande partie hors de notre contrôle.
+**L’illusion de contrôle** est un biais cognitif qui se produit lorsque nous surestimons notre capacité à contrôler les évènements ou les résultats, même lorsque les facteurs qui les déterminent sont en grande partie hors de notre contrôle.
 
 
 <div class="exemple_atelier">
