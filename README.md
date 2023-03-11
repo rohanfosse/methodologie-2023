@@ -30,7 +30,7 @@ Sensibiliser les étudiants aux différents biais cognitifs et de raisonnement, 
 
 #### Atelier 3: Communication et interprétation des données
 
-Représenter graphiquement des données, les commenter, les décrire et les interpréter. 
+Représenter graphiquement des données, les commenter, les décrire et les interpréter.
 
 </div>
 
