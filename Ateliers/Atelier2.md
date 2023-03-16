@@ -46,6 +46,8 @@ Il est important de noter que ces catégories ne sont pas **exclusives**.
 Les biais de perception sont des tendances à interpréter ou à attribuer des significations à des informations.
 
 
+<div class="line"></div>
+
 ##### Effet de Halo <a href="https://fr.wikipedia.org/wiki/Effet_de_halo" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 **L’effet de halo** est un biais cognitif qui affecte la perception des gens ou de marques.
@@ -68,6 +70,8 @@ Si vous avez un professeur qui est très gentil, vous pourriez penser qu'il est 
 Les **biais de mémoire** sont des tendances à se rappeler ou à oublier des informations de manière sélective.
 
 
+<div class="line"></div>
+
 ##### Effet de suggestion <a href="https://nospensees.fr/la-suggestion-leffet-de-ce-qui-nest-que-dans-notre-esprit/" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 **L’effet de suggestion** est un **biais cognitif** qui se produit lorsque les suggestions, les préférences ou les attentes d’une personne influencent la perception ou le comportement d’une autre personne.
@@ -80,6 +84,8 @@ Si une publicité suggère que l’achat d’un produit nous rendra plus heureux
 </div>
 
 
+<div class="line"></div>
+
 ##### Effet de familiarité <a href="https://drivemarketing.ca/fr/blog/2021-04/le-principe-de-familiarite/" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 **L’effet de familiarité** est un biais cognitif qui se produit lorsque nous avons tendance à préférer les choses familières par rapport aux choses nouvelles ou inconnues.
@@ -91,6 +97,8 @@ Les personnes ont tendance à préférer les chansons qu’elles ont déjà ente
 Source: [https://www.cairn.info/revue-le-coq-heron-2010-3-page-94.htm](https://www.cairn.info/revue-le-coq-heron-2010-3-page-94.htm)
 
 </div>
+
+<div class="line"></div>
 
 ##### Effet de primauté <a href="https://fr.wikipedia.org/wiki/Effet_de_primaut%C3%A9" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
@@ -118,6 +126,8 @@ Source: [Asch, S. E. (1946). Forming impressions of personality. The Journal of 
 Les **biais sociaux** sont des tendances à interpréter ou à attribuer des significations à des informations en fonction de nos préférences, de nos croyances ou de nos expériences personnelles.
 
 
+<div class="line"></div>
+
 ##### Biais de stéréotypage <a href="https://fondationlafrancesengage.org/sensibiliser_aux_biais_inconscients_et_aux_stereotypes/" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 Le **biais de stéréotypage** est un biais cognitif qui se produit lorsque nous avons tendance à attribuer des caractéristiques à une personne ou à un groupe de personnes en fonction de leur appartenance à un groupe social. Les stéréotypes sont souvent le résultat d'une simplification excessive de la réalité.
@@ -128,6 +138,8 @@ Le **biais de stéréotypage** est un biais cognitif qui se produit lorsque nous
 
 </div>
 
+
+<div class="line"></div>
 
 ##### Biais d'autorité  <a href="https://fr.wikipedia.org/wiki/Argument_d%27autorit%C3%A9" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
@@ -158,6 +170,8 @@ Nous devrions donc prendre la discipline de l'alchimie au sérieux.
 Les **biais de raisonnement** sont des tendances à traiter l’information de manière erronée ou à tirer des conclusions incorrectes.
 
 
+<div class="line"></div>
+
 ##### L'effet de pensée de groupe <a href="https://fr.wikipedia.org/wiki/Pens%C3%A9e_de_groupe" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 **L’effet de pensée de groupe** est un biais cognitif qui se produit lorsqu’un groupe de personnes prend des décisions ou formule des opinions de manière homogène, en accordant plus d’importance à la cohésion du groupe et à la conformité sociale qu’à l’analyse critique des informations disponibles.
@@ -172,6 +186,8 @@ Source: [Groupthink: Psychological Studies of Policy Decisions and Fiascoes](htt
 
 </div>
 
+
+<div class="line"></div>
 
 ##### L'effet d'illusion de contrôle    <a href="https://fr.wikipedia.org/wiki/Illusion_de_contr%C3%B4le" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
@@ -219,6 +235,8 @@ Source: [Forget fake news on Facebook – the real filter bubble is you](https:/
 
 </div>
 
+<div class="line"></div>
+
 ##### L’effet de déni <a name="deni"></a><a href="https://linitiative.ca/la-dissonance-cognitive-du-deni-a-la-dictature-des-emotions/" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 Tendance à nier ou minimiser l’importance de l’impact environnemental des actions individuelles ou collectives.
@@ -228,6 +246,8 @@ Tendance à nier ou minimiser l’importance de l’impact environnemental des a
 Ignorer l’impact environnemental de l’achat de produits jetables ou des voyages en avion.
 
 </div>
+
+<div class="line"></div>
 
 ##### Le biais d’ancrage <a name="ancrage"></a><a href="https://fr.wikipedia.org/wiki/Biais_d%27ancrage" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
@@ -239,6 +259,8 @@ Fixer des objectifs de réduction des émissions de gaz à effet de serre sans t
 
 </div>
 
+<div class="line"></div>
+
 ##### Le biais d’optimisme <a name="optimisme"></a><a href="https://fr.wikipedia.org/wiki/Biais_d%27optimisme" target="_blank"><img src="images/chain.png" width="15" height="15" /> </a>
 
 Tendance à surestimer la probabilité d’obtenir des résultats positifs et à sous-estimer les risques.
@@ -248,6 +270,8 @@ Tendance à surestimer la probabilité d’obtenir des résultats positifs et à
 Supposer que les technologies de capture et de stockage du carbone seront déployées à grande échelle sans tenir compte des obstacles technologiques et économiques.
 
 </div>
+
+<div class="line"></div>
 
 ##### Le biais de statu quo <a name="statuquo"></a><a href="https://fr.wikipedia.org/wiki/Biais_du_statu_quo" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
@@ -261,6 +285,8 @@ Refuser de considérer des politiques environnementales plus ambitieuses parce q
 </div>
 
 
+<div class="line"></div>
+
 ##### L’effet de récence <a name="recence"></a><a href="https://fr.wikipedia.org/wiki/Effet_de_r%C3%A9cence" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 Tendance à accorder plus d’importance aux événements ou aux informations les plus récents, plutôt qu’à ceux qui se sont produits dans le passé.
@@ -272,6 +298,8 @@ Tendance à accorder plus d’importance aux événements ou aux informations le
 Focaliser sur des évènements météorologiques extrêmes récents (une semaine de neige par exemple) plutôt que sur les modèles de changement climatique à long terme.
 
 </div>
+
+---
 
 ## Comment lutter contre ses biais cognitifs? <a href="https://fr.wikipedia.org/wiki/Att%C3%A9nuation_des_biais_cognitifs" target="_blank"><img src="images/chain.png" width="15" height="15" /> </a>
 
@@ -298,6 +326,8 @@ La mise en place de politiques et de réglementations peut aider à lutter contr
 #### Adopter une approche critique
 
 Il est important d'adopter une approche critique à l'égard des informations et des arguments, même si cela remet en question nos propres croyances ou opinions. Cela peut aider à éviter les biais de confirmation et de rationalisation.
+
+---
 
 ## Les arguments fallacieux
 
