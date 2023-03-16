@@ -219,7 +219,7 @@ Source: [Forget fake news on Facebook – the real filter bubble is you](https:/
 
 </div>
 
-#### L’effet de déni <a name="deni"></a><a href="https://linitiative.ca/la-dissonance-cognitive-du-deni-a-la-dictature-des-emotions/" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
+##### L’effet de déni <a name="deni"></a><a href="https://linitiative.ca/la-dissonance-cognitive-du-deni-a-la-dictature-des-emotions/" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 Tendance à nier ou minimiser l’importance de l’impact environnemental des actions individuelles ou collectives.
 
@@ -229,7 +229,7 @@ Ignorer l’impact environnemental de l’achat de produits jetables ou des voya
 
 </div>
 
-#### Le biais d’ancrage <a name="ancrage"></a><a href="https://fr.wikipedia.org/wiki/Biais_d%27ancrage" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
+##### Le biais d’ancrage <a name="ancrage"></a><a href="https://fr.wikipedia.org/wiki/Biais_d%27ancrage" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 Tendance à s’appuyer sur des informations initiales pour prendre des décisions, plutôt que de rechercher des preuves supplémentaires.
 
@@ -239,7 +239,7 @@ Fixer des objectifs de réduction des émissions de gaz à effet de serre sans t
 
 </div>
 
-#### Le biais d’optimisme <a name="optimisme"></a><a href="https://fr.wikipedia.org/wiki/Biais_d%27optimisme" target="_blank"><img src="images/chain.png" width="15" height="15" /> </a>
+##### Le biais d’optimisme <a name="optimisme"></a><a href="https://fr.wikipedia.org/wiki/Biais_d%27optimisme" target="_blank"><img src="images/chain.png" width="15" height="15" /> </a>
 
 Tendance à surestimer la probabilité d’obtenir des résultats positifs et à sous-estimer les risques.
 
@@ -249,7 +249,7 @@ Supposer que les technologies de capture et de stockage du carbone seront déplo
 
 </div>
 
-#### Le biais de statu quo <a name="statuquo"></a><a href="https://fr.wikipedia.org/wiki/Biais_du_statu_quo" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
+##### Le biais de statu quo <a name="statuquo"></a><a href="https://fr.wikipedia.org/wiki/Biais_du_statu_quo" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 Tendance à préférer le statu quo plutôt que de considérer des alternatives potentiellement meilleures.
 
@@ -261,7 +261,7 @@ Refuser de considérer des politiques environnementales plus ambitieuses parce q
 </div>
 
 
-#### L’effet de récence <a name="recence"></a><a href="https://fr.wikipedia.org/wiki/Effet_de_r%C3%A9cence" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
+##### L’effet de récence <a name="recence"></a><a href="https://fr.wikipedia.org/wiki/Effet_de_r%C3%A9cence" target="_blank"><img src="images/chain.png" width="10" height="10" /> </a>
 
 Tendance à accorder plus d’importance aux événements ou aux informations les plus récents, plutôt qu’à ceux qui se sont produits dans le passé.
 
