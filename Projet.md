@@ -14,4 +14,26 @@
 
 ## Objectifs
 
+- Etudes des chapitres du livre "Les douze mensonges du GIEC" de Christian Gerondeau
+- Etudes des vidéos de Naomi Seibt
+
+Le but n'est pas de critiquer les auteurs mais de comprendre les arguments et de les discuter. Mettre en avant les erreurs de raisonnements et les biais cognitifs.
+
+Présentation avec un poster.
+
+#### Comment faire le poster
+
+Pour créer le poster, plusieurs solutions s'offrent à vous:
+
+- En LaTeX
+- Word
+- Powerpoint
+
+#### Que mettre dans le poster
+
+Trouver des patterns de biais cognitifs dans les textes étudiés. Quand les patterns sont mis en avant, essayer de les représenter sous forme de graphique.
+
+
+
+
 ## Ce qui est attendu

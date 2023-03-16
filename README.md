@@ -53,4 +53,4 @@ Les objectifs de ce travail sont multiples:
 
 - Communiquer à l'écrit et à l’oral sous forme d’un poster et d’une présentation orale
 
-[Plus d'informations sur le projet bibliographique](Projet.md)
+Plus d'informations sur le projet bibliographique
