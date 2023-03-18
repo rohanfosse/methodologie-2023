@@ -25,15 +25,21 @@ Présentation avec un poster.
 
 Pour créer le poster, plusieurs solutions s'offrent à vous:
 
-- En LaTeX
+- [Canva](https://www.canva.com/fr_fr/)
 - Word
 - Powerpoint
+- [Google Slides](https://docs.google.com/presentation/u/0/)
 
 #### Que mettre dans le poster
 
 Trouver des patterns de biais cognitifs dans les textes étudiés. Quand les patterns sont mis en avant, essayer de les représenter sous forme de graphique.
 
+---
 
+## Exemple de poster
 
+<p style="text-align:center;">
 
-## Ce qui est attendu
+    <img src="fichiers/Poster-Rohan-Naomi-v2.pdf" alt="Exemple de poster"/>
+
+</p>
