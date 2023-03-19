@@ -2,9 +2,9 @@
     [Retour au sommaire](README.md)
 </p>
 
-# Projet Bibliographique
+# Projet - Méthodologie Scientifique
 
-## Les différents liens
+## Les ressources du projet
 
 - [Les sujets du projets](fichiers/Cours_4TPU202U%20-%20Sujets%20de%20projets.pdf)
 - [Les douzes mensonges du GIEC - Christian Gerondeau](fichiers/Les%20douze%20mensonges%20du%20GIEC%20_%20La%20religion%20-%20Christian%20Gerondeau.docx)
@@ -12,7 +12,7 @@
 - [Transcription et Traduction Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 1](fichiers/transcription-naomi-1.md)
 - [Transcription et Traduction Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 2](fichiers/transcription-naomi-2.md)
 
-## Objectifs
+## La création du poster
 
 - Etudes des chapitres du livre "Les douze mensonges du GIEC" de Christian Gerondeau
 - Etudes des vidéos de Naomi Seibt
@@ -34,12 +34,16 @@ Pour créer le poster, plusieurs solutions s'offrent à vous:
 
 Trouver des patterns de biais cognitifs dans les textes étudiés. Quand les patterns sont mis en avant, essayer de les représenter sous forme de graphique.
 
----
-
-## Exemple de poster
+### Exemple de poster
 
 <p style="text-align:center;">
-
-    <img src="fichiers/Poster-Rohan-Naomi-v2.pdf" alt="Exemple de poster"/>
-
+    <object data="fichiers/Poster-Rohan-Naomi-v2.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="fichiers/Poster-Rohan-Naomi-v2.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="fichiers/Poster-Rohan-Naomi-v2.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 </p>
+
+---
+
+## La présentation orale
