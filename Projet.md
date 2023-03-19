@@ -4,6 +4,10 @@
 
 # Projet - Méthodologie Scientifique
 
+---
+<p style="text-align:center;">
+**Page en cours de construction**
+</p>
 ## Les ressources du projet
 
 - [Les sujets du projets](fichiers/Cours_4TPU202U%20-%20Sujets%20de%20projets.pdf)
