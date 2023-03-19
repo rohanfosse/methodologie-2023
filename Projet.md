@@ -16,9 +16,6 @@
 
 ## La création du poster
 
-- Etudes des chapitres du livre "Les douze mensonges du GIEC" de Christian Gerondeau
-- Etudes des vidéos de Naomi Seibt
-
 Le but n'est pas de critiquer les auteurs mais de mettre en avant les erreurs de raisonnements et les biais cognitifs.
 
 <div class="line"></div>
