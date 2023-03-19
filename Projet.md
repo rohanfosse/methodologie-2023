@@ -75,7 +75,9 @@ L'introduction est la partie la plus importante du poster. Elle doit être clair
 
 N'oubliez pas de mettre vos noms et prénoms sur le poster. Vous pouvez aussi rajouter votre adresse mail et/ou votre groupe de travail.
 
+#### 4. Les sources (les références)
 
+Il est important de citer vos sources. Vous pouvez le faire en bas du poster.
 
 ---
 
