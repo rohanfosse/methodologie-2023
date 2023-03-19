@@ -63,6 +63,20 @@ Décomposons le poster en plusieurs parties pour mieux comprendre comment il est
 
 ![Poster annoté](fichiers/Poster-R-N-annoted.png)
 
+#### 1. Le titre
+
+Le titre est important car il donne une première impression sur le sujet du poster. Il doit être clair et précis.
+
+#### 2. L'introduction
+
+L'introduction est la partie la plus importante du poster. Elle doit être claire et concise. Elle doit donner envie au lecteur de lire la suite du poster.
+
+#### 3. Les auteurs du poster
+
+N'oubliez pas de mettre vos noms et prénoms sur le poster. Vous pouvez aussi rajouter votre adresse mail et/ou votre groupe de travail.
+
+
+
 ---
 
 ## La présentation orale
