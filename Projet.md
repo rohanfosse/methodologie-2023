@@ -59,6 +59,10 @@ Vous pouvez télécharger le pdf du poster [ici](fichiers/Poster-Rohan-Naomi-v2.
 
 #### Etude du poster
 
+Décomposons le poster en plusieurs parties pour mieux comprendre comment il est structuré.
+
+![Poster annoté](fichiers/Poster-R-N-annoted.png)
+
 ---
 
 ## La présentation orale
