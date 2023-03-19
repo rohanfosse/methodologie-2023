@@ -12,16 +12,17 @@
 - [Transcription et Traduction Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 1](fichiers/transcription-naomi-1.md)
 - [Transcription et Traduction Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 2](fichiers/transcription-naomi-2.md)
 
+---
+
 ## La création du poster
 
 - Etudes des chapitres du livre "Les douze mensonges du GIEC" de Christian Gerondeau
 - Etudes des vidéos de Naomi Seibt
 
-Le but n'est pas de critiquer les auteurs mais de comprendre les arguments et de les discuter. Mettre en avant les erreurs de raisonnements et les biais cognitifs.
+Le but n'est pas de critiquer les auteurs mais de mettre en avant les erreurs de raisonnements et les biais cognitifs.
 
-Présentation avec un poster.
 
-#### Comment faire le poster
+### Quels outils utiliser pour créer le poster ?
 
 Pour créer le poster, plusieurs solutions s'offrent à vous:
 
@@ -30,16 +31,25 @@ Pour créer le poster, plusieurs solutions s'offrent à vous:
 - Powerpoint
 - [Google Slides](https://docs.google.com/presentation/u/0/)
 
-#### Que mettre dans le poster
 
-Trouver des patterns de biais cognitifs dans les textes étudiés. Quand les patterns sont mis en avant, essayer de les représenter sous forme de graphique.
+### Quelques conseils pour la création du poster
+
+- Le poster doit être clair et facile à lire
+- Le poster doit être structuré
+- Le poster doit être visuel
+- Le poster doit être compréhensible par un public non spécialiste
 
 ### Exemple de poster
 
 ![Poster](fichiers/Poster-Rohan-Naomi-v2.png)
 
-Vous pouvez télécharger le pdf du poster [ici](fichiers/Poster-Rohan-Naomi-v2.pdf) 
+Vous pouvez télécharger le pdf du poster [ici](fichiers/Poster-Rohan-Naomi-v2.pdf)
+
+<div class="line"></div>
+
+#### Etude du poster
 
 ---
 
 ## La présentation orale
+
