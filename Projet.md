@@ -21,16 +21,24 @@
 
 Le but n'est pas de critiquer les auteurs mais de mettre en avant les erreurs de raisonnements et les biais cognitifs.
 
+<div class="line"></div>
 
 ### Quels outils utiliser pour créer le poster ?
 
 Pour créer le poster, plusieurs solutions s'offrent à vous:
 
+- [Word](https://www.microsoft.com/fr-fr/microsoft-365/word) ou son équivalent libre [LibreOffice](https://fr.libreoffice.org/)
+- [Powerpoint](https://www.microsoft.com/fr-fr/microsoft-365/powerpoint)
+
+Pour collaborer à plusieurs sur le même document, vous pouvez utiliser:
+
 - [Canva](https://www.canva.com/fr_fr/)
-- Word
-- Powerpoint
+- [Google Docs](https://docs.google.com/document/u/0/)
 - [Google Slides](https://docs.google.com/presentation/u/0/)
 
+Enfin, pour ceux qui le souhaitent, vous pouvez créer votre poster en LaTeX. Pour cela, vous pouvez utiliser [Overleaf](https://www.overleaf.com/).
+
+<div class="line"></div>
 
 ### Quelques conseils pour la création du poster
 
@@ -38,6 +46,8 @@ Pour créer le poster, plusieurs solutions s'offrent à vous:
 - Le poster doit être structuré
 - Le poster doit être visuel
 - Le poster doit être compréhensible par un public non spécialiste
+
+<div class="line"></div>
 
 ### Exemple de poster
 
