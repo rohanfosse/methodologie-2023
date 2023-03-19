@@ -36,13 +36,9 @@ Trouver des patterns de biais cognitifs dans les textes étudiés. Quand les pat
 
 ### Exemple de poster
 
-<p style="text-align:center;">
-    <object data="fichiers/Poster-Rohan-Naomi-v2.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="fichiers/Poster-Rohan-Naomi-v2.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="fichiers/Poster-Rohan-Naomi-v2.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-</p>
+![Poster](dichiers/Poster-Rohan-Naomi-v2.png)
+
+Vous pouvez télécharger le pdf du poster [ici](fichiers/Poster-Rohan-Naomi-v2.pdf) 
 
 ---
 
