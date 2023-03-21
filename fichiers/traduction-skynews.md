@@ -6,6 +6,8 @@
 
 La vidéo est disponible ici: [https://youtu.be/aKET8Hs2aac?t=55](www.youtube.com/watch?v=aKET8Hs2aac)
 
+Merci à Guy Melançon pour la traduction.
+
 ---
 
 
