@@ -1,11 +1,11 @@
 <p style="text-align:left;">
     [Retour au sommaire](README.md)
 </p>
-<p style="text-align:center;">
+<div style="text-align:center;">
 
 # Projet - Méthodologie Scientifique
 
-</p>
+</div>
 ---
 <p style="text-align:center;">
 **Page en cours de construction**
