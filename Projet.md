@@ -2,7 +2,9 @@
     [Retour au sommaire](README.md)
 </p>
 <p style="text-align:center;">
+
 # Projet - Méthodologie Scientifique
+
 </p>
 ---
 <p style="text-align:center;">
