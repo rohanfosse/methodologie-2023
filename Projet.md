@@ -15,10 +15,13 @@
 - [Transcription et Traduction Naomi Seibt - Models Predict Catastrophe - Climate of Freedom #4](fichiers/transcription-naomi-cof4.md)
 - [Transcription et Traduction Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 1](fichiers/transcription-naomi-1.md)
 - [Transcription et Traduction Naomi Seibt - Climate of Freedom: THE CONSENSUS FRAUD part 2](fichiers/transcription-naomi-2.md)
+- [Transcription et Traduction Naomi Seibt - What Is the Motivation Behind Climate Socialism](fichiers/transcription-naomi-motivation.md)
 
 ---
 
 ## La création du poster
+
+Les slides du cours sont disponibles: [Slides Methodologie - Poster - Groupe B4](fichiers/Poster_methodologie_B4.pdf)
 
 Le but n'est pas de critiquer les auteurs mais de mettre en avant les erreurs de raisonnements et les biais cognitifs.
 
