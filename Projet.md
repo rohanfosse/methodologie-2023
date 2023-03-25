@@ -55,7 +55,9 @@ Enfin, pour ceux qui le souhaitent, vous pouvez créer votre poster en LaTeX. Po
 
 <div class="line"></div>
 
-### Exemple de poster
+### Deux exemples de poster
+
+#### Etude d'une vidéo de Naomi Seibt "What is the motivation behind climate socialism?"
 
 ![Poster](fichiers/Poster-Rohan-Naomi-v2.png)
 
@@ -63,29 +65,16 @@ Vous pouvez télécharger le pdf du poster [ici](fichiers/Poster-Rohan-Naomi-v2.
 
 <div class="line"></div>
 
+#### Etude d'une interview de Naomi Seibt "Models Predict Catastrophe"
+
+![Poster](fichiers/NaomiSeibt_SkyNews_poster.png)
+
 #### Etude du poster
 
-Décomposons le poster en plusieurs parties pour mieux comprendre comment il est structuré.
+Décomposons le premier poster en plusieurs parties pour mieux comprendre comment il est structuré.
 
 ![Poster annoté](fichiers/Poster-R-N-annoted.png)
-
-#### 1. Le titre
-
-Le titre est important car il donne une première impression sur le sujet du poster. Il doit être clair et précis.
-
-#### 2. L'introduction
-
-L'introduction est la partie la plus importante du poster. Elle doit être claire et concise. Elle doit donner envie au lecteur de lire la suite du poster.
-
-#### 3. Les auteurs du poster
-
-N'oubliez pas de mettre vos noms et prénoms sur le poster. Vous pouvez aussi rajouter votre adresse mail et/ou votre groupe de travail.
-
-#### 4. Les sources (les références)
-
-Il est important de citer vos sources. Vous pouvez le faire en bas du poster.
 
 ---
 
 ## La présentation orale
-
