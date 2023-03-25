@@ -76,5 +76,3 @@ Décomposons le premier poster en plusieurs parties pour mieux comprendre commen
 ![Poster annoté](fichiers/Poster-R-N-annoted.png)
 
 ---
-
-## La présentation orale
