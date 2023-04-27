@@ -67,7 +67,7 @@ Vous pouvez télécharger le pdf du poster [ici](fichiers/Poster-Rohan-Naomi-v2.
 
 #### Etude d'une interview de Naomi Seibt "Models Predict Catastrophe"
 
-![Poster](fichiers/NaomiSeibt_SkyNews_poster.pdf)
+![Poster](fichiers/NaomiSeibt_SkyNews_poster.png)
 
 #### Etude du poster
 
