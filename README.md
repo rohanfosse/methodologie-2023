@@ -33,7 +33,7 @@ gem install jekyll bundler
 Pour générer le site Web, exécutez la commande suivante dans le dossier `SiteWeb`:
 
 ```bash
-bundle exec jekyll build
+jekyll build
 ```
 
 Le site Web sera généré dans le dossier `_site`.
