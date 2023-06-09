@@ -1,70 +1,56 @@
-# UE Methodologie Scientifique - 2022/2023
+# Méthodologie Scientifique
 
-Ce dépôt contient les ressources pour l'UE Méthodologie Scientifique de l'Université de Bordeaux. Il a été mis en place par [Alexandre Blanché](https://www.labri.fr/perso/ablanche/), [Guy Melançon](https://www.labri.fr/profil/Melancon_ID1094543956) et [Rohan Fossé](https://rohanfosse.com).
+## Informations générales sur les objectis de l'UE
 
-Le GitHub et la page Web ont été créée par [Rohan Fossé](https://rohanfosse.com).
+Toutes les informations sur l'UE sont disponible sur le moodle consultable [ici](https://moodle1.u-bordeaux.fr/course/view.php?id=8779)
 
-## Site Web
+---
 
-Le cours de méthodologie présenté ici est disponible en ligne à l'adresse suivante: [https://rohanfosse.com/methodologie](https://rohanfosse.com/methodologie)
+### OBJECTIF 1: S’approprier progressivement les fondamentaux de la démarche scientifique
 
-Il est cependant possible d'héberger ce site sur votre propre serveur ou votre propre GitHub Pages.
+Cet objectif sera décliné sous forme de 3 Ateliers d'une durée moyenne de 2h40 chacun.
 
-### Héberger le site sur votre propre serveur
+<div class="effet_atelier">
 
-Le site Web est disponible dans le dossier `SiteWeb` de ce dépot.
+#### [Atelier 1: Les méthodes scientifiques](SiteWeb/Ateliers/Atelier1.md)
 
-Pour héberger le site Web sur votre propre serveur, vous aurez besoin d'un serveur Web (Apache, Nginx, etc.) et d'un interpréteur PHP (PHP 7.4 ou supérieur).
+Sensibiliser les étudiants aux différents types de démarches et méthodes de raisonnement à travers des exemples et activités simples.
 
-#### Installation
+</div>
 
-Le site Web a été créé avec [Jekyll](https://jekyllrb.com/), un outil qui permet de générer des sites Web statiques à partir de fichiers Markdown.
+<div class="exemple_atelier">
 
-Pour installer Jekyll, vous aurez besoin de [Ruby](https://www.ruby-lang.org/en/) et de [RubyGems](https://rubygems.org/).
+#### [Atelier 2: Sources d’erreurs et biais cognitifs](SiteWeb/Ateliers/Atelier2.md)
 
-Pour installer Jekyll, exécutez la commande suivante, après avoir installé Ruby et RubyGems:
+Sensibiliser les étudiants aux différents biais cognitifs et de raisonnement, ainsi qu’aux sources d’erreurs expérimentales, aux incertitudes et à leurs estimations.
 
-```bash
-gem install jekyll bundler
-```
+</div>
 
-#### Générer le site Web
+<div class="alerte">
 
-Pour générer le site Web, exécutez la commande suivante dans le dossier `SiteWeb`:
+#### Atelier 3: Communication et interprétation des données
 
-```bash
-jekyll build
-```
+Représenter graphiquement des données, les commenter, les décrire et les interpréter.
 
-Le site Web sera généré dans le dossier `_site`.
+</div>
 
-#### Héberger le site Web
+---
 
-Pour héberger le site Web, copiez le contenu du dossier `_site` dans le dossier de votre serveur Web.
+### OBJECTIF 2:  Communiquer/transmettre à l’écrit et à l’oral des résultats scientifiques à une communauté de pairs
 
-### Héberger le site sur GitHub Pages
+Pour répondre à cet objectif, vous participerez à une animation de [la Fresque du Climat](https://fresqueduclimat.org/) et vous construirez un projet bibliographique autour du Développement Durable sur un sujet de votre choix.
 
-Le site Web est disponible dans le dossier `SiteWeb` de ce dépot. Il est possible de l'héberger sur GitHub Pages.
+Cet objectif sera travaillé au fil de l'eau sur le semestre.
+Vous travaillerez donc en équipe de 3 à 5 étudiants sur une thématique interdisciplinaire portant sur le développement durable.
 
-#### Mise en place de GitHub Pages
+Les objectifs de ce travail sont multiples:
 
-Pour cela, il faudra faire un fork de ce dépôt, puis activer GitHub Pages dans les paramètres du dépôt. L'onglet "Pages" des paramètres du dépôt permet de choisir la branche et le dossier à utiliser pour héberger le site Web.
+- Identifier et sélectionner diverses ressources pour documenter la thématique choisie
 
-Attention cependant, votre dépôt sera public. Si vous souhaitez que votre dépôt soit privé, il faudra utiliser un compte GitHub payant.
+- Travail sur la recherche bibliographique et la citation des sources
 
-Après avoir activé GitHub Pages, le site Web sera disponible à l'adresse suivante: https://votre-nom-d-utilisateur-github.github.io/methodologie-2023/ (en remplaçant `votre-nom-d-utilisateur-github` par votre nom d'utilisateur GitHub).
+- Extraire les informations essentielles / Analyser-synthétiser l’information
 
-L'URL du site Web peut être personnalisée en ajoutant un nom de domaine personnalisé. Pour cela, il faudra ajouter un fichier `CNAME` à la racine du dépôt, contenant le nom de domaine personnalisé. Il faudra ensuite configurer le nom de domaine personnalisé dans les paramètres du dépôt.
+- Communiquer à l'écrit et à l’oral sous forme d’un poster et d’une présentation orale
 
-#### Mise à jour du site Web
-
-Le site Web sera automatiquement mis à jour à chaque fois que vous ferez un `git push` sur votre dépôt.
-
-#### Changer le thème du site Web
-
-Le thème du site Web peut être changé en modifiant la variable `theme` dans le fichier `_config.yml`. La liste des thèmes disponibles est disponible à l'adresse suivante: https://pages.github.com/themes/
-
-## Licence
-
-Le contenu de ce dépôt est disponible sous la licence [MIT](https://opensource.org/licenses/MIT). Cela signifie simplement que vous pouvez utiliser, modifier et redistribuer le contenu de ce dépôt, à condition de citer les auteurs originaux et de conserver la même licence.
-
+[Plus d'informations sur le projet bibliographique](Projet.md)
