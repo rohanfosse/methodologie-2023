@@ -29,7 +29,7 @@ Vous pourrez trouver une liste non-exhaustive d'arguments fallacieux et de biais
 
 <div class="alerte">
 
-#### Atelier 3: Communication et interprétation des données
+#### Atelier 3: [Communication et interprétation des données](SiteWeb/Ateliers/Atelier3.md)
 
 Représenter graphiquement des données, les commenter, les décrire et les interpréter.
 
@@ -54,4 +54,4 @@ Les objectifs de ce travail sont multiples:
 
 - Communiquer à l'écrit et à l’oral sous forme d’un poster et d’une présentation orale
 
-[Plus d'informations sur le projet bibliographique](/Projet.md)
+[Plus d'informations sur le projet bibliographique](SiteWeb/Projet.md)

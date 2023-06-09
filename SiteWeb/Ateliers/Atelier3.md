@@ -1,5 +1,5 @@
 <p style="text-align:left;">
-    [Retour au sommaire](../README.md)
+    [Retour au sommaire](../../README.md)
 </p>
 
 # Atelier3 - Communication et interprétation des données
@@ -70,3 +70,6 @@ L'applet Javascript ci-dessous vous permettra d'expérimenter les trois différe
 Comme dans les figures ci-dessus, la cible est un cercle rouge. Les éléments d'arrière-plan sont soit des cercles bleus (lors des recherches de couleur), soit des carrés rouges (lors des recherches de forme), soit des cercles bleus et des carrés rouges (lors des recherches de conjonction). Le curseur "Durée d'exposition" vous permet de contrôler la durée d'affichage de chaque écran (de 100 à 1000 msec).
 
 Le curseur "Elements per Display :" vous permet de contrôler le nombre total d'éléments dans chaque affichage (d'un minimum de 10 à un maximum de 70). Le curseur "Nombre d'essais" vous permet de contrôler le nombre d'affichages à effectuer.
+
+
+## TODO: Ecrire le reste de la section
