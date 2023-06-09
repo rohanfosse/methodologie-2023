@@ -75,12 +75,10 @@ Une généralisation statistique est un type d'argument inductif dans lequel une
 <div class="theorem_atelier">
 Sur un échantillon aléatoire non négligeable de votants interrogés, 66 % soutiennent la mesure Z.
 
-Par conséquent, environ 66 % des électeurs soutiennent la mesure Z. 
+Par conséquent, environ 66 % des électeurs soutiennent la mesure Z.
 </div>
 
-
 La mesure est très fiable, avec une marge d'erreur bien définie, à condition que l'échantillon soit important et aléatoire. Elle est facilement quantifiable.
-
 
 ##### Généralisation anecdotique <a href = "https://fr.wikipedia.org/wiki/Preuve_anecdotique" target = "_blank"> <img src = "images/chain.png"  height = "15" width="15"/> </a>
 
@@ -91,7 +89,6 @@ Jusqu'à présent, cette année, l'équipe de football de mon fils a remporté 6
 
 Par conséquent, à la fin de la saison, ils auront gagné environ 60 % des matchs.
 </div>
-
 
 Cette déduction est moins fiable (et donc plus susceptible de commettre l'erreur de la généralisation hâtive) qu'une généralisation statistique, d'abord parce que les événements de l'échantillon ne sont pas aléatoires, et ensuite parce qu'elle n'est pas réductible à l'expression mathématique.
 
