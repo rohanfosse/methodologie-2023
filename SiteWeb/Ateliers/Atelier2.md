@@ -146,9 +146,9 @@ Le **biais de stéréotypage** est un biais cognitif qui se produit lorsque nous
 Le **biais d'autorité** est un biais cognitif qui se produit lorsque nous avons tendance à croire les informations provenant d'une personne ou d'une organisation qui est perçue comme étant plus compétente ou plus crédible que nous.
 
 <div class="theorem_atelier">
-La ou les personnes A affirment que X est vrai.
+La ou les personne(s) A affirment que X est vrai.
 
-La ou les personnes A sont des experts dans le domaine concernant X.
+La ou les personne(s) A sont des experts dans le domaine concernant X.
 
 Par conséquent, il faut croire X.
 </div>
