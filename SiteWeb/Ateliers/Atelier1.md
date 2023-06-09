@@ -23,7 +23,7 @@ Une méthode scientifique est une démarche qui permet de répondre à une quest
 
 ---
 
-## Le raisonnement inductif <a href = "https://fr.wikipedia.org/wiki/Induction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
+## Le raisonnement inductif <a href = "https://fr.wikipedia.org/wiki/Induction_(logique)" target = "_blank"> <img src = "images/chain.png"  height = "15" width="15"/> </a>
 
 La démarche **inductive**, aussi appelée approche **empirico-inductive**, est une méthode scientifique qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
 
@@ -41,7 +41,7 @@ Les types de raisonnement inductif comprennent la généralisation, la prédicti
 
 #### La généralisation
 
-Une généralisation (plus précisément, une généralisation inductive) part d'une prémisse concernant un échantillon pour aboutir à une conclusion concernant la population. L'observation obtenue à partir de cet échantillon est projetée sur une population plus large. <a href = "https://www.google.fr/books/edition/A_Practical_Study_of_Argument_Enhanced_E/_1UJzgEACAAJ?hl=fr" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "10" width="10"/> </a>
+Une généralisation (plus précisément, une généralisation inductive) part d'une prémisse concernant un échantillon pour aboutir à une conclusion concernant la population. L'observation obtenue à partir de cet échantillon est projetée sur une population plus large. <a href = "https://www.google.fr/books/edition/A_Practical_Study_of_Argument_Enhanced_E/_1UJzgEACAAJ?hl=fr" target = "_blank"> <img src = "images/chain.png"  height = "10" width="10"/> </a>
 
 <div class="theorem_atelier">
 L'échantillon E de la population P possède l'attribut A.
@@ -68,7 +68,7 @@ Plus la taille de l'échantillon est importante par rapport à la population et 
 
 La généralisation hâtive et l'échantillon biaisé sont des erreurs de généralisation.
 
-##### Généralisation statistique <a href = "https://fr.wikipedia.org/wiki/Syllogisme_statistique" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
+##### Généralisation statistique <a href = "https://fr.wikipedia.org/wiki/Syllogisme_statistique" target = "_blank"> <img src = "images/chain.png"  height = "15" width="15"/> </a>
 
 Une généralisation statistique est un type d'argument inductif dans lequel une conclusion concernant une population est déduite à l'aide d'un échantillon statistiquement représentatif.
 
@@ -82,7 +82,7 @@ Par conséquent, environ 66 % des électeurs soutiennent la mesure Z.
 La mesure est très fiable, avec une marge d'erreur bien définie, à condition que l'échantillon soit important et aléatoire. Elle est facilement quantifiable.
 
 
-##### Généralisation anecdotique <a href = "https://fr.wikipedia.org/wiki/Preuve_anecdotique" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
+##### Généralisation anecdotique <a href = "https://fr.wikipedia.org/wiki/Preuve_anecdotique" target = "_blank"> <img src = "images/chain.png"  height = "15" width="15"/> </a>
 
 Une généralisation anecdotique est un type d'argument inductif dans lequel une conclusion sur une population est déduite à l'aide d'un échantillon non statistique.En d'autres termes, la généralisation est basée sur des preuves anecdotiques.
 
@@ -97,9 +97,9 @@ Cette déduction est moins fiable (et donc plus susceptible de commettre l'erreu
 
 D'un point de vue statistique, il n'existe tout simplement aucun moyen de connaître, de mesurer et de calculer les circonstances affectant les performances qui se produiront à l'avenir.
 
-D'un point de vue philosophique, l'argument repose sur le présupposé que le fonctionnement des événements futurs sera le reflet du passé. En d'autres termes, il prend pour acquis l'uniformité de la nature, un principe non prouvé qui ne peut être dérivé des données empiriques elles-mêmes. Les arguments qui présupposent tacitement cette uniformité sont parfois qualifiés de "humiens", du nom du philosophe qui a été le premier à les soumettre à un examen philosophique. <a href = "https://www.routledge.com/Introduction-to-Logic/Gensler/p/book/9781138910591" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "10" width="10"/> </a>
+D'un point de vue philosophique, l'argument repose sur le présupposé que le fonctionnement des événements futurs sera le reflet du passé. En d'autres termes, il prend pour acquis l'uniformité de la nature, un principe non prouvé qui ne peut être dérivé des données empiriques elles-mêmes. Les arguments qui présupposent tacitement cette uniformité sont parfois qualifiés de "humiens", du nom du philosophe qui a été le premier à les soumettre à un examen philosophique. <a href = "https://www.routledge.com/Introduction-to-Logic/Gensler/p/book/9781138910591" target = "_blank"> <img src = "images/chain.png" height = "10" width="10"/> </a>
 
-#### La prédiction <a href = "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5b5825da8bc88727b8418d3c392f03f0acd1f6be" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "10" width="10"/> </a>
+#### La prédiction <a href = "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5b5825da8bc88727b8418d3c392f03f0acd1f6be" target = "_blank"> <img src = "images/chain.png"  height = "10" width="10"/> </a>
 
 Une prédiction inductive tire une conclusion sur un cas futur, actuel ou passé à partir d'un échantillon d'autres cas. Tout comme la généralisation inductive, une prédiction inductive s'appuie sur un ensemble de données composé de cas spécifiques d'un phénomène.
  
@@ -112,7 +112,7 @@ Par conséquent, il existe une probabilité P que d'autres membres du groupe G a
 </div>
 
 
-##### Syllogisme statistique <a href = "https://fr.wikipedia.org/wiki/Syllogisme_statistique" target = "_blank"> <img src = "../fichiers/icons/chain.png"  height = "15" width="15"/> </a>
+##### Syllogisme statistique <a href = "https://fr.wikipedia.org/wiki/Syllogisme_statistique" target = "_blank"> <img src = "images/chain.png"  height = "15" width="15"/> </a>
 
 Un syllogisme statistique part d'une généralisation sur un groupe pour aboutir à une conclusion sur un individu.
 
@@ -136,7 +136,7 @@ Même si l'on ne peut pas être sûr que Bob ira à l'université, nous pouvons 
 
 En règle générale, le raisonnement inductif cherche à formuler une probabilité.
 
-##### Inférence analogique <a href = "https://en.wikipedia.org/wiki/Argument_from_analogy" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+##### Inférence analogique <a href = "https://en.wikipedia.org/wiki/Argument_from_analogy" target = "_blank"> <img src = "images/chain.png" height = "15" width="15"/> </a>
 
 Le processus d'inférence analogique consiste à noter les propriétés communes de deux ou plusieurs choses et à en déduire qu'elles partagent également d'autres propriétés :
 
@@ -171,7 +171,7 @@ La démarche inductive est utile lorsque vous étudiez un sujet ou un phénomèn
 
 ---
 
-## Le raisonnement déductif <a href = "https://fr.wikipedia.org/wiki/Raisonnement_d%C3%A9ductif" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+## Le raisonnement déductif <a href = "https://fr.wikipedia.org/wiki/Raisonnement_d%C3%A9ductif" target = "_blank"> <img src = "images/chain.png" height = "15" width="15"/> </a>
 
 Le **raisonnement déductif** , aussi appelée **déduction logique** est une méthode de travail scientifique. Elle a pour but d’expliquer un phénomène en partant d’un sujet ou d’une hypothèse sur un phénomène. On ne part donc pas de faits observables (méthode inductive).
 
@@ -186,7 +186,7 @@ La confirmation ou la non-confirmation des hypothèses de travail doit permettre
 > “La déduction sert aux économistes comme elle sert aux astronomes, aux physiciens, etc.
  D’un certain principe A, on déduit les conséquences B, C, D etc. ; celles-ci se trouvent vérifiées par l’observation ou par l’expérience, et c’est cette vérification qui rend probable A ; ce n’est pas le moins du monde A qui prouve B, C, D”. (Vilfred, 1984).
 
-#### Règles de déduction <a href = "https://en.wikipedia.org/wiki/Rule_of_inference" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+#### Règles de déduction <a href = "https://en.wikipedia.org/wiki/Rule_of_inference" target = "_blank"> <img src = "images/chain.png" height = "15" width="15"/> </a>
 
 ##### Définitions
 
@@ -201,10 +201,10 @@ Un argument particulier est valide s'il suit une règle d'inférence valide.
 Les arguments déductifs qui ne suivent pas une règle d'inférence valide sont appelés des sophismes formels.
 
 
-##### Principales règles d'inférence <a href = "https://en.wikipedia.org/wiki/Rule_of_inference" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+##### Principales règles d'inférence <a href = "https://en.wikipedia.org/wiki/Rule_of_inference" target = "_blank"> <img src = "images/chain.png" height = "15" width="15"/> </a>
 
 
-###### Modus ponens <a href = "https://fr.wikipedia.org/wiki/Modus_ponens" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+###### Modus ponens <a href = "https://fr.wikipedia.org/wiki/Modus_ponens" target = "_blank"> <img src = "images/chain.png" height = "15" width="15"/> </a>
 
 Le **modus ponens** (également connu sous le nom d'**affirmation de l'antécédent** ou de **loi du détachement**) est la principale règle d'inférence déductive. Elle a pour forme :
 
@@ -229,7 +229,7 @@ Ainsi, il y a des nuages dans le ciel.
 
 </div>
 
-###### Modus tollens <a href = "https://fr.wikipedia.org/wiki/Modus_tollens" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "10" width="10"/> </a>
+###### Modus tollens <a href = "https://fr.wikipedia.org/wiki/Modus_tollens" target = "_blank"> <img src = "images/chain.png" height = "10" width="10"/> </a>
 
 Le **modus tollens** (également connu sous le nom de **loi de la contraposée** ) est une règle d'inférence déductive.
 
@@ -258,7 +258,7 @@ Ainsi, il ne pleut pas.
 
 </div>
 
-###### Syllogisme Hypothétique <a href = "https://en.wikipedia.org/wiki/Hypothetical_syllogism" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "10" width="10"/> </a>
+###### Syllogisme Hypothétique <a href = "https://en.wikipedia.org/wiki/Hypothetical_syllogism" target = "_blank"> <img src = "images/chain.png" height = "10" width="10"/> </a>
 
 Un **syllogisme hypothétique** est une inférence qui prend deux énoncés conditionnels et forme une conclusion en combinant l'hypothèse d'un énoncé avec la conclusion d'un autre. En voici la forme générale :
 
@@ -285,7 +285,7 @@ Ainsi, s'il y avait eu un orage, les choses auraient été mouillées.
 
 ---
 
-## Le raisonnement par abduction <a href = "https://fr.wikipedia.org/wiki/Abduction_(logique)" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+## Le raisonnement par abduction <a href = "https://fr.wikipedia.org/wiki/Abduction_(logique)" target = "_blank"> <img src = "images/chain.png" height = "15" width="15"/> </a>
 
 Un **raisonnement par abduction** consiste, en observant un ou plusieurs faits **A1**, **A2**, **A3**, etc; dont on connaît une cause possible et la plus vraisemblable **B**, à prendre **B** comme hypothèse pour affirmer qu'elle est probablement la cause de **A1**, **A2**, **A3**, etc. en particulier.
 
@@ -318,7 +318,7 @@ La démarche abductive est une méthode de travail scientifique qui consiste à 
 
 ---
 
-## Démarche hypothético-déductive <a href = "https://fr.wikipedia.org/wiki/M%C3%A9thode_hypoth%C3%A9tico-d%C3%A9ductive" target = "_blank"> <img src = "../fichiers/icons/chain.png" height = "15" width="15"/> </a>
+## Démarche hypothético-déductive <a href = "https://fr.wikipedia.org/wiki/M%C3%A9thode_hypoth%C3%A9tico-d%C3%A9ductive" target = "_blank"> <img src = "images/chain.png" height = "15" width="15"/> </a>
 
 En sciences expérimentales, la **démarche hypothético-déductive** est une façon de conduire la recherche qui associe **théorie** et **pratique** selon une séquence définie.
 
