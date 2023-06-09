@@ -20,7 +20,7 @@ Sensibiliser les étudiants aux différents types de démarches et méthodes de 
 
 <div class="exemple_atelier">
 
-#### [Atelier 2: Sources d’erreurs et biais cognitifs](Ateliers/Atelier2.md)
+#### [Atelier 2: Sources d’erreurs et biais cognitifs](/Ateliers/Atelier2.md)
 
 Sensibiliser les étudiants aux différents biais cognitifs et de raisonnement, ainsi qu’aux sources d’erreurs expérimentales, aux incertitudes et à leurs estimations.
 
@@ -53,4 +53,4 @@ Les objectifs de ce travail sont multiples:
 
 - Communiquer à l'écrit et à l’oral sous forme d’un poster et d’une présentation orale
 
-[Plus d'informations sur le projet bibliographique](Projet.md)
+[Plus d'informations sur le projet bibliographique](/Projet.md)
