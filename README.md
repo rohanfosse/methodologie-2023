@@ -12,7 +12,7 @@ Cet objectif sera décliné sous forme de 3 Ateliers d'une durée moyenne de 2h4
 
 <div class="effet_atelier">
 
-#### [Atelier 1: Les méthodes scientifiques](Ateliers/Atelier1.md)
+#### [Atelier 1: Les méthodes scientifiques](SiteWeb/Ateliers/Atelier1.md)
 
 Découvrir les méthodes scientifiques et les principes de la démarche scientifique. On y abordera les différents raisonnements et les différentes méthodes de recherche.
 
@@ -20,7 +20,7 @@ Découvrir les méthodes scientifiques et les principes de la démarche scientif
 
 <div class="exemple_atelier">
 
-#### [Atelier 2: Sources d’erreurs et biais cognitifs](Ateliers/Atelier2.md)
+#### [Atelier 2: Sources d’erreurs et biais cognitifs](SiteWeb/Ateliers/Atelier2.md)
 
 Dans cet atelier, on abordera les sources d’erreurs et les biais cognitifs qui peuvent affecter la démarche scientifique.
 Vous pourrez trouver une liste non-exhaustive d'arguments fallacieux et de biais cognitifs.
