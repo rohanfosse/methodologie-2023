@@ -12,7 +12,7 @@ Cet objectif sera décliné sous forme de 3 Ateliers d'une durée moyenne de 2h4
 
 <div class="effet_atelier">
 
-#### [Atelier 1: Les méthodes scientifiques](/Ateliers/Atelier1.md)
+#### [Atelier 1: Les méthodes scientifiques](/SiteWeb/Ateliers/Atelier1.md)
 
 Sensibiliser les étudiants aux différents types de démarches et méthodes de raisonnement à travers des exemples et activités simples.
 
