@@ -1,6 +1,6 @@
 # Méthodologie Scientifique
 
-## Informations générales sur les objectis de l'UE
+## Informations générales sur les objectifs de l'UE
 
 Toutes les informations sur l'UE sont disponible sur le moodle consultable [ici](https://moodle1.u-bordeaux.fr/course/view.php?id=8779)
 
@@ -14,7 +14,7 @@ Cet objectif sera décliné sous forme de 3 Ateliers d'une durée moyenne de 2h4
 
 #### [Atelier 1: Les méthodes scientifiques](Ateliers/Atelier1.md)
 
-Sensibiliser les étudiants aux différents types de démarches et méthodes de raisonnement à travers des exemples et activités simples.
+Découvrir les méthodes scientifiques et les principes de la démarche scientifique. On y abordera les différents raisonnements et les différentes méthodes de recherche.
 
 </div>
 
@@ -22,7 +22,8 @@ Sensibiliser les étudiants aux différents types de démarches et méthodes de 
 
 #### [Atelier 2: Sources d’erreurs et biais cognitifs](Ateliers/Atelier2.md)
 
-Sensibiliser les étudiants aux différents biais cognitifs et de raisonnement, ainsi qu’aux sources d’erreurs expérimentales, aux incertitudes et à leurs estimations.
+Dans cet atelier, on abordera les sources d’erreurs et les biais cognitifs qui peuvent affecter la démarche scientifique.
+Vous pourrez trouver une liste non-exhaustive d'arguments fallacieux et de biais cognitifs.
 
 </div>
 
